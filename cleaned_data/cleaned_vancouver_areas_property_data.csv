@@ -1,0 +1,2170 @@
+Date,Area,Benchmark,Price Index
+2005-01,Vancouver East,"$320,500",100.0
+2005-01,Burnaby South,"$322,700",100.0
+2005-01,Vancouver West,"$421,600",100.0
+2005-01,West Vancouver,"$926,800",100.0
+2005-01,New Westminster,"$218,500",100.0
+2005-01,Coquitlam,"$318,300",100.0
+2005-01,Burnaby North,"$300,100",100.0
+2005-01,North Vancouver,"$429,500",100.0
+2005-01,Richmond,"$303,700",100.0
+2005-02,Richmond,"$305,500",100.6
+2005-02,Burnaby South,"$325,500",100.9
+2005-02,Vancouver East,"$323,900",101.1
+2005-02,Vancouver West,"$428,100",101.5
+2005-02,New Westminster,"$220,800",101.1
+2005-02,North Vancouver,"$432,400",100.7
+2005-02,Burnaby North,"$302,500",100.8
+2005-02,Coquitlam,"$320,500",100.7
+2005-02,West Vancouver,"$936,200",101.0
+2005-03,Burnaby North,"$304,900",101.6
+2005-03,Richmond,"$310,300",102.2
+2005-03,New Westminster,"$223,200",102.2
+2005-03,Coquitlam,"$322,800",101.4
+2005-03,North Vancouver,"$440,300",102.5
+2005-03,Vancouver West,"$435,100",103.2
+2005-03,Vancouver East,"$327,300",102.1
+2005-03,Burnaby South,"$328,400",101.8
+2005-03,West Vancouver,"$945,700",102.0
+2005-04,Burnaby North,"$307,300",102.4
+2005-04,Richmond,"$312,300",102.8
+2005-04,Burnaby South,"$331,200",102.6
+2005-04,New Westminster,"$225,500",103.2
+2005-04,North Vancouver,"$445,100",103.6
+2005-04,Vancouver East,"$330,700",103.2
+2005-04,West Vancouver,"$955,300",103.1
+2005-04,Vancouver West,"$438,900",104.1
+2005-04,Coquitlam,"$325,100",102.1
+2005-05,Burnaby South,"$334,100",103.5
+2005-05,New Westminster,"$227,900",104.3
+2005-05,Vancouver East,"$334,200",104.3
+2005-05,Richmond,"$313,700",103.3
+2005-05,Burnaby North,"$309,700",103.2
+2005-05,West Vancouver,"$965,000",104.1
+2005-05,Vancouver West,"$445,000",105.6
+2005-05,North Vancouver,"$449,300",104.6
+2005-05,Coquitlam,"$327,400",102.9
+2005-06,Coquitlam,"$329,700",103.6
+2005-06,Vancouver East,"$337,800",105.4
+2005-06,North Vancouver,"$451,900",105.2
+2005-06,Burnaby South,"$337,100",104.5
+2005-06,Richmond,"$317,000",104.4
+2005-06,Burnaby North,"$312,200",104.0
+2005-06,New Westminster,"$230,400",105.4
+2005-06,West Vancouver,"$974,800",105.2
+2005-06,Vancouver West,"$452,600",107.4
+2005-07,West Vancouver,"$990,900",106.9
+2005-07,Vancouver West,"$455,700",108.1
+2005-07,Burnaby North,"$317,600",105.8
+2005-07,Vancouver East,"$342,900",107.0
+2005-07,New Westminster,"$232,300",106.3
+2005-07,Burnaby South,"$341,700",105.9
+2005-07,North Vancouver,"$457,900",106.6
+2005-07,Coquitlam,"$333,100",104.6
+2005-07,Richmond,"$321,500",105.9
+2005-08,New Westminster,"$234,200",107.2
+2005-08,West Vancouver,"$1,007,300",108.7
+2005-08,North Vancouver,"$461,700",107.5
+2005-08,Burnaby North,"$323,200",107.7
+2005-08,Coquitlam,"$336,600",105.7
+2005-08,Vancouver West,"$460,100",109.1
+2005-08,Vancouver East,"$348,200",108.6
+2005-08,Richmond,"$322,800",106.3
+2005-08,Burnaby South,"$346,400",107.3
+2005-09,Vancouver East,"$353,500",110.3
+2005-09,Coquitlam,"$340,100",106.8
+2005-09,West Vancouver,"$1,024,100",110.5
+2005-09,New Westminster,"$236,200",108.1
+2005-09,Richmond,"$331,000",109.0
+2005-09,Vancouver West,"$473,800",112.4
+2005-09,Burnaby North,"$328,800",109.6
+2005-09,Burnaby South,"$351,200",108.8
+2005-09,North Vancouver,"$467,800",108.9
+2005-10,Coquitlam,"$342,900",107.7
+2005-10,New Westminster,"$239,400",109.6
+2005-10,West Vancouver,"$1,036,300",111.8
+2005-10,Vancouver West,"$473,600",112.3
+2005-10,Burnaby South,"$354,000",109.7
+2005-10,Richmond,"$332,000",109.3
+2005-10,Vancouver East,"$355,600",111.0
+2005-10,Burnaby North,"$329,400",109.8
+2005-10,North Vancouver,"$469,900",109.4
+2005-11,Richmond,"$335,600",110.5
+2005-11,Vancouver East,"$357,800",111.6
+2005-11,Burnaby North,"$329,900",109.9
+2005-11,Vancouver West,"$473,100",112.2
+2005-11,New Westminster,"$242,600",111.0
+2005-11,Burnaby South,"$357,000",110.6
+2005-11,Coquitlam,"$345,700",108.6
+2005-11,North Vancouver,"$474,500",110.5
+2005-11,West Vancouver,"$1,048,800",113.2
+2005-12,Coquitlam,"$348,500",109.5
+2005-12,North Vancouver,"$473,900",110.3
+2005-12,Burnaby South,"$359,900",111.5
+2005-12,Vancouver East,"$360,100",112.4
+2005-12,West Vancouver,"$1,061,500",114.5
+2005-12,Richmond,"$339,500",111.8
+2005-12,Burnaby North,"$330,500",110.1
+2005-12,Vancouver West,"$476,700",113.1
+2005-12,New Westminster,"$245,900",112.5
+2006-01,Coquitlam,"$355,600",111.7
+2006-01,West Vancouver,"$1,073,000",115.8
+2006-01,Vancouver East,"$368,600",115.0
+2006-01,Vancouver West,"$488,700",115.9
+2006-01,New Westminster,"$252,000",115.3
+2006-01,Burnaby South,"$367,600",113.9
+2006-01,Richmond,"$348,300",114.7
+2006-01,Burnaby North,"$337,700",112.5
+2006-01,North Vancouver,"$484,500",112.8
+2006-02,New Westminster,"$258,400",118.3
+2006-02,Vancouver West,"$500,400",118.7
+2006-02,Burnaby South,"$375,500",116.4
+2006-02,West Vancouver,"$1,084,700",117.0
+2006-02,Richmond,"$356,400",117.4
+2006-02,Vancouver East,"$377,300",117.7
+2006-02,Burnaby North,"$345,000",115.0
+2006-02,Coquitlam,"$362,900",114.0
+2006-02,North Vancouver,"$493,400",114.9
+2006-03,Vancouver West,"$511,900",121.4
+2006-03,Burnaby North,"$352,500",117.5
+2006-03,Coquitlam,"$370,300",116.3
+2006-03,West Vancouver,"$1,096,500",118.3
+2006-03,North Vancouver,"$500,300",116.5
+2006-03,Richmond,"$363,300",119.6
+2006-03,Burnaby South,"$383,500",118.8
+2006-03,New Westminster,"$264,800",121.2
+2006-03,Vancouver East,"$386,200",120.5
+2006-04,Burnaby North,"$359,600",119.8
+2006-04,North Vancouver,"$510,400",118.8
+2006-04,Vancouver West,"$524,800",124.5
+2006-04,Richmond,"$371,600",122.4
+2006-04,New Westminster,"$271,600",124.3
+2006-04,Burnaby South,"$391,700",121.4
+2006-04,West Vancouver,"$1,119,800",120.8
+2006-04,Vancouver East,"$395,500",123.4
+2006-04,Coquitlam,"$377,900",118.7
+2006-05,Richmond,"$378,600",124.7
+2006-05,Vancouver West,"$536,700",127.3
+2006-05,Burnaby North,"$366,800",122.2
+2006-05,New Westminster,"$278,500",127.5
+2006-05,North Vancouver,"$515,300",120.0
+2006-05,West Vancouver,"$1,143,500",123.4
+2006-05,Burnaby South,"$400,100",124.0
+2006-05,Coquitlam,"$385,600",121.1
+2006-05,Vancouver East,"$405,000",126.4
+2006-06,Coquitlam,"$393,500",123.6
+2006-06,Burnaby North,"$374,100",124.7
+2006-06,North Vancouver,"$522,500",121.7
+2006-06,New Westminster,"$285,600",130.7
+2006-06,Vancouver West,"$544,800",129.2
+2006-06,Richmond,"$388,000",127.8
+2006-06,Burnaby South,"$408,700",126.7
+2006-06,Vancouver East,"$414,800",129.4
+2006-06,West Vancouver,"$1,167,900",126.0
+2006-07,Richmond,"$391,100",128.8
+2006-07,Burnaby North,"$376,900",125.6
+2006-07,West Vancouver,"$1,178,900",127.2
+2006-07,Vancouver West,"$551,400",130.8
+2006-07,North Vancouver,"$526,600",122.6
+2006-07,Burnaby South,"$412,200",127.7
+2006-07,Coquitlam,"$396,900",124.7
+2006-07,Vancouver East,"$417,300",130.2
+2006-07,New Westminster,"$286,900",131.3
+2006-08,West Vancouver,"$1,190,100",128.4
+2006-08,Vancouver West,"$557,300",132.2
+2006-08,Burnaby South,"$415,700",128.8
+2006-08,Vancouver East,"$419,800",131.0
+2006-08,Coquitlam,"$400,400",125.8
+2006-08,Burnaby North,"$379,600",126.5
+2006-08,Richmond,"$393,300",129.5
+2006-08,New Westminster,"$288,200",131.9
+2006-08,North Vancouver,"$527,300",122.8
+2006-09,Vancouver East,"$422,400",131.8
+2006-09,Coquitlam,"$403,900",126.9
+2006-09,Burnaby North,"$382,500",127.5
+2006-09,West Vancouver,"$1,201,500",129.6
+2006-09,Richmond,"$397,700",131.0
+2006-09,New Westminster,"$289,500",132.5
+2006-09,North Vancouver,"$530,200",123.4
+2006-09,Vancouver West,"$560,400",132.9
+2006-09,Burnaby South,"$419,300",129.9
+2006-10,Burnaby South,"$419,200",129.9
+2006-10,North Vancouver,"$527,500",122.8
+2006-10,Burnaby North,"$382,000",127.3
+2006-10,New Westminster,"$290,200",132.8
+2006-10,West Vancouver,"$1,198,600",129.3
+2006-10,Richmond,"$395,900",130.4
+2006-10,Vancouver East,"$422,100",131.7
+2006-10,Vancouver West,"$559,600",132.7
+2006-10,Coquitlam,"$404,300",127.0
+2006-11,New Westminster,"$290,900",133.1
+2006-11,Burnaby South,"$419,200",129.9
+2006-11,North Vancouver,"$526,500",122.6
+2006-11,Burnaby North,"$381,500",127.1
+2006-11,Richmond,"$394,300",129.8
+2006-11,Coquitlam,"$404,800",127.2
+2006-11,Vancouver West,"$556,400",132.0
+2006-11,Vancouver East,"$421,800",131.6
+2006-11,West Vancouver,"$1,195,700",129.0
+2006-12,Richmond,"$394,200",129.8
+2006-12,Vancouver East,"$421,500",131.5
+2006-12,West Vancouver,"$1,192,900",128.7
+2006-12,New Westminster,"$291,600",133.5
+2006-12,Vancouver West,"$553,100",131.2
+2006-12,Coquitlam,"$405,200",127.3
+2006-12,Burnaby South,"$419,200",129.9
+2006-12,Burnaby North,"$381,100",127.0
+2006-12,North Vancouver,"$524,400",122.1
+2007-01,Coquitlam,"$411,200",129.2
+2007-01,Burnaby South,"$423,100",131.1
+2007-01,Richmond,"$398,800",131.3
+2007-01,Vancouver East,"$427,100",133.3
+2007-01,North Vancouver,"$539,600",125.6
+2007-01,Vancouver West,"$564,600",133.9
+2007-01,New Westminster,"$295,000",135.0
+2007-01,Burnaby North,"$386,500",128.8
+2007-01,West Vancouver,"$1,210,600",130.6
+2007-02,Richmond,"$404,100",133.1
+2007-02,Coquitlam,"$417,300",131.1
+2007-02,North Vancouver,"$548,700",127.8
+2007-02,Burnaby North,"$391,900",130.6
+2007-02,Burnaby South,"$427,200",132.4
+2007-02,West Vancouver,"$1,228,700",132.6
+2007-02,New Westminster,"$298,400",136.6
+2007-02,Vancouver West,"$577,600",137.0
+2007-02,Vancouver East,"$432,700",135.0
+2007-03,New Westminster,"$301,900",138.2
+2007-03,North Vancouver,"$559,700",130.3
+2007-03,Burnaby North,"$397,500",132.5
+2007-03,West Vancouver,"$1,247,000",134.5
+2007-03,Vancouver West,"$589,100",139.7
+2007-03,Coquitlam,"$423,500",133.1
+2007-03,Richmond,"$408,900",134.6
+2007-03,Vancouver East,"$438,400",136.8
+2007-03,Burnaby South,"$431,300",133.7
+2007-04,Burnaby South,"$437,600",135.6
+2007-04,West Vancouver,"$1,272,700",137.3
+2007-04,Coquitlam,"$428,300",134.6
+2007-04,Richmond,"$415,200",136.7
+2007-04,Burnaby North,"$403,300",134.4
+2007-04,New Westminster,"$306,500",140.3
+2007-04,Vancouver West,"$602,500",142.9
+2007-04,North Vancouver,"$571,900",133.2
+2007-04,Vancouver East,"$445,700",139.1
+2007-05,West Vancouver,"$1,299,000",140.2
+2007-05,Burnaby South,"$443,900",137.6
+2007-05,Coquitlam,"$433,200",136.1
+2007-05,Burnaby North,"$409,200",136.4
+2007-05,Vancouver West,"$610,600",144.8
+2007-05,New Westminster,"$311,100",142.4
+2007-05,Vancouver East,"$453,100",141.4
+2007-05,Richmond,"$420,600",138.5
+2007-05,North Vancouver,"$581,100",135.3
+2007-06,Richmond,"$424,300",139.7
+2007-06,Vancouver East,"$460,700",143.7
+2007-06,North Vancouver,"$597,000",139.0
+2007-06,Coquitlam,"$438,200",137.7
+2007-06,Burnaby North,"$415,200",138.4
+2007-06,West Vancouver,"$1,325,800",143.1
+2007-06,Vancouver West,"$621,200",147.3
+2007-06,New Westminster,"$315,800",144.5
+2007-06,Burnaby South,"$450,300",139.5
+2007-07,Burnaby South,"$453,900",140.7
+2007-07,West Vancouver,"$1,337,400",144.3
+2007-07,Vancouver West,"$629,000",149.2
+2007-07,Coquitlam,"$440,900",138.5
+2007-07,Richmond,"$428,400",141.1
+2007-07,Burnaby North,"$418,100",139.3
+2007-07,Vancouver East,"$464,600",145.0
+2007-07,New Westminster,"$317,300",145.2
+2007-07,North Vancouver,"$595,800",138.7
+2007-08,Burnaby North,"$421,000",140.3
+2007-08,Richmond,"$433,600",142.8
+2007-08,Burnaby South,"$457,600",141.8
+2007-08,New Westminster,"$318,800",145.9
+2007-08,Coquitlam,"$443,700",139.4
+2007-08,Vancouver East,"$468,500",146.2
+2007-08,West Vancouver,"$1,349,100",145.6
+2007-08,Vancouver West,"$636,300",150.9
+2007-08,North Vancouver,"$593,300",138.1
+2007-09,New Westminster,"$320,300",146.6
+2007-09,North Vancouver,"$600,300",139.8
+2007-09,Vancouver East,"$472,500",147.4
+2007-09,Burnaby South,"$461,200",142.9
+2007-09,Richmond,"$439,100",144.6
+2007-09,West Vancouver,"$1,360,900",146.8
+2007-09,Vancouver West,"$641,000",152.0
+2007-09,Burnaby North,"$423,900",141.3
+2007-09,Coquitlam,"$446,500",140.3
+2007-10,Burnaby North,"$425,600",141.8
+2007-10,North Vancouver,"$600,900",139.9
+2007-10,West Vancouver,"$1,363,300",147.1
+2007-10,Burnaby South,"$461,700",143.1
+2007-10,New Westminster,"$322,000",147.4
+2007-10,Vancouver West,"$645,600",153.1
+2007-10,Richmond,"$437,000",143.9
+2007-10,Vancouver East,"$473,500",147.7
+2007-10,Coquitlam,"$447,900",140.7
+2007-11,Vancouver East,"$474,600",148.1
+2007-11,Vancouver West,"$649,500",154.1
+2007-11,West Vancouver,"$1,365,800",147.4
+2007-11,North Vancouver,"$605,500",141.0
+2007-11,New Westminster,"$323,700",148.1
+2007-11,Coquitlam,"$449,300",141.2
+2007-11,Burnaby South,"$462,300",143.3
+2007-11,Burnaby North,"$427,300",142.4
+2007-11,Richmond,"$441,100",145.2
+2007-12,Richmond,"$441,400",145.3
+2007-12,Coquitlam,"$450,700",141.6
+2007-12,North Vancouver,"$607,300",141.4
+2007-12,Vancouver West,"$660,300",156.6
+2007-12,West Vancouver,"$1,368,400",147.6
+2007-12,Burnaby North,"$429,000",143.0
+2007-12,New Westminster,"$325,400",148.9
+2007-12,Burnaby South,"$462,800",143.4
+2007-12,Vancouver East,"$475,700",148.4
+2008-01,Burnaby North,"$435,500",145.1
+2008-01,New Westminster,"$329,000",150.6
+2008-01,Coquitlam,"$456,200",143.3
+2008-01,Richmond,"$450,000",148.2
+2008-01,North Vancouver,"$621,900",144.8
+2008-01,Vancouver East,"$481,800",150.3
+2008-01,West Vancouver,"$1,388,300",149.8
+2008-01,Burnaby South,"$468,900",145.3
+2008-01,Vancouver West,"$665,400",157.8
+2008-02,Burnaby South,"$473,200",146.6
+2008-02,Coquitlam,"$462,500",145.3
+2008-02,New Westminster,"$333,000",152.4
+2008-02,Vancouver West,"$670,100",158.9
+2008-02,Burnaby North,"$441,600",147.2
+2008-02,Vancouver East,"$488,200",152.3
+2008-02,Richmond,"$456,400",150.3
+2008-02,West Vancouver,"$1,418,200",153.0
+2008-02,North Vancouver,"$629,800",146.6
+2008-03,Vancouver East,"$494,000",154.1
+2008-03,Burnaby South,"$478,600",148.3
+2008-03,Burnaby North,"$448,200",149.4
+2008-03,Richmond,"$463,900",152.7
+2008-03,Coquitlam,"$468,200",147.1
+2008-03,North Vancouver,"$641,100",149.3
+2008-03,New Westminster,"$335,900",153.7
+2008-03,West Vancouver,"$1,434,400",154.8
+2008-03,Vancouver West,"$681,200",161.6
+2008-04,North Vancouver,"$640,500",149.1
+2008-04,Vancouver East,"$495,300",154.5
+2008-04,Burnaby North,"$447,500",149.1
+2008-04,West Vancouver,"$1,434,300",154.8
+2008-04,New Westminster,"$336,900",154.2
+2008-04,Coquitlam,"$469,000",147.3
+2008-04,Burnaby South,"$480,500",148.9
+2008-04,Richmond,"$468,700",154.3
+2008-04,Vancouver West,"$680,600",161.4
+2008-05,Vancouver East,"$496,700",155.0
+2008-05,Burnaby South,"$481,700",149.3
+2008-05,West Vancouver,"$1,429,300",154.2
+2008-05,Richmond,"$469,400",154.6
+2008-05,Coquitlam,"$470,000",147.7
+2008-05,New Westminster,"$339,900",155.6
+2008-05,Burnaby North,"$446,600",148.8
+2008-05,Vancouver West,"$679,300",161.1
+2008-05,North Vancouver,"$639,100",148.8
+2008-06,New Westminster,"$342,100",156.6
+2008-06,Burnaby South,"$482,300",149.5
+2008-06,Vancouver West,"$677,900",160.8
+2008-06,Burnaby North,"$445,500",148.5
+2008-06,North Vancouver,"$638,500",148.7
+2008-06,Vancouver East,"$498,400",155.5
+2008-06,Coquitlam,"$472,200",148.4
+2008-06,Richmond,"$469,000",154.4
+2008-06,West Vancouver,"$1,431,600",154.5
+2008-07,Burnaby South,"$473,500",146.7
+2008-07,Vancouver West,"$659,800",156.5
+2008-07,Coquitlam,"$464,000",145.8
+2008-07,North Vancouver,"$630,700",146.8
+2008-07,West Vancouver,"$1,384,300",149.4
+2008-07,Vancouver East,"$491,300",153.3
+2008-07,Burnaby North,"$439,600",146.5
+2008-07,New Westminster,"$336,800",154.1
+2008-07,Richmond,"$463,300",152.6
+2008-08,Burnaby South,"$465,900",144.4
+2008-08,Vancouver East,"$484,400",151.1
+2008-08,North Vancouver,"$613,500",142.8
+2008-08,New Westminster,"$331,800",151.9
+2008-08,Vancouver West,"$651,300",154.5
+2008-08,Richmond,"$454,700",149.7
+2008-08,Coquitlam,"$455,800",143.2
+2008-08,Burnaby North,"$433,500",144.5
+2008-08,West Vancouver,"$1,338,800",144.5
+2008-09,Burnaby South,"$459,800",142.5
+2008-09,New Westminster,"$327,500",149.9
+2008-09,Burnaby North,"$427,100",142.3
+2008-09,Richmond,"$451,000",148.5
+2008-09,West Vancouver,"$1,290,100",139.2
+2008-09,Vancouver East,"$477,700",149.0
+2008-09,Vancouver West,"$636,300",150.9
+2008-09,North Vancouver,"$609,000",141.8
+2008-09,Coquitlam,"$448,100",140.8
+2008-10,Burnaby North,"$415,700",138.5
+2008-10,West Vancouver,"$1,221,200",131.8
+2008-10,Coquitlam,"$439,100",138.0
+2008-10,Vancouver West,"$612,700",145.3
+2008-10,New Westminster,"$319,600",146.3
+2008-10,Burnaby South,"$446,600",138.4
+2008-10,Richmond,"$437,500",144.1
+2008-10,Vancouver East,"$463,500",144.6
+2008-10,North Vancouver,"$587,600",136.8
+2008-11,Vancouver East,"$450,900",140.7
+2008-11,Coquitlam,"$430,500",135.2
+2008-11,New Westminster,"$312,300",142.9
+2008-11,Burnaby South,"$435,400",134.9
+2008-11,Vancouver West,"$587,200",139.3
+2008-11,Burnaby North,"$405,200",135.0
+2008-11,West Vancouver,"$1,155,500",124.7
+2008-11,North Vancouver,"$571,000",132.9
+2008-11,Richmond,"$431,100",141.9
+2008-12,Vancouver West,"$571,200",135.5
+2008-12,Richmond,"$418,000",137.6
+2008-12,North Vancouver,"$554,700",129.2
+2008-12,New Westminster,"$305,200",139.7
+2008-12,West Vancouver,"$1,095,000",118.1
+2008-12,Coquitlam,"$421,500",132.4
+2008-12,Burnaby South,"$423,900",131.4
+2008-12,Vancouver East,"$438,500",136.8
+2008-12,Burnaby North,"$395,100",131.7
+2009-01,Richmond,"$417,500",137.5
+2009-01,Burnaby South,"$421,900",130.7
+2009-01,West Vancouver,"$1,101,000",118.8
+2009-01,Burnaby North,"$392,900",130.9
+2009-01,Coquitlam,"$414,900",130.3
+2009-01,Vancouver East,"$438,000",136.7
+2009-01,North Vancouver,"$553,600",128.9
+2009-01,Vancouver West,"$572,300",135.7
+2009-01,New Westminster,"$303,900",139.1
+2009-02,Burnaby North,"$390,700",130.2
+2009-02,West Vancouver,"$1,102,100",118.9
+2009-02,Coquitlam,"$409,300",128.6
+2009-02,Burnaby South,"$419,100",129.9
+2009-02,Vancouver West,"$576,200",136.7
+2009-02,Vancouver East,"$438,200",136.7
+2009-02,Richmond,"$416,500",137.1
+2009-02,New Westminster,"$302,800",138.6
+2009-02,North Vancouver,"$545,500",127.0
+2009-03,New Westminster,"$301,800",138.1
+2009-03,North Vancouver,"$543,300",126.5
+2009-03,Vancouver East,"$437,400",136.5
+2009-03,Coquitlam,"$404,700",127.1
+2009-03,Burnaby South,"$415,700",128.8
+2009-03,Vancouver West,"$578,000",137.1
+2009-03,Richmond,"$416,800",137.2
+2009-03,Burnaby North,"$388,800",129.6
+2009-03,West Vancouver,"$1,103,400",119.1
+2009-04,Vancouver West,"$593,600",140.8
+2009-04,Coquitlam,"$407,100",127.9
+2009-04,Burnaby South,"$424,100",131.4
+2009-04,Richmond,"$421,600",138.8
+2009-04,North Vancouver,"$552,000",128.5
+2009-04,New Westminster,"$304,700",139.5
+2009-04,Vancouver East,"$444,100",138.6
+2009-04,Burnaby North,"$394,600",131.5
+2009-04,West Vancouver,"$1,118,400",120.7
+2009-05,Vancouver East,"$450,200",140.5
+2009-05,North Vancouver,"$559,500",130.3
+2009-05,Vancouver West,"$607,100",144.0
+2009-05,New Westminster,"$307,100",140.5
+2009-05,Coquitlam,"$410,200",128.9
+2009-05,Burnaby North,"$402,600",134.2
+2009-05,West Vancouver,"$1,125,600",121.5
+2009-05,Burnaby South,"$430,900",133.5
+2009-05,Richmond,"$431,900",142.2
+2009-06,New Westminster,"$310,100",141.9
+2009-06,Richmond,"$439,300",144.6
+2009-06,Burnaby North,"$409,000",136.3
+2009-06,Vancouver East,"$457,000",142.6
+2009-06,Coquitlam,"$415,400",130.5
+2009-06,West Vancouver,"$1,139,200",122.9
+2009-06,Vancouver West,"$623,300",147.8
+2009-06,Burnaby South,"$438,600",135.9
+2009-06,North Vancouver,"$568,300",132.3
+2009-07,Coquitlam,"$423,000",132.9
+2009-07,West Vancouver,"$1,167,200",125.9
+2009-07,Vancouver West,"$638,700",151.5
+2009-07,New Westminster,"$314,600",144.0
+2009-07,North Vancouver,"$579,200",134.9
+2009-07,Richmond,"$448,700",147.7
+2009-07,Burnaby South,"$446,400",138.3
+2009-07,Vancouver East,"$466,700",145.6
+2009-07,Burnaby North,"$414,900",138.3
+2009-08,Richmond,"$457,500",150.6
+2009-08,Vancouver West,"$656,400",155.7
+2009-08,West Vancouver,"$1,192,100",128.6
+2009-08,Burnaby South,"$454,900",141.0
+2009-08,Coquitlam,"$430,000",135.1
+2009-08,Vancouver East,"$477,800",149.1
+2009-08,Burnaby North,"$420,900",140.3
+2009-08,North Vancouver,"$590,800",137.6
+2009-08,New Westminster,"$319,100",146.0
+2009-09,West Vancouver,"$1,221,900",131.8
+2009-09,New Westminster,"$323,700",148.1
+2009-09,North Vancouver,"$603,100",140.4
+2009-09,Coquitlam,"$437,000",137.3
+2009-09,Richmond,"$467,900",154.1
+2009-09,Vancouver East,"$488,800",152.5
+2009-09,Burnaby North,"$428,000",142.6
+2009-09,Burnaby South,"$461,800",143.1
+2009-09,Vancouver West,"$674,000",159.9
+2009-10,Vancouver West,"$681,100",161.6
+2009-10,Vancouver East,"$496,100",154.8
+2009-10,Burnaby South,"$466,800",144.7
+2009-10,Burnaby North,"$433,800",144.6
+2009-10,Richmond,"$473,600",155.9
+2009-10,Coquitlam,"$442,500",139.0
+2009-10,New Westminster,"$326,900",149.6
+2009-10,West Vancouver,"$1,236,300",133.4
+2009-10,North Vancouver,"$610,000",142.0
+2009-11,Vancouver West,"$690,500",163.8
+2009-11,Richmond,"$482,000",158.7
+2009-11,West Vancouver,"$1,244,700",134.3
+2009-11,Vancouver East,"$502,900",156.9
+2009-11,Burnaby South,"$472,000",146.3
+2009-11,Burnaby North,"$437,700",145.9
+2009-11,Coquitlam,"$448,400",140.9
+2009-11,New Westminster,"$330,300",151.2
+2009-11,North Vancouver,"$616,400",143.5
+2009-12,Richmond,"$489,700",161.2
+2009-12,West Vancouver,"$1,253,100",135.2
+2009-12,Coquitlam,"$453,900",142.6
+2009-12,New Westminster,"$333,100",152.4
+2009-12,North Vancouver,"$627,800",146.2
+2009-12,Burnaby North,"$442,800",147.6
+2009-12,Vancouver East,"$509,200",158.9
+2009-12,Vancouver West,"$698,600",165.7
+2009-12,Burnaby South,"$476,200",147.6
+2010-01,Vancouver East,"$514,600",160.6
+2010-01,New Westminster,"$334,000",152.9
+2010-01,Coquitlam,"$459,800",144.5
+2010-01,Richmond,"$500,300",164.7
+2010-01,Burnaby North,"$446,300",148.7
+2010-01,West Vancouver,"$1,296,600",139.9
+2010-01,North Vancouver,"$622,000",144.8
+2010-01,Burnaby South,"$479,200",148.5
+2010-01,Vancouver West,"$718,500",170.4
+2010-02,Coquitlam,"$465,100",146.1
+2010-02,Burnaby South,"$484,700",150.2
+2010-02,New Westminster,"$337,900",154.6
+2010-02,Vancouver East,"$521,500",162.7
+2010-02,West Vancouver,"$1,296,300",139.9
+2010-02,Richmond,"$515,000",169.6
+2010-02,Vancouver West,"$728,700",172.8
+2010-02,Burnaby North,"$453,900",151.2
+2010-02,North Vancouver,"$628,400",146.3
+2010-03,Vancouver East,"$529,300",165.1
+2010-03,Coquitlam,"$470,200",147.7
+2010-03,Burnaby South,"$493,000",152.8
+2010-03,Vancouver West,"$748,700",177.6
+2010-03,Richmond,"$523,700",172.4
+2010-03,Burnaby North,"$462,700",154.2
+2010-03,New Westminster,"$345,200",158.0
+2010-03,North Vancouver,"$646,500",150.5
+2010-03,West Vancouver,"$1,318,300",142.2
+2010-04,Coquitlam,"$472,900",148.6
+2010-04,Vancouver East,"$531,300",165.8
+2010-04,North Vancouver,"$644,700",150.1
+2010-04,Richmond,"$530,600",174.7
+2010-04,New Westminster,"$350,600",160.5
+2010-04,Burnaby North,"$463,300",154.4
+2010-04,Burnaby South,"$498,700",154.5
+2010-04,Vancouver West,"$759,000",180.0
+2010-04,West Vancouver,"$1,320,700",142.5
+2010-05,North Vancouver,"$647,800",150.8
+2010-05,Richmond,"$531,100",174.9
+2010-05,New Westminster,"$348,900",159.7
+2010-05,Burnaby South,"$501,800",155.5
+2010-05,Burnaby North,"$461,500",153.8
+2010-05,Vancouver East,"$538,500",168.0
+2010-05,Coquitlam,"$475,000",149.2
+2010-05,Vancouver West,"$756,000",179.3
+2010-05,West Vancouver,"$1,348,400",145.5
+2010-06,Richmond,"$530,600",174.7
+2010-06,Coquitlam,"$471,100",148.0
+2010-06,Vancouver East,"$535,400",167.1
+2010-06,West Vancouver,"$1,326,200",143.1
+2010-06,New Westminster,"$345,200",158.0
+2010-06,Burnaby North,"$461,300",153.7
+2010-06,Vancouver West,"$750,300",178.0
+2010-06,North Vancouver,"$640,500",149.1
+2010-06,Burnaby South,"$500,500",155.1
+2010-07,Burnaby South,"$500,900",155.2
+2010-07,Vancouver East,"$530,100",165.4
+2010-07,New Westminster,"$342,200",156.6
+2010-07,North Vancouver,"$635,400",147.9
+2010-07,Burnaby North,"$462,800",154.2
+2010-07,Coquitlam,"$469,600",147.5
+2010-07,West Vancouver,"$1,321,600",142.6
+2010-07,Vancouver West,"$738,300",175.1
+2010-07,Richmond,"$530,600",174.7
+2010-08,North Vancouver,"$628,000",146.2
+2010-08,Burnaby North,"$461,000",153.6
+2010-08,Richmond,"$533,600",175.7
+2010-08,Burnaby South,"$493,800",153.0
+2010-08,Vancouver East,"$526,900",164.4
+2010-08,New Westminster,"$339,600",155.4
+2010-08,Coquitlam,"$466,400",146.5
+2010-08,West Vancouver,"$1,319,300",142.4
+2010-08,Vancouver West,"$740,200",175.6
+2010-09,Coquitlam,"$466,300",146.5
+2010-09,West Vancouver,"$1,313,000",141.7
+2010-09,Vancouver West,"$736,700",174.7
+2010-09,Burnaby South,"$495,900",153.7
+2010-09,New Westminster,"$342,400",156.7
+2010-09,Burnaby North,"$456,700",152.2
+2010-09,Richmond,"$529,300",174.3
+2010-09,North Vancouver,"$631,300",147.0
+2010-09,Vancouver East,"$528,100",164.8
+2010-10,Coquitlam,"$465,700",146.3
+2010-10,North Vancouver,"$623,700",145.2
+2010-10,New Westminster,"$340,900",156.0
+2010-10,Burnaby South,"$491,500",152.3
+2010-10,Vancouver East,"$528,500",164.9
+2010-10,Richmond,"$535,600",176.4
+2010-10,Vancouver West,"$744,900",176.7
+2010-10,West Vancouver,"$1,316,100",142.0
+2010-10,Burnaby North,"$455,000",151.6
+2010-11,North Vancouver,"$623,600",145.2
+2010-11,Coquitlam,"$462,100",145.2
+2010-11,Vancouver West,"$751,500",178.2
+2010-11,West Vancouver,"$1,347,200",145.4
+2010-11,Vancouver East,"$532,000",166.0
+2010-11,Richmond,"$537,300",176.9
+2010-11,Burnaby South,"$492,400",152.6
+2010-11,Burnaby North,"$454,000",151.3
+2010-11,New Westminster,"$343,300",157.1
+2010-12,New Westminster,"$345,800",158.3
+2010-12,Vancouver East,"$534,900",166.9
+2010-12,Burnaby South,"$500,400",155.1
+2010-12,North Vancouver,"$614,200",143.0
+2010-12,Burnaby North,"$456,300",152.0
+2010-12,Richmond,"$547,000",180.1
+2010-12,Vancouver West,"$767,300",182.0
+2010-12,West Vancouver,"$1,350,600",145.7
+2010-12,Coquitlam,"$467,100",146.7
+2011-01,North Vancouver,"$625,500",145.6
+2011-01,Vancouver West,"$784,800",186.1
+2011-01,Vancouver East,"$547,000",170.7
+2011-01,West Vancouver,"$1,379,900",148.9
+2011-01,Richmond,"$578,100",190.4
+2011-01,Burnaby North,"$465,700",155.2
+2011-01,New Westminster,"$354,300",162.2
+2011-01,Burnaby South,"$502,600",155.7
+2011-01,Coquitlam,"$471,100",148.0
+2011-02,Coquitlam,"$478,400",150.3
+2011-02,Richmond,"$608,100",200.2
+2011-02,North Vancouver,"$640,600",149.2
+2011-02,Vancouver West,"$823,200",195.3
+2011-02,Vancouver East,"$558,900",174.4
+2011-02,New Westminster,"$360,100",164.8
+2011-02,Burnaby South,"$514,300",159.4
+2011-02,Burnaby North,"$469,000",156.3
+2011-02,West Vancouver,"$1,399,900",151.0
+2011-03,Burnaby North,"$478,600",159.5
+2011-03,Vancouver West,"$837,900",198.7
+2011-03,West Vancouver,"$1,435,300",154.9
+2011-03,Richmond,"$625,900",206.1
+2011-03,Coquitlam,"$483,200",151.8
+2011-03,North Vancouver,"$655,600",152.6
+2011-03,New Westminster,"$363,300",166.3
+2011-03,Burnaby South,"$530,900",164.5
+2011-03,Vancouver East,"$567,200",177.0
+2011-04,Richmond,"$625,800",206.1
+2011-04,Burnaby South,"$542,300",168.1
+2011-04,North Vancouver,"$669,800",155.9
+2011-04,New Westminster,"$368,600",168.7
+2011-04,Vancouver East,"$572,600",178.7
+2011-04,Vancouver West,"$863,700",204.9
+2011-04,West Vancouver,"$1,466,000",158.2
+2011-04,Burnaby North,"$489,400",163.1
+2011-04,Coquitlam,"$491,500",154.4
+2011-05,Vancouver West,"$880,800",208.9
+2011-05,West Vancouver,"$1,555,900",167.9
+2011-05,Richmond,"$629,300",207.2
+2011-05,New Westminster,"$368,500",168.6
+2011-05,Burnaby South,"$547,800",169.8
+2011-05,Coquitlam,"$496,700",156.0
+2011-05,North Vancouver,"$678,000",157.9
+2011-05,Burnaby North,"$500,600",166.8
+2011-05,Vancouver East,"$582,700",181.8
+2011-06,West Vancouver,"$1,619,700",174.8
+2011-06,Coquitlam,"$502,000",157.7
+2011-06,Burnaby North,"$504,900",168.2
+2011-06,Burnaby South,"$552,500",171.2
+2011-06,Richmond,"$623,300",205.2
+2011-06,North Vancouver,"$679,800",158.3
+2011-06,Vancouver East,"$591,300",184.5
+2011-06,Vancouver West,"$893,800",212.0
+2011-06,New Westminster,"$370,400",169.5
+2011-07,Vancouver East,"$598,500",186.7
+2011-07,Richmond,"$621,700",204.7
+2011-07,Vancouver West,"$904,400",214.5
+2011-07,Burnaby North,"$503,000",167.6
+2011-07,Burnaby South,"$556,500",172.5
+2011-07,West Vancouver,"$1,673,000",180.5
+2011-07,New Westminster,"$371,100",169.8
+2011-07,North Vancouver,"$675,400",157.3
+2011-07,Coquitlam,"$505,000",158.7
+2011-08,Burnaby North,"$504,400",168.1
+2011-08,West Vancouver,"$1,684,300",181.7
+2011-08,Vancouver East,"$601,400",187.6
+2011-08,Vancouver West,"$918,500",217.9
+2011-08,New Westminster,"$375,100",171.7
+2011-08,Richmond,"$620,400",204.3
+2011-08,Burnaby South,"$561,100",173.9
+2011-08,North Vancouver,"$671,400",156.3
+2011-08,Coquitlam,"$503,300",158.1
+2011-09,Richmond,"$616,300",202.9
+2011-09,West Vancouver,"$1,670,400",180.2
+2011-09,Burnaby South,"$566,300",175.5
+2011-09,Vancouver East,"$608,900",190.0
+2011-09,Burnaby North,"$505,200",168.3
+2011-09,New Westminster,"$374,800",171.5
+2011-09,Coquitlam,"$502,700",157.9
+2011-09,Vancouver West,"$909,400",215.7
+2011-09,North Vancouver,"$672,100",156.5
+2011-10,Vancouver East,"$604,100",188.5
+2011-10,North Vancouver,"$672,300",156.5
+2011-10,Richmond,"$614,900",202.5
+2011-10,New Westminster,"$373,500",170.9
+2011-10,Vancouver West,"$904,000",214.4
+2011-10,Burnaby South,"$560,600",173.7
+2011-10,Burnaby North,"$510,300",170.0
+2011-10,Coquitlam,"$505,000",158.7
+2011-10,West Vancouver,"$1,687,400",182.1
+2011-11,New Westminster,"$374,900",171.6
+2011-11,Burnaby South,"$553,700",171.6
+2011-11,North Vancouver,"$677,000",157.6
+2011-11,Vancouver East,"$607,300",189.5
+2011-11,Coquitlam,"$505,300",158.7
+2011-11,Richmond,"$611,600",201.4
+2011-11,Vancouver West,"$906,300",215.0
+2011-11,West Vancouver,"$1,688,500",182.2
+2011-11,Burnaby North,"$506,200",168.7
+2011-12,Vancouver West,"$897,000",212.8
+2011-12,North Vancouver,"$685,700",159.7
+2011-12,West Vancouver,"$1,639,800",176.9
+2011-12,Coquitlam,"$502,200",157.8
+2011-12,Burnaby North,"$505,700",168.5
+2011-12,New Westminster,"$373,900",171.1
+2011-12,Burnaby South,"$550,900",170.7
+2011-12,Richmond,"$622,900",205.1
+2011-12,Vancouver East,"$601,000",187.5
+2012-01,Vancouver West,"$909,800",215.8
+2012-01,New Westminster,"$376,600",172.4
+2012-01,Vancouver East,"$603,700",188.4
+2012-01,Burnaby North,"$511,600",170.5
+2012-01,Richmond,"$618,600",203.7
+2012-01,North Vancouver,"$694,100",161.6
+2012-01,Burnaby South,"$551,100",170.8
+2012-01,West Vancouver,"$1,641,800",177.1
+2012-01,Coquitlam,"$501,200",157.5
+2012-02,Coquitlam,"$508,600",159.8
+2012-02,Richmond,"$625,900",206.1
+2012-02,Burnaby South,"$568,600",176.2
+2012-02,North Vancouver,"$701,500",163.3
+2012-02,West Vancouver,"$1,736,900",187.4
+2012-02,Vancouver East,"$614,000",191.6
+2012-02,New Westminster,"$383,600",175.6
+2012-02,Vancouver West,"$937,300",222.3
+2012-02,Burnaby North,"$514,400",171.4
+2012-03,Burnaby South,"$576,200",178.6
+2012-03,Coquitlam,"$515,800",162.0
+2012-03,Vancouver East,"$621,700",194.0
+2012-03,Richmond,"$627,100",206.5
+2012-03,West Vancouver,"$1,766,200",190.6
+2012-03,Burnaby North,"$518,600",172.8
+2012-03,New Westminster,"$386,100",176.7
+2012-03,North Vancouver,"$707,600",164.7
+2012-03,Vancouver West,"$936,800",222.2
+2012-04,Vancouver West,"$931,800",221.0
+2012-04,Coquitlam,"$522,000",164.0
+2012-04,Burnaby North,"$523,300",174.4
+2012-04,New Westminster,"$384,800",176.1
+2012-04,Vancouver East,"$624,200",194.8
+2012-04,Burnaby South,"$578,400",179.2
+2012-04,West Vancouver,"$1,796,300",193.8
+2012-04,Richmond,"$625,100",205.8
+2012-04,North Vancouver,"$727,400",169.4
+2012-05,Coquitlam,"$526,000",165.3
+2012-05,Vancouver West,"$912,000",216.3
+2012-05,Burnaby North,"$527,100",175.6
+2012-05,Vancouver East,"$625,800",195.3
+2012-05,West Vancouver,"$1,778,300",191.9
+2012-05,Burnaby South,"$576,600",178.7
+2012-05,North Vancouver,"$721,400",168.0
+2012-05,New Westminster,"$382,500",175.1
+2012-05,Richmond,"$619,700",204.1
+2012-06,New Westminster,"$383,300",175.4
+2012-06,North Vancouver,"$707,300",164.7
+2012-06,Richmond,"$618,500",203.7
+2012-06,Burnaby North,"$524,500",174.8
+2012-06,Vancouver East,"$620,900",193.7
+2012-06,Coquitlam,"$520,000",163.4
+2012-06,West Vancouver,"$1,771,400",191.1
+2012-06,Burnaby South,"$580,500",179.9
+2012-06,Vancouver West,"$903,000",214.2
+2012-07,Richmond,"$609,900",200.8
+2012-07,Burnaby South,"$571,000",176.9
+2012-07,West Vancouver,"$1,745,000",188.3
+2012-07,Vancouver West,"$882,700",209.4
+2012-07,New Westminster,"$381,200",174.5
+2012-07,Vancouver East,"$610,300",190.4
+2012-07,Burnaby North,"$517,000",172.3
+2012-07,Coquitlam,"$518,900",163.0
+2012-07,North Vancouver,"$698,700",162.7
+2012-08,Coquitlam,"$513,600",161.4
+2012-08,New Westminster,"$381,100",174.4
+2012-08,Vancouver East,"$609,000",190.0
+2012-08,Burnaby North,"$506,600",168.8
+2012-08,Richmond,"$614,200",202.2
+2012-08,North Vancouver,"$693,400",161.4
+2012-08,Burnaby South,"$567,900",176.0
+2012-08,Vancouver West,"$872,600",207.0
+2012-08,West Vancouver,"$1,741,400",187.9
+2012-09,Burnaby North,"$499,800",166.5
+2012-09,North Vancouver,"$694,900",161.8
+2012-09,Coquitlam,"$516,600",162.3
+2012-09,West Vancouver,"$1,723,200",185.9
+2012-09,New Westminster,"$378,400",173.2
+2012-09,Vancouver West,"$871,800",206.8
+2012-09,Richmond,"$603,400",198.7
+2012-09,Vancouver East,"$607,900",189.7
+2012-09,Burnaby South,"$567,500",175.9
+2012-10,West Vancouver,"$1,686,700",182.0
+2012-10,New Westminster,"$376,200",172.2
+2012-10,Burnaby South,"$567,500",175.9
+2012-10,Richmond,"$599,700",197.5
+2012-10,Burnaby North,"$499,000",166.3
+2012-10,Coquitlam,"$512,400",161.0
+2012-10,North Vancouver,"$684,700",159.4
+2012-10,Vancouver West,"$867,400",205.7
+2012-10,Vancouver East,"$606,900",189.4
+2012-11,Burnaby South,"$561,700",174.1
+2012-11,New Westminster,"$368,100",168.5
+2012-11,Coquitlam,"$507,600",159.5
+2012-11,Vancouver West,"$865,500",205.3
+2012-11,North Vancouver,"$675,300",157.2
+2012-11,West Vancouver,"$1,631,500",176.0
+2012-11,Burnaby North,"$493,600",164.5
+2012-11,Richmond,"$597,500",196.7
+2012-11,Vancouver East,"$604,400",188.6
+2012-12,Vancouver West,"$859,900",204.0
+2012-12,North Vancouver,"$661,700",154.1
+2012-12,Burnaby North,"$492,400",164.1
+2012-12,Coquitlam,"$500,600",157.3
+2012-12,Richmond,"$591,500",194.8
+2012-12,Burnaby South,"$546,500",169.4
+2012-12,Vancouver East,"$597,400",186.4
+2012-12,New Westminster,"$365,600",167.3
+2012-12,West Vancouver,"$1,671,500",180.4
+2013-01,Richmond,"$584,900",192.6
+2013-01,New Westminster,"$366,600",167.8
+2013-01,Vancouver West,"$857,400",203.4
+2013-01,Coquitlam,"$498,900",156.7
+2013-01,West Vancouver,"$1,674,500",180.7
+2013-01,North Vancouver,"$665,400",154.9
+2013-01,Vancouver East,"$591,200",184.5
+2013-01,Burnaby South,"$547,200",169.6
+2013-01,Burnaby North,"$494,400",164.7
+2013-02,New Westminster,"$372,800",170.6
+2013-02,Burnaby North,"$504,700",168.2
+2013-02,Vancouver East,"$594,000",185.3
+2013-02,West Vancouver,"$1,711,000",184.6
+2013-02,Burnaby South,"$554,900",172.0
+2013-02,North Vancouver,"$681,200",158.6
+2013-02,Richmond,"$599,100",197.3
+2013-02,Vancouver West,"$875,500",207.7
+2013-02,Coquitlam,"$503,000",158.0
+2013-03,Coquitlam,"$511,400",160.7
+2013-03,West Vancouver,"$1,663,500",179.5
+2013-03,North Vancouver,"$694,600",161.7
+2013-03,Vancouver West,"$871,100",206.6
+2013-03,Burnaby North,"$506,000",168.6
+2013-03,Richmond,"$598,800",197.2
+2013-03,Burnaby South,"$569,900",176.6
+2013-03,New Westminster,"$374,600",171.4
+2013-03,Vancouver East,"$603,200",188.2
+2013-04,Vancouver East,"$604,000",188.5
+2013-04,Richmond,"$599,400",197.4
+2013-04,North Vancouver,"$708,200",164.9
+2013-04,Burnaby South,"$568,800",176.3
+2013-04,New Westminster,"$379,500",173.7
+2013-04,Burnaby North,"$510,800",170.2
+2013-04,Vancouver West,"$879,000",208.5
+2013-04,West Vancouver,"$1,696,600",183.1
+2013-04,Coquitlam,"$513,300",161.3
+2013-05,Burnaby South,"$569,300",176.4
+2013-05,Burnaby North,"$510,100",170.0
+2013-05,West Vancouver,"$1,702,500",183.7
+2013-05,Coquitlam,"$512,100",160.9
+2013-05,Vancouver West,"$882,400",209.3
+2013-05,North Vancouver,"$710,300",165.4
+2013-05,New Westminster,"$382,000",174.8
+2013-05,Richmond,"$601,700",198.1
+2013-05,Vancouver East,"$610,900",190.6
+2013-06,Coquitlam,"$514,600",161.7
+2013-06,Vancouver West,"$885,200",210.0
+2013-06,Richmond,"$601,000",197.9
+2013-06,Burnaby South,"$578,100",179.1
+2013-06,New Westminster,"$382,700",175.1
+2013-06,Burnaby North,"$511,500",170.4
+2013-06,Vancouver East,"$612,900",191.2
+2013-06,West Vancouver,"$1,710,000",184.5
+2013-06,North Vancouver,"$707,200",164.7
+2013-07,Vancouver West,"$895,300",212.4
+2013-07,Coquitlam,"$514,900",161.8
+2013-07,Vancouver East,"$614,300",191.7
+2013-07,West Vancouver,"$1,722,700",185.9
+2013-07,Burnaby North,"$515,200",171.7
+2013-07,Burnaby South,"$579,100",179.5
+2013-07,North Vancouver,"$701,000",163.2
+2013-07,Richmond,"$603,100",198.6
+2013-07,New Westminster,"$383,100",175.3
+2013-08,Coquitlam,"$517,000",162.4
+2013-08,Burnaby North,"$518,100",172.6
+2013-08,Burnaby South,"$578,800",179.4
+2013-08,New Westminster,"$384,500",176.0
+2013-08,North Vancouver,"$711,000",165.5
+2013-08,Vancouver East,"$612,500",191.1
+2013-08,Vancouver West,"$896,800",212.7
+2013-08,West Vancouver,"$1,738,500",187.6
+2013-08,Richmond,"$603,000",198.6
+2013-09,Richmond,"$603,200",198.6
+2013-09,West Vancouver,"$1,782,400",192.3
+2013-09,Vancouver East,"$613,500",191.4
+2013-09,North Vancouver,"$717,700",167.1
+2013-09,New Westminster,"$379,700",173.8
+2013-09,Burnaby South,"$575,600",178.4
+2013-09,Coquitlam,"$518,000",162.7
+2013-09,Burnaby North,"$516,700",172.2
+2013-09,Vancouver West,"$901,100",213.7
+2013-10,Coquitlam,"$514,200",161.5
+2013-10,Burnaby North,"$514,500",171.4
+2013-10,West Vancouver,"$1,764,900",190.4
+2013-10,North Vancouver,"$717,900",167.1
+2013-10,New Westminster,"$378,500",173.2
+2013-10,Richmond,"$602,700",198.5
+2013-10,Vancouver East,"$615,700",192.1
+2013-10,Vancouver West,"$905,300",214.7
+2013-10,Burnaby South,"$580,100",179.8
+2013-11,Vancouver East,"$623,800",194.6
+2013-11,Burnaby North,"$513,300",171.0
+2013-11,Coquitlam,"$517,400",162.6
+2013-11,West Vancouver,"$1,763,800",190.3
+2013-11,Vancouver West,"$913,100",216.6
+2013-11,Burnaby South,"$589,000",182.5
+2013-11,North Vancouver,"$727,000",169.3
+2013-11,New Westminster,"$381,000",174.4
+2013-11,Richmond,"$603,600",198.7
+2013-12,Burnaby South,"$591,900",183.4
+2013-12,Vancouver West,"$914,000",216.8
+2013-12,New Westminster,"$382,800",175.2
+2013-12,Vancouver East,"$625,500",195.2
+2013-12,North Vancouver,"$722,100",168.1
+2013-12,Richmond,"$600,600",197.8
+2013-12,West Vancouver,"$1,775,000",191.5
+2013-12,Burnaby North,"$508,000",169.3
+2013-12,Coquitlam,"$518,700",163.0
+2014-01,Vancouver West,"$933,200",221.3
+2014-01,West Vancouver,"$1,777,400",191.8
+2014-01,Burnaby North,"$512,600",170.8
+2014-01,Burnaby South,"$593,700",184.0
+2014-01,North Vancouver,"$723,900",168.5
+2014-01,New Westminster,"$387,500",177.3
+2014-01,Vancouver East,"$625,800",195.3
+2014-01,Coquitlam,"$521,500",163.8
+2014-01,Richmond,"$603,900",198.8
+2014-02,Burnaby North,"$525,800",175.2
+2014-02,Burnaby South,"$590,000",182.8
+2014-02,West Vancouver,"$1,822,500",196.6
+2014-02,Coquitlam,"$524,700",164.8
+2014-02,Vancouver East,"$630,400",196.7
+2014-02,North Vancouver,"$724,100",168.6
+2014-02,Vancouver West,"$937,200",222.3
+2014-02,New Westminster,"$392,200",179.5
+2014-02,Richmond,"$617,600",203.4
+2014-03,New Westminster,"$394,500",180.5
+2014-03,Vancouver East,"$640,500",199.8
+2014-03,North Vancouver,"$733,900",170.9
+2014-03,Richmond,"$621,000",204.5
+2014-03,Burnaby North,"$529,200",176.3
+2014-03,West Vancouver,"$1,826,200",197.0
+2014-03,Coquitlam,"$530,600",166.7
+2014-03,Vancouver West,"$946,500",224.5
+2014-03,Burnaby South,"$603,500",187.0
+2014-04,West Vancouver,"$1,855,800",200.2
+2014-04,North Vancouver,"$748,800",174.3
+2014-04,New Westminster,"$394,300",180.5
+2014-04,Vancouver West,"$946,800",224.6
+2014-04,Burnaby North,"$533,100",177.6
+2014-04,Burnaby South,"$608,100",188.4
+2014-04,Richmond,"$624,700",205.7
+2014-04,Vancouver East,"$647,200",201.9
+2014-04,Coquitlam,"$535,100",168.1
+2014-05,Burnaby North,"$539,900",179.9
+2014-05,North Vancouver,"$750,200",174.7
+2014-05,Coquitlam,"$540,000",169.7
+2014-05,West Vancouver,"$1,826,500",197.1
+2014-05,Vancouver East,"$652,800",203.7
+2014-05,Richmond,"$626,700",206.4
+2014-05,Burnaby South,"$610,400",189.2
+2014-05,Vancouver West,"$955,900",226.7
+2014-05,New Westminster,"$394,400",180.5
+2014-06,Richmond,"$629,100",207.1
+2014-06,Burnaby North,"$535,000",178.3
+2014-06,Vancouver West,"$948,600",225.0
+2014-06,North Vancouver,"$756,700",176.2
+2014-06,New Westminster,"$398,000",182.2
+2014-06,Coquitlam,"$540,900",169.9
+2014-06,Vancouver East,"$658,500",205.5
+2014-06,Burnaby South,"$616,800",191.1
+2014-06,West Vancouver,"$1,849,100",199.5
+2014-07,Burnaby South,"$619,500",192.0
+2014-07,Burnaby North,"$538,100",179.3
+2014-07,Vancouver West,"$952,700",226.0
+2014-07,Coquitlam,"$543,000",170.6
+2014-07,Vancouver East,"$660,600",206.1
+2014-07,Richmond,"$634,700",209.0
+2014-07,North Vancouver,"$753,900",175.5
+2014-07,New Westminster,"$399,200",182.7
+2014-07,West Vancouver,"$1,848,600",199.5
+2014-08,West Vancouver,"$1,816,500",196.0
+2014-08,Coquitlam,"$544,900",171.2
+2014-08,Vancouver West,"$946,400",224.5
+2014-08,Richmond,"$639,400",210.5
+2014-08,North Vancouver,"$749,400",174.5
+2014-08,New Westminster,"$401,500",183.8
+2014-08,Burnaby South,"$620,900",192.4
+2014-08,Vancouver East,"$665,400",207.6
+2014-08,Burnaby North,"$536,800",178.9
+2014-09,New Westminster,"$400,700",183.4
+2014-09,Burnaby North,"$539,300",179.7
+2014-09,Coquitlam,"$551,700",173.3
+2014-09,West Vancouver,"$1,843,100",198.9
+2014-09,Burnaby South,"$624,500",193.5
+2014-09,North Vancouver,"$754,700",175.7
+2014-09,Vancouver East,"$667,900",208.4
+2014-09,Richmond,"$635,800",209.4
+2014-09,Vancouver West,"$955,300",226.6
+2014-10,Richmond,"$642,400",211.5
+2014-10,Vancouver West,"$963,800",228.6
+2014-10,North Vancouver,"$759,700",176.9
+2014-10,West Vancouver,"$1,828,000",197.2
+2014-10,Coquitlam,"$555,600",174.6
+2014-10,Burnaby South,"$626,200",194.1
+2014-10,Vancouver East,"$667,900",208.4
+2014-10,New Westminster,"$406,000",185.8
+2014-10,Burnaby North,"$540,400",180.1
+2014-11,Vancouver East,"$667,500",208.3
+2014-11,North Vancouver,"$763,200",177.7
+2014-11,West Vancouver,"$1,880,500",202.9
+2014-11,Burnaby South,"$629,100",194.9
+2014-11,Richmond,"$642,600",211.6
+2014-11,Burnaby North,"$548,000",182.6
+2014-11,Coquitlam,"$554,700",174.3
+2014-11,New Westminster,"$404,300",185.0
+2014-11,Vancouver West,"$977,200",231.8
+2014-12,New Westminster,"$404,500",185.1
+2014-12,West Vancouver,"$1,879,500",202.8
+2014-12,Coquitlam,"$554,200",174.1
+2014-12,North Vancouver,"$773,600",180.1
+2014-12,Richmond,"$643,800",212.0
+2014-12,Burnaby North,"$553,000",184.3
+2014-12,Burnaby South,"$632,500",196.0
+2014-12,Vancouver East,"$665,500",207.6
+2014-12,Vancouver West,"$984,700",233.6
+2015-01,New Westminster,"$404,700",185.2
+2015-01,Coquitlam,"$555,500",174.5
+2015-01,Burnaby South,"$640,300",198.4
+2015-01,Burnaby North,"$558,500",186.1
+2015-01,Richmond,"$655,400",215.8
+2015-01,West Vancouver,"$1,943,300",209.7
+2015-01,Vancouver West,"$1,003,200",238.0
+2015-01,North Vancouver,"$790,800",184.1
+2015-01,Vancouver East,"$674,900",210.6
+2015-02,Richmond,"$669,200",220.3
+2015-02,West Vancouver,"$2,002,100",216.0
+2015-02,New Westminster,"$414,900",189.9
+2015-02,North Vancouver,"$811,900",189.0
+2015-02,Vancouver East,"$688,500",214.8
+2015-02,Vancouver West,"$1,018,500",241.6
+2015-02,Burnaby North,"$577,000",192.3
+2015-02,Burnaby South,"$658,400",204.0
+2015-02,Coquitlam,"$565,800",177.8
+2015-03,New Westminster,"$417,100",190.9
+2015-03,Vancouver West,"$1,040,500",246.8
+2015-03,West Vancouver,"$2,061,500",222.4
+2015-03,Burnaby North,"$591,100",197.0
+2015-03,Coquitlam,"$575,100",180.7
+2015-03,North Vancouver,"$835,300",194.5
+2015-03,Richmond,"$684,300",225.3
+2015-03,Burnaby South,"$674,500",209.0
+2015-03,Vancouver East,"$711,600",222.0
+2015-04,Coquitlam,"$587,600",184.6
+2015-04,Richmond,"$700,800",230.8
+2015-04,Burnaby South,"$680,800",211.0
+2015-04,Vancouver West,"$1,055,600",250.4
+2015-04,New Westminster,"$422,300",193.3
+2015-04,Vancouver East,"$732,200",228.5
+2015-04,West Vancouver,"$2,077,100",224.1
+2015-04,North Vancouver,"$847,900",197.4
+2015-04,Burnaby North,"$599,800",199.9
+2015-05,New Westminster,"$427,400",195.6
+2015-05,Vancouver East,"$746,500",232.9
+2015-05,Burnaby South,"$695,100",215.4
+2015-05,North Vancouver,"$856,100",199.3
+2015-05,Burnaby North,"$611,000",203.6
+2015-05,Vancouver West,"$1,088,000",258.1
+2015-05,Richmond,"$708,100",233.2
+2015-05,West Vancouver,"$2,116,000",228.3
+2015-05,Coquitlam,"$597,000",187.6
+2015-06,Vancouver West,"$1,105,100",262.1
+2015-06,New Westminster,"$433,000",198.2
+2015-06,Burnaby South,"$702,600",217.7
+2015-06,Richmond,"$720,600",237.3
+2015-06,Vancouver East,"$764,600",238.6
+2015-06,West Vancouver,"$2,176,900",234.9
+2015-06,Burnaby North,"$626,300",208.7
+2015-06,North Vancouver,"$863,400",201.0
+2015-06,Coquitlam,"$607,600",190.9
+2015-07,Burnaby North,"$642,000",213.9
+2015-07,Vancouver East,"$776,500",242.3
+2015-07,Richmond,"$735,700",242.2
+2015-07,Burnaby South,"$722,400",223.9
+2015-07,Coquitlam,"$620,300",194.9
+2015-07,West Vancouver,"$2,198,200",237.2
+2015-07,North Vancouver,"$867,100",201.9
+2015-07,New Westminster,"$437,800",200.4
+2015-07,Vancouver West,"$1,119,200",265.5
+2015-08,Vancouver East,"$788,300",246.0
+2015-08,New Westminster,"$441,500",202.1
+2015-08,Burnaby South,"$728,900",225.9
+2015-08,Coquitlam,"$626,800",196.9
+2015-08,Vancouver West,"$1,135,500",269.3
+2015-08,North Vancouver,"$874,100",203.5
+2015-08,Burnaby North,"$647,600",215.8
+2015-08,Richmond,"$744,100",245.0
+2015-08,West Vancouver,"$2,254,900",243.3
+2015-09,Burnaby South,"$731,900",226.8
+2015-09,Burnaby North,"$655,300",218.4
+2015-09,Richmond,"$762,600",251.1
+2015-09,Coquitlam,"$635,300",199.6
+2015-09,West Vancouver,"$2,270,700",245.0
+2015-09,Vancouver West,"$1,140,900",270.6
+2015-09,New Westminster,"$441,800",202.2
+2015-09,North Vancouver,"$906,200",211.0
+2015-09,Vancouver East,"$797,800",248.9
+2015-10,New Westminster,"$450,100",206.0
+2015-10,North Vancouver,"$921,900",214.6
+2015-10,Burnaby North,"$662,000",220.6
+2015-10,Vancouver East,"$805,000",251.2
+2015-10,Richmond,"$778,200",256.2
+2015-10,Coquitlam,"$642,400",201.8
+2015-10,West Vancouver,"$2,375,700",256.3
+2015-10,Burnaby South,"$733,800",227.4
+2015-10,Vancouver West,"$1,157,000",274.4
+2015-11,West Vancouver,"$2,390,100",257.9
+2015-11,Burnaby North,"$664,900",221.6
+2015-11,Coquitlam,"$657,800",206.7
+2015-11,Vancouver West,"$1,169,900",277.5
+2015-11,Burnaby South,"$748,300",231.9
+2015-11,Vancouver East,"$819,200",255.6
+2015-11,New Westminster,"$457,100",209.2
+2015-11,North Vancouver,"$949,500",221.1
+2015-11,Richmond,"$793,700",261.3
+2015-12,Vancouver East,"$832,000",259.6
+2015-12,Burnaby South,"$765,200",237.1
+2015-12,Burnaby North,"$681,000",226.9
+2015-12,Vancouver West,"$1,183,600",280.7
+2015-12,Richmond,"$803,800",264.7
+2015-12,West Vancouver,"$2,450,500",264.4
+2015-12,New Westminster,"$463,600",212.2
+2015-12,North Vancouver,"$963,500",224.3
+2015-12,Coquitlam,"$669,800",210.4
+2016-01,New Westminster,"$480,000",219.7
+2016-01,Vancouver East,"$857,600",267.6
+2016-01,Richmond,"$834,400",274.7
+2016-01,Burnaby South,"$783,100",242.7
+2016-01,Coquitlam,"$699,700",219.8
+2016-01,Burnaby North,"$700,200",233.3
+2016-01,West Vancouver,"$2,510,300",270.9
+2016-01,Vancouver West,"$1,225,900",290.8
+2016-01,North Vancouver,"$993,400",231.3
+2016-02,Vancouver East,"$893,900",278.9
+2016-02,North Vancouver,"$1,042,500",242.7
+2016-02,West Vancouver,"$2,674,000",288.5
+2016-02,Burnaby North,"$745,200",248.3
+2016-02,Vancouver West,"$1,287,900",305.5
+2016-02,New Westminster,"$506,000",231.6
+2016-02,Burnaby South,"$814,000",252.2
+2016-02,Coquitlam,"$733,600",230.5
+2016-02,Richmond,"$889,000",292.7
+2016-03,Burnaby South,"$850,000",263.4
+2016-03,Coquitlam,"$767,100",241.0
+2016-03,West Vancouver,"$2,769,600",298.8
+2016-03,New Westminster,"$532,500",243.7
+2016-03,Burnaby North,"$777,100",258.9
+2016-03,Vancouver West,"$1,319,500",313.0
+2016-03,North Vancouver,"$1,077,300",250.8
+2016-03,Vancouver East,"$926,100",289.0
+2016-03,Richmond,"$937,500",308.7
+2016-04,Burnaby North,"$800,800",266.8
+2016-04,Vancouver East,"$947,800",295.7
+2016-04,Coquitlam,"$786,200",247.0
+2016-04,Burnaby South,"$875,200",271.2
+2016-04,North Vancouver,"$1,106,100",257.5
+2016-04,New Westminster,"$544,400",249.2
+2016-04,West Vancouver,"$2,887,000",311.5
+2016-04,Vancouver West,"$1,360,000",322.6
+2016-04,Richmond,"$971,600",319.9
+2016-05,New Westminster,"$556,300",254.6
+2016-05,Burnaby North,"$824,400",274.7
+2016-05,Burnaby South,"$899,900",278.9
+2016-05,Vancouver West,"$1,387,600",329.1
+2016-05,Vancouver East,"$982,400",306.5
+2016-05,Coquitlam,"$806,800",253.5
+2016-05,Richmond,"$985,900",324.6
+2016-05,North Vancouver,"$1,138,900",265.2
+2016-05,West Vancouver,"$2,932,600",316.4
+2016-06,West Vancouver,"$2,996,500",323.3
+2016-06,Vancouver West,"$1,416,600",336.0
+2016-06,Vancouver East,"$995,200",310.5
+2016-06,New Westminster,"$558,100",255.4
+2016-06,North Vancouver,"$1,161,100",270.3
+2016-06,Coquitlam,"$811,000",254.8
+2016-06,Richmond,"$996,700",328.2
+2016-06,Burnaby South,"$917,400",284.3
+2016-06,Burnaby North,"$837,000",278.9
+2016-07,Burnaby South,"$927,600",287.4
+2016-07,Richmond,"$1,001,000",329.6
+2016-07,New Westminster,"$563,900",258.1
+2016-07,Burnaby North,"$836,900",278.9
+2016-07,West Vancouver,"$3,069,400",331.2
+2016-07,Vancouver East,"$1,006,700",314.1
+2016-07,Coquitlam,"$815,600",256.2
+2016-07,North Vancouver,"$1,160,500",270.2
+2016-07,Vancouver West,"$1,426,500",338.4
+2016-08,Richmond,"$982,100",323.4
+2016-08,Burnaby North,"$818,600",272.8
+2016-08,West Vancouver,"$3,103,400",334.9
+2016-08,New Westminster,"$561,700",257.1
+2016-08,Coquitlam,"$815,500",256.2
+2016-08,Vancouver West,"$1,393,900",330.6
+2016-08,Vancouver East,"$997,800",311.3
+2016-08,North Vancouver,"$1,143,900",266.3
+2016-08,Burnaby South,"$925,600",286.8
+2016-09,Vancouver West,"$1,378,500",327.0
+2016-09,West Vancouver,"$3,059,800",330.1
+2016-09,North Vancouver,"$1,113,000",259.1
+2016-09,Coquitlam,"$803,500",252.4
+2016-09,Burnaby North,"$811,200",270.3
+2016-09,Richmond,"$972,100",320.1
+2016-09,Burnaby South,"$916,700",284.1
+2016-09,Vancouver East,"$985,300",307.4
+2016-09,New Westminster,"$552,400",252.8
+2016-10,Vancouver West,"$1,334,700",316.6
+2016-10,Burnaby South,"$884,500",274.1
+2016-10,West Vancouver,"$2,924,400",315.5
+2016-10,Coquitlam,"$793,200",249.2
+2016-10,Richmond,"$945,500",311.3
+2016-10,New Westminster,"$540,300",247.3
+2016-10,North Vancouver,"$1,103,300",256.9
+2016-10,Burnaby North,"$803,900",267.9
+2016-10,Vancouver East,"$950,100",296.4
+2016-11,Burnaby South,"$899,500",278.7
+2016-11,Coquitlam,"$777,900",244.4
+2016-11,Richmond,"$938,400",309.0
+2016-11,New Westminster,"$539,000",246.7
+2016-11,Vancouver East,"$946,100",295.2
+2016-11,Vancouver West,"$1,319,400",313.0
+2016-11,West Vancouver,"$2,805,700",302.7
+2016-11,Burnaby North,"$783,700",261.1
+2016-11,North Vancouver,"$1,084,600",252.5
+2016-12,Vancouver West,"$1,312,400",311.3
+2016-12,West Vancouver,"$2,709,300",292.3
+2016-12,Coquitlam,"$765,900",240.6
+2016-12,Burnaby North,"$793,600",264.4
+2016-12,Burnaby South,"$888,700",275.4
+2016-12,Richmond,"$930,100",306.3
+2016-12,Vancouver East,"$928,100",289.6
+2016-12,North Vancouver,"$1,081,500",251.8
+2016-12,New Westminster,"$543,800",248.9
+2017-01,North Vancouver,"$1,089,300",253.6
+2017-01,Vancouver West,"$1,324,600",314.2
+2017-01,Burnaby South,"$895,700",277.6
+2017-01,New Westminster,"$546,900",250.3
+2017-01,West Vancouver,"$2,689,300",290.2
+2017-01,Vancouver East,"$920,700",287.3
+2017-01,Burnaby North,"$806,000",268.6
+2017-01,Richmond,"$939,600",309.4
+2017-01,Coquitlam,"$761,400",239.2
+2017-02,North Vancouver,"$1,111,300",258.7
+2017-02,Burnaby South,"$921,500",285.6
+2017-02,Richmond,"$945,500",311.3
+2017-02,West Vancouver,"$2,812,000",303.4
+2017-02,Vancouver West,"$1,340,700",318.0
+2017-02,Vancouver East,"$944,100",294.6
+2017-02,Coquitlam,"$784,100",246.3
+2017-02,Burnaby North,"$811,500",270.4
+2017-02,New Westminster,"$557,600",255.2
+2017-03,Burnaby North,"$821,700",273.8
+2017-03,Richmond,"$959,600",316.0
+2017-03,West Vancouver,"$2,829,400",305.3
+2017-03,Vancouver East,"$971,100",303.0
+2017-03,New Westminster,"$575,600",263.4
+2017-03,Vancouver West,"$1,363,400",323.4
+2017-03,Burnaby South,"$923,500",286.2
+2017-03,Coquitlam,"$799,900",251.3
+2017-03,North Vancouver,"$1,126,300",262.2
+2017-04,Vancouver East,"$992,600",309.7
+2017-04,Vancouver West,"$1,390,400",329.8
+2017-04,North Vancouver,"$1,149,000",267.5
+2017-04,Burnaby South,"$941,700",291.8
+2017-04,New Westminster,"$587,100",268.7
+2017-04,West Vancouver,"$2,872,400",309.9
+2017-04,Richmond,"$984,300",324.1
+2017-04,Coquitlam,"$829,100",260.5
+2017-04,Burnaby North,"$837,100",278.9
+2017-05,North Vancouver,"$1,171,900",272.9
+2017-05,Vancouver West,"$1,415,400",335.7
+2017-05,Burnaby North,"$853,100",284.3
+2017-05,Vancouver East,"$1,014,200",316.4
+2017-05,Richmond,"$1,005,800",331.2
+2017-05,New Westminster,"$600,400",274.8
+2017-05,Coquitlam,"$853,100",268.0
+2017-05,West Vancouver,"$2,869,300",309.6
+2017-05,Burnaby South,"$966,000",299.3
+2017-06,North Vancouver,"$1,181,200",275.0
+2017-06,Vancouver West,"$1,426,700",338.4
+2017-06,Burnaby North,"$862,900",287.5
+2017-06,New Westminster,"$614,500",281.2
+2017-06,Coquitlam,"$862,200",270.9
+2017-06,Vancouver East,"$1,025,700",320.0
+2017-06,Burnaby South,"$976,100",302.5
+2017-06,West Vancouver,"$2,885,800",311.4
+2017-06,Richmond,"$1,014,300",334.0
+2017-07,West Vancouver,"$2,887,300",311.5
+2017-07,Vancouver East,"$1,026,300",320.2
+2017-07,Burnaby South,"$986,700",305.8
+2017-07,Vancouver West,"$1,422,900",337.5
+2017-07,Burnaby North,"$865,700",288.5
+2017-07,Richmond,"$1,011,500",333.1
+2017-07,New Westminster,"$621,600",284.5
+2017-07,North Vancouver,"$1,193,200",277.8
+2017-07,Coquitlam,"$868,600",272.9
+2017-08,New Westminster,"$622,900",285.1
+2017-08,Vancouver West,"$1,405,800",333.4
+2017-08,Coquitlam,"$874,400",274.7
+2017-08,Burnaby North,"$876,400",292.0
+2017-08,Burnaby South,"$989,900",306.8
+2017-08,Vancouver East,"$1,024,200",319.6
+2017-08,West Vancouver,"$2,826,000",304.9
+2017-08,Richmond,"$1,007,400",331.7
+2017-08,North Vancouver,"$1,181,700",275.1
+2017-09,Vancouver West,"$1,389,400",329.6
+2017-09,New Westminster,"$622,300",284.8
+2017-09,North Vancouver,"$1,192,000",277.5
+2017-09,West Vancouver,"$2,847,400",307.2
+2017-09,Vancouver East,"$1,022,200",318.9
+2017-09,Coquitlam,"$873,700",274.5
+2017-09,Burnaby North,"$871,500",290.4
+2017-09,Burnaby South,"$995,100",308.4
+2017-09,Richmond,"$1,001,000",329.6
+2017-10,Richmond,"$1,000,200",329.3
+2017-10,Burnaby South,"$987,900",306.1
+2017-10,Coquitlam,"$868,600",272.9
+2017-10,New Westminster,"$624,800",285.9
+2017-10,North Vancouver,"$1,178,400",274.4
+2017-10,Vancouver East,"$1,020,000",318.3
+2017-10,Burnaby North,"$878,400",292.7
+2017-10,West Vancouver,"$2,796,500",301.7
+2017-10,Vancouver West,"$1,401,600",332.4
+2017-11,North Vancouver,"$1,164,800",271.2
+2017-11,Burnaby South,"$989,600",306.7
+2017-11,Burnaby North,"$875,900",291.9
+2017-11,West Vancouver,"$2,824,700",304.8
+2017-11,New Westminster,"$626,300",286.6
+2017-11,Coquitlam,"$876,100",275.2
+2017-11,Vancouver East,"$1,018,900",317.9
+2017-11,Richmond,"$1,001,700",329.8
+2017-11,Vancouver West,"$1,381,000",327.6
+2017-12,Coquitlam,"$878,700",276.1
+2017-12,Vancouver East,"$1,017,300",317.4
+2017-12,North Vancouver,"$1,159,500",270.0
+2017-12,New Westminster,"$633,000",289.7
+2017-12,Vancouver West,"$1,376,700",326.5
+2017-12,Burnaby North,"$881,600",293.8
+2017-12,West Vancouver,"$2,744,800",296.2
+2017-12,Burnaby South,"$991,200",307.2
+2017-12,Richmond,"$1,006,800",331.5
+2018-01,West Vancouver,"$2,787,500",300.8
+2018-01,Vancouver East,"$1,029,600",321.2
+2018-01,Vancouver West,"$1,377,200",326.7
+2018-01,Burnaby North,"$880,100",293.3
+2018-01,North Vancouver,"$1,170,500",272.5
+2018-01,New Westminster,"$640,600",293.2
+2018-01,Coquitlam,"$883,400",277.5
+2018-01,Richmond,"$1,008,800",332.2
+2018-01,Burnaby South,"$994,200",308.1
+2018-02,Coquitlam,"$897,100",281.8
+2018-02,New Westminster,"$654,700",299.6
+2018-02,North Vancouver,"$1,186,400",276.2
+2018-02,West Vancouver,"$2,774,500",299.4
+2018-02,Richmond,"$1,006,500",331.4
+2018-02,Vancouver East,"$1,029,800",321.3
+2018-02,Burnaby North,"$879,400",293.0
+2018-02,Vancouver West,"$1,363,400",323.4
+2018-02,Burnaby South,"$1,007,100",312.1
+2018-03,New Westminster,"$668,100",305.8
+2018-03,Richmond,"$1,017,400",335.0
+2018-03,Burnaby North,"$890,400",296.7
+2018-03,Vancouver West,"$1,352,100",320.7
+2018-03,Vancouver East,"$1,041,000",324.8
+2018-03,West Vancouver,"$2,658,100",286.8
+2018-03,North Vancouver,"$1,189,200",276.9
+2018-03,Coquitlam,"$906,200",284.7
+2018-03,Burnaby South,"$1,004,900",311.4
+2018-04,Burnaby South,"$1,005,700",311.7
+2018-04,Vancouver West,"$1,324,200",314.1
+2018-04,Richmond,"$1,005,800",331.2
+2018-04,Vancouver East,"$1,033,600",322.5
+2018-04,West Vancouver,"$2,671,600",288.3
+2018-04,North Vancouver,"$1,186,700",276.3
+2018-04,Burnaby North,"$886,500",295.4
+2018-04,New Westminster,"$672,800",307.9
+2018-04,Coquitlam,"$912,800",286.8
+2018-05,Burnaby South,"$1,001,800",310.4
+2018-05,Richmond,"$999,700",329.2
+2018-05,North Vancouver,"$1,174,500",273.5
+2018-05,New Westminster,"$680,700",311.5
+2018-05,Vancouver East,"$1,027,800",320.7
+2018-05,Vancouver West,"$1,306,500",309.9
+2018-05,West Vancouver,"$2,569,000",277.2
+2018-05,Burnaby North,"$886,600",295.4
+2018-05,Coquitlam,"$915,600",287.7
+2018-06,Vancouver West,"$1,297,800",307.8
+2018-06,West Vancouver,"$2,644,900",285.4
+2018-06,North Vancouver,"$1,161,100",270.3
+2018-06,Coquitlam,"$901,900",283.3
+2018-06,New Westminster,"$670,500",306.9
+2018-06,Burnaby North,"$874,100",291.3
+2018-06,Vancouver East,"$1,015,500",316.8
+2018-06,Richmond,"$992,100",326.7
+2018-06,Burnaby South,"$1,003,400",310.9
+2018-07,Coquitlam,"$898,200",282.2
+2018-07,Vancouver West,"$1,289,500",305.9
+2018-07,West Vancouver,"$2,559,000",276.1
+2018-07,Vancouver East,"$999,400",311.8
+2018-07,Burnaby North,"$866,600",288.8
+2018-07,North Vancouver,"$1,143,500",266.2
+2018-07,Richmond,"$988,100",325.4
+2018-07,Burnaby South,"$999,100",309.6
+2018-07,New Westminster,"$665,000",304.3
+2018-08,West Vancouver,"$2,511,600",271.0
+2018-08,North Vancouver,"$1,113,000",259.1
+2018-08,Burnaby South,"$977,900",303.0
+2018-08,Coquitlam,"$887,300",278.8
+2018-08,Vancouver West,"$1,275,200",302.5
+2018-08,Vancouver East,"$990,600",309.1
+2018-08,New Westminster,"$650,200",297.6
+2018-08,Burnaby North,"$855,100",284.9
+2018-08,Richmond,"$978,100",322.1
+2018-09,Coquitlam,"$867,400",272.5
+2018-09,New Westminster,"$646,300",295.8
+2018-09,Vancouver East,"$977,400",305.0
+2018-09,North Vancouver,"$1,105,700",257.4
+2018-09,West Vancouver,"$2,442,200",263.5
+2018-09,Burnaby North,"$850,100",283.3
+2018-09,Richmond,"$952,200",313.5
+2018-09,Burnaby South,"$976,500",302.6
+2018-09,Vancouver West,"$1,246,200",295.6
+2018-10,Coquitlam,"$860,600",270.4
+2018-10,Richmond,"$949,500",312.6
+2018-10,Vancouver West,"$1,238,300",293.7
+2018-10,North Vancouver,"$1,099,500",256.0
+2018-10,West Vancouver,"$2,428,700",262.1
+2018-10,Vancouver East,"$963,200",300.5
+2018-10,New Westminster,"$645,400",295.4
+2018-10,Burnaby North,"$839,100",279.6
+2018-10,Burnaby South,"$952,400",295.1
+2018-11,Vancouver West,"$1,210,500",287.1
+2018-11,West Vancouver,"$2,347,400",253.3
+2018-11,Vancouver East,"$951,300",296.8
+2018-11,North Vancouver,"$1,074,300",250.1
+2018-11,Burnaby South,"$940,500",291.4
+2018-11,Richmond,"$921,100",303.3
+2018-11,New Westminster,"$640,100",293.0
+2018-11,Burnaby North,"$807,500",269.1
+2018-11,Coquitlam,"$841,800",264.5
+2018-12,North Vancouver,"$1,070,400",249.2
+2018-12,Richmond,"$910,700",299.9
+2018-12,Burnaby North,"$809,000",269.6
+2018-12,New Westminster,"$630,300",288.5
+2018-12,Vancouver East,"$933,900",291.4
+2018-12,West Vancouver,"$2,276,500",245.6
+2018-12,Vancouver West,"$1,196,500",283.8
+2018-12,Burnaby South,"$930,800",288.4
+2018-12,Coquitlam,"$821,600",258.1
+2019-01,New Westminster,"$618,200",282.9
+2019-01,Vancouver East,"$921,800",287.6
+2019-01,Burnaby South,"$928,500",287.7
+2019-01,West Vancouver,"$2,221,600",239.7
+2019-01,Coquitlam,"$818,900",257.3
+2019-01,Burnaby North,"$785,400",261.7
+2019-01,Vancouver West,"$1,167,000",276.8
+2019-01,Richmond,"$907,300",298.7
+2019-01,North Vancouver,"$1,041,700",242.5
+2019-02,North Vancouver,"$1,044,500",243.2
+2019-02,Vancouver West,"$1,160,200",275.2
+2019-02,New Westminster,"$608,700",278.6
+2019-02,Burnaby North,"$780,900",260.2
+2019-02,Coquitlam,"$816,800",256.6
+2019-02,Burnaby South,"$929,800",288.1
+2019-02,Richmond,"$894,200",294.4
+2019-02,Vancouver East,"$917,500",286.3
+2019-02,West Vancouver,"$2,112,000",227.9
+2019-03,Burnaby North,"$786,100",261.9
+2019-03,Coquitlam,"$808,400",254.0
+2019-03,New Westminster,"$603,300",276.1
+2019-03,West Vancouver,"$2,135,900",230.5
+2019-03,Burnaby South,"$925,600",286.8
+2019-03,Vancouver West,"$1,157,000",274.4
+2019-03,North Vancouver,"$1,051,300",244.8
+2019-03,Richmond,"$875,100",288.1
+2019-03,Vancouver East,"$914,800",285.4
+2019-04,Vancouver East,"$905,100",282.4
+2019-04,Burnaby South,"$906,500",280.9
+2019-04,Vancouver West,"$1,139,400",270.3
+2019-04,Burnaby North,"$775,800",258.5
+2019-04,Richmond,"$876,300",288.5
+2019-04,New Westminster,"$611,300",279.8
+2019-04,West Vancouver,"$2,080,700",224.5
+2019-04,North Vancouver,"$1,058,700",246.5
+2019-04,Coquitlam,"$812,200",255.2
+2019-05,Richmond,"$847,900",279.2
+2019-05,New Westminster,"$607,400",278.0
+2019-05,Coquitlam,"$805,300",253.0
+2019-05,Burnaby South,"$898,800",278.5
+2019-05,Vancouver East,"$900,900",281.1
+2019-05,North Vancouver,"$1,051,100",244.7
+2019-05,West Vancouver,"$2,102,300",226.8
+2019-05,Vancouver West,"$1,117,800",265.1
+2019-05,Burnaby North,"$782,900",260.9
+2019-06,Vancouver West,"$1,114,900",264.4
+2019-06,North Vancouver,"$1,045,400",243.4
+2019-06,Vancouver East,"$892,200",278.4
+2019-06,Richmond,"$847,000",278.9
+2019-06,Coquitlam,"$804,400",252.7
+2019-06,New Westminster,"$600,000",274.6
+2019-06,West Vancouver,"$2,138,800",230.8
+2019-06,Burnaby North,"$768,800",256.2
+2019-06,Burnaby South,"$893,700",276.9
+2019-07,Vancouver East,"$883,800",275.8
+2019-07,Coquitlam,"$800,800",251.6
+2019-07,West Vancouver,"$2,114,000",228.1
+2019-07,Burnaby North,"$766,300",255.3
+2019-07,Richmond,"$846,600",278.8
+2019-07,Vancouver West,"$1,105,400",262.2
+2019-07,Burnaby South,"$882,900",273.6
+2019-07,New Westminster,"$595,400",272.5
+2019-07,North Vancouver,"$1,033,900",240.7
+2019-08,West Vancouver,"$2,146,700",231.6
+2019-08,Burnaby North,"$764,800",254.8
+2019-08,Coquitlam,"$794,500",249.6
+2019-08,Burnaby South,"$888,500",275.3
+2019-08,Vancouver West,"$1,117,600",265.1
+2019-08,Richmond,"$841,900",277.2
+2019-08,New Westminster,"$592,600",271.2
+2019-08,Vancouver East,"$886,800",276.7
+2019-08,North Vancouver,"$1,030,100",239.8
+2019-09,Coquitlam,"$792,500",249.0
+2019-09,Burnaby North,"$763,400",254.4
+2019-09,West Vancouver,"$2,143,300",231.3
+2019-09,North Vancouver,"$1,038,600",241.8
+2019-09,Vancouver West,"$1,116,100",264.7
+2019-09,Richmond,"$853,200",280.9
+2019-09,Vancouver East,"$891,300",278.1
+2019-09,Burnaby South,"$893,200",276.8
+2019-09,New Westminster,"$594,900",272.3
+2019-10,West Vancouver,"$2,176,600",234.9
+2019-10,Vancouver East,"$897,200",279.9
+2019-10,Vancouver West,"$1,121,200",265.9
+2019-10,Coquitlam,"$795,200",249.8
+2019-10,New Westminster,"$596,000",272.8
+2019-10,Burnaby South,"$898,300",278.4
+2019-10,Burnaby North,"$774,200",258.0
+2019-10,North Vancouver,"$1,037,000",241.4
+2019-10,Richmond,"$848,900",279.5
+2019-11,Coquitlam,"$801,800",251.9
+2019-11,Burnaby South,"$899,500",278.7
+2019-11,Burnaby North,"$786,900",262.2
+2019-11,New Westminster,"$597,000",273.2
+2019-11,Richmond,"$854,800",281.5
+2019-11,North Vancouver,"$1,047,400",243.9
+2019-11,West Vancouver,"$2,168,100",233.9
+2019-11,Vancouver West,"$1,126,300",267.1
+2019-11,Vancouver East,"$902,100",281.5
+2019-12,Burnaby South,"$898,800",278.5
+2019-12,Richmond,"$856,000",281.9
+2019-12,Vancouver West,"$1,128,700",267.7
+2019-12,North Vancouver,"$1,044,900",243.3
+2019-12,New Westminster,"$594,900",272.3
+2019-12,Burnaby North,"$783,600",261.1
+2019-12,Coquitlam,"$807,900",253.8
+2019-12,Vancouver East,"$918,900",286.7
+2019-12,West Vancouver,"$2,156,400",232.7
+2020-01,Vancouver East,"$929,500",290.0
+2020-01,Burnaby North,"$798,000",265.9
+2020-01,Burnaby South,"$907,200",281.1
+2020-01,Vancouver West,"$1,150,900",273.0
+2020-01,New Westminster,"$609,400",278.9
+2020-01,West Vancouver,"$2,103,200",226.9
+2020-01,Coquitlam,"$820,700",257.8
+2020-01,North Vancouver,"$1,067,700",248.6
+2020-01,Richmond,"$868,600",286.0
+2020-02,Coquitlam,"$829,200",260.5
+2020-02,Vancouver East,"$945,200",294.9
+2020-02,West Vancouver,"$2,087,300",225.2
+2020-02,Burnaby North,"$805,400",268.4
+2020-02,North Vancouver,"$1,072,500",249.7
+2020-02,Richmond,"$880,200",289.8
+2020-02,Vancouver West,"$1,168,600",277.2
+2020-02,New Westminster,"$624,300",285.7
+2020-02,Burnaby South,"$920,400",285.2
+2020-03,Richmond,"$878,600",289.3
+2020-03,North Vancouver,"$1,076,600",250.7
+2020-03,Vancouver East,"$952,400",297.2
+2020-03,Coquitlam,"$839,500",263.7
+2020-03,Vancouver West,"$1,167,100",276.8
+2020-03,Burnaby South,"$935,400",289.9
+2020-03,West Vancouver,"$2,173,700",234.5
+2020-03,New Westminster,"$621,700",284.5
+2020-03,Burnaby North,"$809,900",269.9
+2020-04,Burnaby North,"$825,700",275.1
+2020-04,West Vancouver,"$2,178,000",235.0
+2020-04,Vancouver West,"$1,149,100",272.6
+2020-04,North Vancouver,"$1,074,200",250.1
+2020-04,Vancouver East,"$951,500",296.9
+2020-04,Burnaby South,"$937,100",290.4
+2020-04,New Westminster,"$631,200",288.9
+2020-04,Richmond,"$880,600",290.0
+2020-04,Coquitlam,"$842,800",264.8
+2020-05,New Westminster,"$626,300",286.6
+2020-05,West Vancouver,"$2,162,400",233.3
+2020-05,Burnaby South,"$949,900",294.4
+2020-05,Vancouver East,"$947,300",295.6
+2020-05,Richmond,"$876,200",288.5
+2020-05,North Vancouver,"$1,073,100",249.8
+2020-05,Coquitlam,"$842,600",264.7
+2020-05,Burnaby North,"$820,600",273.4
+2020-05,Vancouver West,"$1,157,200",274.5
+2020-06,North Vancouver,"$1,086,300",252.9
+2020-06,Burnaby South,"$941,400",291.7
+2020-06,Richmond,"$872,700",287.4
+2020-06,New Westminster,"$620,900",284.2
+2020-06,West Vancouver,"$2,179,800",235.2
+2020-06,Vancouver West,"$1,156,100",274.2
+2020-06,Coquitlam,"$835,100",262.4
+2020-06,Vancouver East,"$948,400",295.9
+2020-06,Burnaby North,"$810,800",270.2
+2020-07,Richmond,"$878,300",289.2
+2020-07,Coquitlam,"$841,300",264.3
+2020-07,Vancouver West,"$1,157,900",274.6
+2020-07,New Westminster,"$629,300",288.0
+2020-07,West Vancouver,"$2,221,400",239.7
+2020-07,North Vancouver,"$1,095,900",255.2
+2020-07,Vancouver East,"$960,000",299.5
+2020-07,Burnaby South,"$922,400",285.8
+2020-07,Burnaby North,"$816,400",272.0
+2020-08,New Westminster,"$635,200",290.7
+2020-08,Burnaby South,"$929,600",288.1
+2020-08,North Vancouver,"$1,107,000",257.7
+2020-08,Vancouver West,"$1,166,800",276.8
+2020-08,Coquitlam,"$847,800",266.4
+2020-08,Burnaby North,"$828,100",275.9
+2020-08,Richmond,"$889,200",292.8
+2020-08,Vancouver East,"$971,700",303.2
+2020-08,West Vancouver,"$2,304,900",248.7
+2020-09,Burnaby South,"$934,000",289.4
+2020-09,New Westminster,"$640,900",293.3
+2020-09,North Vancouver,"$1,121,700",261.2
+2020-09,West Vancouver,"$2,322,800",250.6
+2020-09,Vancouver West,"$1,166,700",276.7
+2020-09,Burnaby North,"$830,100",276.6
+2020-09,Vancouver East,"$976,400",304.6
+2020-09,Coquitlam,"$861,000",270.5
+2020-09,Richmond,"$897,100",295.4
+2020-10,West Vancouver,"$2,354,900",254.1
+2020-10,Burnaby North,"$842,500",280.7
+2020-10,Vancouver East,"$974,200",304.0
+2020-10,Coquitlam,"$866,200",272.1
+2020-10,Vancouver West,"$1,163,300",275.9
+2020-10,North Vancouver,"$1,127,300",262.5
+2020-10,Richmond,"$901,300",296.8
+2020-10,Burnaby South,"$942,000",291.9
+2020-10,New Westminster,"$651,000",297.9
+2020-11,Vancouver East,"$981,700",306.3
+2020-11,Richmond,"$903,700",297.6
+2020-11,Burnaby South,"$941,000",291.6
+2020-11,North Vancouver,"$1,134,100",264.1
+2020-11,Burnaby North,"$850,800",283.5
+2020-11,New Westminster,"$650,600",297.8
+2020-11,Vancouver West,"$1,175,800",278.9
+2020-11,West Vancouver,"$2,406,900",259.7
+2020-11,Coquitlam,"$874,900",274.9
+2020-12,North Vancouver,"$1,146,100",266.8
+2020-12,Vancouver West,"$1,168,700",277.2
+2020-12,Vancouver East,"$990,500",309.0
+2020-12,Coquitlam,"$882,100",277.1
+2020-12,Richmond,"$912,600",300.5
+2020-12,Burnaby South,"$935,100",289.8
+2020-12,West Vancouver,"$2,428,200",262.0
+2020-12,Burnaby North,"$859,900",286.5
+2020-12,New Westminster,"$646,700",296.0
+2021-01,West Vancouver,"$2,479,300",267.5
+2021-01,Burnaby South,"$947,900",293.7
+2021-01,Coquitlam,"$895,600",281.4
+2021-01,Richmond,"$926,100",304.9
+2021-01,Vancouver East,"$996,600",311.0
+2021-01,Burnaby North,"$862,600",287.4
+2021-01,Vancouver West,"$1,199,800",284.6
+2021-01,New Westminster,"$655,700",300.1
+2021-01,North Vancouver,"$1,155,400",269.0
+2021-02,Richmond,"$967,700",318.6
+2021-02,West Vancouver,"$2,582,000",278.6
+2021-02,Burnaby North,"$879,900",293.2
+2021-02,Burnaby South,"$970,800",300.8
+2021-02,Vancouver West,"$1,212,500",287.6
+2021-02,Vancouver East,"$1,013,200",316.1
+2021-02,Coquitlam,"$929,400",292.0
+2021-02,North Vancouver,"$1,199,700",279.3
+2021-02,New Westminster,"$670,600",306.9
+2021-03,Burnaby South,"$997,500",309.1
+2021-03,North Vancouver,"$1,242,800",289.4
+2021-03,Vancouver East,"$1,063,800",331.9
+2021-03,West Vancouver,"$2,643,700",285.3
+2021-03,Richmond,"$1,005,100",331.0
+2021-03,New Westminster,"$697,200",319.1
+2021-03,Coquitlam,"$968,100",304.1
+2021-03,Burnaby North,"$902,100",300.6
+2021-03,Vancouver West,"$1,264,600",300.0
+2021-04,Burnaby North,"$921,300",307.0
+2021-04,West Vancouver,"$2,685,900",289.8
+2021-04,Coquitlam,"$993,300",312.1
+2021-04,North Vancouver,"$1,259,200",293.2
+2021-04,Richmond,"$1,023,300",336.9
+2021-04,Burnaby South,"$1,015,900",314.8
+2021-04,New Westminster,"$709,700",324.8
+2021-04,Vancouver East,"$1,084,200",338.3
+2021-04,Vancouver West,"$1,294,700",307.1
+2021-05,Burnaby South,"$1,027,100",318.3
+2021-05,New Westminster,"$719,300",329.2
+2021-05,Vancouver West,"$1,290,000",306.0
+2021-05,Richmond,"$1,031,000",339.5
+2021-05,North Vancouver,"$1,264,200",294.3
+2021-05,Coquitlam,"$1,002,700",315.0
+2021-05,West Vancouver,"$2,718,100",293.3
+2021-05,Burnaby North,"$932,000",310.6
+2021-05,Vancouver East,"$1,099,100",342.9
+2021-06,West Vancouver,"$2,686,200",289.8
+2021-06,New Westminster,"$720,700",329.8
+2021-06,Vancouver West,"$1,287,900",305.5
+2021-06,Burnaby South,"$1,029,400",319.0
+2021-06,Vancouver East,"$1,094,400",341.5
+2021-06,North Vancouver,"$1,270,700",295.9
+2021-06,Coquitlam,"$1,008,100",316.7
+2021-06,Richmond,"$1,034,500",340.6
+2021-06,Burnaby North,"$938,200",312.6
+2021-07,Coquitlam,"$1,007,400",316.5
+2021-07,Burnaby North,"$933,400",311.0
+2021-07,Vancouver East,"$1,089,600",340.0
+2021-07,New Westminster,"$722,000",330.4
+2021-07,Burnaby South,"$1,030,900",319.5
+2021-07,North Vancouver,"$1,262,900",294.0
+2021-07,Richmond,"$1,031,400",339.6
+2021-07,West Vancouver,"$2,649,300",285.9
+2021-07,Vancouver West,"$1,278,700",303.3
+2021-08,West Vancouver,"$2,623,700",283.1
+2021-08,Vancouver East,"$1,093,000",341.0
+2021-08,Burnaby North,"$934,700",311.5
+2021-08,Richmond,"$1,041,600",343.0
+2021-08,North Vancouver,"$1,253,500",291.9
+2021-08,Burnaby South,"$1,041,800",322.8
+2021-08,Coquitlam,"$1,012,300",318.0
+2021-08,Vancouver West,"$1,284,100",304.6
+2021-08,New Westminster,"$726,100",332.3
+2021-09,Richmond,"$1,047,400",344.9
+2021-09,Vancouver East,"$1,109,000",346.0
+2021-09,Vancouver West,"$1,292,700",306.6
+2021-09,New Westminster,"$733,100",335.5
+2021-09,Coquitlam,"$1,025,500",322.2
+2021-09,North Vancouver,"$1,286,600",299.6
+2021-09,Burnaby North,"$939,400",313.0
+2021-09,Burnaby South,"$1,040,500",322.4
+2021-09,West Vancouver,"$2,665,400",287.6
+2021-10,Coquitlam,"$1,043,900",328.0
+2021-10,Vancouver West,"$1,295,100",307.2
+2021-10,Richmond,"$1,061,000",349.4
+2021-10,Burnaby North,"$944,900",314.9
+2021-10,New Westminster,"$742,400",339.8
+2021-10,Vancouver East,"$1,117,700",348.7
+2021-10,Burnaby South,"$1,039,800",322.2
+2021-10,North Vancouver,"$1,290,700",300.5
+2021-10,West Vancouver,"$2,680,100",289.2
+2021-11,Burnaby South,"$1,060,600",328.7
+2021-11,Vancouver East,"$1,132,500",353.4
+2021-11,Burnaby North,"$959,000",319.6
+2021-11,New Westminster,"$748,100",342.4
+2021-11,Coquitlam,"$1,059,300",332.8
+2021-11,Vancouver West,"$1,295,800",307.4
+2021-11,North Vancouver,"$1,320,900",307.5
+2021-11,West Vancouver,"$2,691,300",290.4
+2021-11,Richmond,"$1,073,000",353.3
+2021-12,Burnaby North,"$971,800",323.8
+2021-12,Richmond,"$1,082,900",356.6
+2021-12,Vancouver West,"$1,301,400",308.7
+2021-12,Coquitlam,"$1,085,900",341.2
+2021-12,New Westminster,"$758,600",347.2
+2021-12,Vancouver East,"$1,146,800",357.8
+2021-12,Burnaby South,"$1,083,200",335.7
+2021-12,North Vancouver,"$1,316,700",306.6
+2021-12,West Vancouver,"$2,746,500",296.3
+2022-01,New Westminster,"$791,800",362.4
+2022-01,Vancouver West,"$1,334,300",316.5
+2022-01,West Vancouver,"$2,717,700",293.2
+2022-01,Coquitlam,"$1,130,100",355.0
+2022-01,North Vancouver,"$1,370,600",319.1
+2022-01,Vancouver East,"$1,171,200",365.4
+2022-01,Burnaby South,"$1,125,200",348.7
+2022-01,Burnaby North,"$990,700",330.1
+2022-01,Richmond,"$1,128,900",371.7
+2022-02,North Vancouver,"$1,447,800",337.1
+2022-02,Richmond,"$1,171,200",385.6
+2022-02,West Vancouver,"$2,766,500",298.5
+2022-02,Vancouver West,"$1,354,900",321.4
+2022-02,Vancouver East,"$1,214,100",378.8
+2022-02,New Westminster,"$833,500",381.5
+2022-02,Burnaby South,"$1,168,500",362.1
+2022-02,Coquitlam,"$1,181,400",371.2
+2022-02,Burnaby North,"$1,032,700",344.1
+2022-03,Richmond,"$1,194,900",393.4
+2022-03,West Vancouver,"$2,769,900",298.9
+2022-03,North Vancouver,"$1,477,100",343.9
+2022-03,Burnaby South,"$1,195,800",370.6
+2022-03,Coquitlam,"$1,220,700",383.5
+2022-03,Burnaby North,"$1,056,400",352.0
+2022-03,Vancouver West,"$1,373,300",325.7
+2022-03,New Westminster,"$852,800",390.3
+2022-03,Vancouver East,"$1,250,100",390.0
+2022-04,Burnaby North,"$1,071,100",356.9
+2022-04,Richmond,"$1,192,500",392.7
+2022-04,West Vancouver,"$2,838,500",306.3
+2022-04,Vancouver West,"$1,370,500",325.1
+2022-04,Vancouver East,"$1,245,400",388.6
+2022-04,Burnaby South,"$1,207,800",374.3
+2022-04,Coquitlam,"$1,225,500",385.0
+2022-04,New Westminster,"$853,000",390.4
+2022-04,North Vancouver,"$1,464,100",340.9
+2022-05,North Vancouver,"$1,457,400",339.3
+2022-05,New Westminster,"$848,200",388.2
+2022-05,Richmond,"$1,187,800",391.1
+2022-05,Burnaby North,"$1,074,600",358.1
+2022-05,Coquitlam,"$1,212,200",380.8
+2022-05,Vancouver East,"$1,241,200",387.3
+2022-05,Burnaby South,"$1,201,100",372.2
+2022-05,Vancouver West,"$1,361,300",322.9
+2022-05,West Vancouver,"$2,886,300",311.4
+2022-06,West Vancouver,"$2,888,400",311.7
+2022-06,Richmond,"$1,179,900",388.5
+2022-06,Vancouver East,"$1,218,800",380.3
+2022-06,Burnaby South,"$1,167,500",361.8
+2022-06,Burnaby North,"$1,066,600",355.4
+2022-06,North Vancouver,"$1,422,300",331.2
+2022-06,Vancouver West,"$1,332,400",316.0
+2022-06,Coquitlam,"$1,166,800",366.6
+2022-06,New Westminster,"$831,200",380.4
+2022-07,Coquitlam,"$1,146,700",360.3
+2022-07,North Vancouver,"$1,393,500",324.4
+2022-07,Vancouver West,"$1,303,200",309.1
+2022-07,West Vancouver,"$2,793,000",301.4
+2022-07,Vancouver East,"$1,192,600",372.1
+2022-07,New Westminster,"$820,800",375.7
+2022-07,Burnaby South,"$1,118,900",346.7
+2022-07,Richmond,"$1,154,400",380.1
+2022-07,Burnaby North,"$1,047,500",349.1
+2022-08,Burnaby North,"$1,007,800",335.8
+2022-08,Richmond,"$1,134,600",373.6
+2022-08,New Westminster,"$804,200",368.1
+2022-08,Vancouver West,"$1,288,100",305.5
+2022-08,Burnaby South,"$1,111,500",344.4
+2022-08,Coquitlam,"$1,118,100",351.3
+2022-08,North Vancouver,"$1,354,000",315.3
+2022-08,West Vancouver,"$2,757,300",297.5
+2022-08,Vancouver East,"$1,169,000",364.7
+2022-09,North Vancouver,"$1,304,500",303.7
+2022-09,Vancouver West,"$1,268,400",300.9
+2022-09,Burnaby North,"$994,400",331.4
+2022-09,New Westminster,"$794,600",363.7
+2022-09,Burnaby South,"$1,085,600",336.4
+2022-09,Richmond,"$1,121,700",369.3
+2022-09,Coquitlam,"$1,100,700",345.8
+2022-09,Vancouver East,"$1,140,000",355.7
+2022-09,West Vancouver,"$2,689,100",290.1
+2022-10,Richmond,"$1,113,000",366.5
+2022-10,Vancouver East,"$1,120,800",349.7
+2022-10,Coquitlam,"$1,087,400",341.6
+2022-10,North Vancouver,"$1,315,800",306.4
+2022-10,Burnaby North,"$991,000",330.2
+2022-10,New Westminster,"$796,500",364.5
+2022-10,Vancouver West,"$1,265,000",300.0
+2022-10,West Vancouver,"$2,712,000",292.6
+2022-10,Burnaby South,"$1,080,400",334.8
+2022-11,Vancouver East,"$1,124,800",351.0
+2022-11,Richmond,"$1,099,700",362.1
+2022-11,West Vancouver,"$2,588,900",279.3
+2022-11,New Westminster,"$784,100",358.9
+2022-11,Vancouver West,"$1,241,900",294.6
+2022-11,Burnaby North,"$979,100",326.3
+2022-11,North Vancouver,"$1,309,300",304.8
+2022-11,Coquitlam,"$1,072,400",336.9
+2022-11,Burnaby South,"$1,074,900",333.1
+2022-12,Vancouver East,"$1,108,900",346.0
+2022-12,Coquitlam,"$1,058,700",332.6
+2022-12,Burnaby South,"$1,076,800",333.7
+2022-12,Richmond,"$1,084,400",357.1
+2022-12,West Vancouver,"$2,547,000",274.8
+2022-12,North Vancouver,"$1,283,200",298.8
+2022-12,Burnaby North,"$962,800",320.8
+2022-12,New Westminster,"$768,800",351.9
+2022-12,Vancouver West,"$1,223,300",290.2
+2023-01,Coquitlam,"$1,061,700",333.6
+2023-01,West Vancouver,"$2,506,200",270.4
+2023-01,North Vancouver,"$1,278,000",297.6
+2023-01,Vancouver East,"$1,100,700",343.4
+2023-01,Richmond,"$1,103,400",363.3
+2023-01,Burnaby South,"$1,070,100",331.6
+2023-01,New Westminster,"$777,000",355.6
+2023-01,Vancouver West,"$1,229,900",291.7
+2023-01,Burnaby North,"$964,200",321.3
+2023-02,New Westminster,"$792,400",362.7
+2023-02,Burnaby South,"$1,081,700",335.2
+2023-02,West Vancouver,"$2,473,600",266.9
+2023-02,Burnaby North,"$969,600",323.1
+2023-02,Vancouver West,"$1,262,300",299.4
+2023-02,North Vancouver,"$1,318,100",306.9
+2023-02,Coquitlam,"$1,068,900",335.8
+2023-02,Vancouver East,"$1,116,300",348.3
+2023-02,Richmond,"$1,135,800",374.0
+2023-03,Richmond,"$1,148,900",378.3
+2023-03,North Vancouver,"$1,329,700",309.6
+2023-03,Vancouver West,"$1,273,700",302.1
+2023-03,Burnaby North,"$986,900",328.9
+2023-03,West Vancouver,"$2,495,400",269.2
+2023-03,New Westminster,"$796,300",364.4
+2023-03,Vancouver East,"$1,132,300",353.3
+2023-03,Coquitlam,"$1,081,800",339.9
+2023-03,Burnaby South,"$1,091,700",338.3
+2023-04,Burnaby North,"$1,004,100",334.6
+2023-04,Burnaby South,"$1,124,700",348.5
+2023-04,Vancouver East,"$1,168,300",364.5
+2023-04,New Westminster,"$805,800",368.8
+2023-04,Coquitlam,"$1,099,500",345.4
+2023-04,Vancouver West,"$1,305,500",309.7
+2023-04,North Vancouver,"$1,356,600",315.9
+2023-04,Richmond,"$1,169,100",385.0
+2023-04,West Vancouver,"$2,535,200",273.5
+2023-05,New Westminster,"$822,100",376.2
+2023-05,Vancouver West,"$1,312,800",311.4
+2023-05,Richmond,"$1,188,000",391.2
+2023-05,Burnaby South,"$1,134,100",351.4
+2023-05,North Vancouver,"$1,380,600",321.4
+2023-05,West Vancouver,"$2,562,900",276.5
+2023-05,Burnaby North,"$1,016,900",338.9
+2023-05,Vancouver East,"$1,191,900",371.9
+2023-05,Coquitlam,"$1,114,200",350.0
+2023-06,Vancouver West,"$1,330,100",315.5
+2023-06,Coquitlam,"$1,133,100",356.0
+2023-06,Vancouver East,"$1,215,600",379.3
+2023-06,Burnaby North,"$1,028,500",342.7
+2023-06,Richmond,"$1,180,900",388.8
+2023-06,West Vancouver,"$2,646,700",285.6
+2023-06,Burnaby South,"$1,146,800",355.4
+2023-06,New Westminster,"$834,100",381.7
+2023-06,North Vancouver,"$1,392,000",324.1
+2023-07,Burnaby North,"$1,021,600",340.4
+2023-07,Coquitlam,"$1,133,700",356.2
+2023-07,West Vancouver,"$2,645,600",285.5
+2023-07,North Vancouver,"$1,391,900",324.1
+2023-07,Burnaby South,"$1,159,100",359.2
+2023-07,Richmond,"$1,183,200",389.6
+2023-07,Vancouver East,"$1,227,600",383.0
+2023-07,Vancouver West,"$1,343,200",318.6
+2023-07,New Westminster,"$839,700",384.3
+2023-08,Burnaby South,"$1,163,400",360.5
+2023-08,Burnaby North,"$1,019,900",339.9
+2023-08,Vancouver West,"$1,339,600",317.7
+2023-08,North Vancouver,"$1,378,600",321.0
+2023-08,Richmond,"$1,183,400",389.7
+2023-08,Vancouver East,"$1,235,800",385.6
+2023-08,New Westminster,"$839,600",384.3
+2023-08,West Vancouver,"$2,655,600",286.5
+2023-08,Coquitlam,"$1,133,200",356.0
+2023-09,West Vancouver,"$2,649,600",285.9
+2023-09,Burnaby North,"$1,016,900",338.9
+2023-09,Richmond,"$1,179,900",388.5
+2023-09,Vancouver East,"$1,227,300",382.9
+2023-09,New Westminster,"$834,500",381.9
+2023-09,Vancouver West,"$1,343,300",318.6
+2023-09,Coquitlam,"$1,119,900",351.8
+2023-09,North Vancouver,"$1,372,900",319.7
+2023-09,Burnaby South,"$1,153,000",357.3
+2023-10,Coquitlam,"$1,113,100",349.7
+2023-10,New Westminster,"$829,800",379.8
+2023-10,Vancouver West,"$1,322,400",313.7
+2023-10,West Vancouver,"$2,656,400",286.6
+2023-10,Burnaby South,"$1,147,700",355.7
+2023-10,Burnaby North,"$1,022,500",340.7
+2023-10,North Vancouver,"$1,377,400",320.7
+2023-10,Vancouver East,"$1,215,800",379.3
+2023-10,Richmond,"$1,176,200",387.3
+2023-11,North Vancouver,"$1,354,100",315.3
+2023-11,New Westminster,"$822,600",376.5
+2023-11,Richmond,"$1,170,000",385.2
+2023-11,Burnaby South,"$1,130,900",350.4
+2023-11,Vancouver West,"$1,318,700",312.8
+2023-11,Coquitlam,"$1,101,800",346.2
+2023-11,Vancouver East,"$1,205,300",376.1
+2023-11,Burnaby North,"$1,003,300",334.3
+2023-11,West Vancouver,"$2,552,600",275.4
+2023-12,Richmond,"$1,147,900",378.0
+2023-12,North Vancouver,"$1,349,300",314.2
+2023-12,Vancouver West,"$1,291,200",306.3
+2023-12,Burnaby North,"$996,500",332.1
+2023-12,Vancouver East,"$1,189,600",371.2
+2023-12,Coquitlam,"$1,094,100",343.7
+2023-12,Burnaby South,"$1,122,400",347.8
+2023-12,West Vancouver,"$2,518,900",271.8
+2023-12,New Westminster,"$809,300",370.4
+2024-01,North Vancouver,"$1,339,700",311.9
+2024-01,Coquitlam,"$1,097,500",344.8
+2024-01,Vancouver East,"$1,184,700",369.6
+2024-01,New Westminster,"$813,200",372.2
+2024-01,West Vancouver,"$2,524,400",272.4
+2024-01,Richmond,"$1,155,200",380.4
+2024-01,Vancouver West,"$1,299,400",308.2
+2024-01,Burnaby South,"$1,124,300",348.4
+2024-01,Burnaby North,"$996,000",331.9
+2024-02,Burnaby South,"$1,139,800",353.2
+2024-02,West Vancouver,"$2,519,600",271.9
+2024-02,North Vancouver,"$1,359,000",316.4
+2024-02,Vancouver West,"$1,310,900",310.9
+2024-02,New Westminster,"$828,400",379.1
+2024-02,Coquitlam,"$1,112,500",349.5
+2024-02,Burnaby North,"$1,006,200",335.3
+2024-02,Vancouver East,"$1,198,700",374.0
+2024-02,Richmond,"$1,177,800",387.8
+2024-03,Vancouver East,"$1,211,900",378.1
+2024-03,North Vancouver,"$1,375,300",320.2
+2024-03,New Westminster,"$839,500",384.2
+2024-03,West Vancouver,"$2,623,300",283.0
+2024-03,Richmond,"$1,190,700",392.1
+2024-03,Burnaby North,"$1,018,600",339.4
+2024-03,Burnaby South,"$1,151,400",356.8
+2024-03,Vancouver West,"$1,324,700",314.2
+2024-03,Coquitlam,"$1,121,700",352.4
+2024-04,Richmond,"$1,189,300",391.6
+2024-04,Vancouver East,"$1,223,000",381.6
+2024-04,Burnaby South,"$1,152,100",357.0
+2024-04,Burnaby North,"$1,019,700",339.8
+2024-04,West Vancouver,"$2,592,300",279.7
+2024-04,Coquitlam,"$1,125,000",353.4
+2024-04,North Vancouver,"$1,386,600",322.8
+2024-04,New Westminster,"$838,200",383.6
+2024-04,Vancouver West,"$1,347,100",319.5
+2024-05,Vancouver West,"$1,344,700",319.0
+2024-05,Vancouver East,"$1,227,700",383.1
+2024-05,Burnaby North,"$1,019,900",339.9
+2024-05,New Westminster,"$841,300",385.0
+2024-05,West Vancouver,"$2,648,800",285.8
+2024-05,Coquitlam,"$1,124,500",353.3
+2024-05,Burnaby South,"$1,158,200",358.9
+2024-05,North Vancouver,"$1,405,900",327.3
+2024-05,Richmond,"$1,193,300",392.9
+2024-06,Burnaby North,"$1,022,400",340.7
+2024-06,Burnaby South,"$1,147,400",355.6
+2024-06,New Westminster,"$825,300",377.7
+2024-06,North Vancouver,"$1,397,500",325.4
+2024-06,Coquitlam,"$1,113,600",349.9
+2024-06,Richmond,"$1,174,900",386.9
+2024-06,Vancouver East,"$1,232,800",384.6
+2024-06,West Vancouver,"$2,640,100",284.9
+2024-06,Vancouver West,"$1,352,000",320.7
+2024-07,Richmond,"$1,166,500",384.1
+2024-07,North Vancouver,"$1,384,300",322.3
+2024-07,Vancouver East,"$1,217,900",380.0
+2024-07,West Vancouver,"$2,609,300",281.5
+2024-07,Coquitlam,"$1,110,800",349.0
+2024-07,Vancouver West,"$1,339,900",317.8
+2024-07,Burnaby North,"$1,018,800",339.5
+2024-07,Burnaby South,"$1,141,500",353.7
+2024-07,New Westminster,"$821,300",375.9
+2024-08,Vancouver West,"$1,335,600",316.8
+2024-08,New Westminster,"$831,600",380.6
+2024-08,West Vancouver,"$2,629,600",283.7
+2024-08,Burnaby North,"$1,012,800",337.5
+2024-08,Coquitlam,"$1,104,400",347.0
+2024-08,Vancouver East,"$1,221,600",381.2
+2024-08,North Vancouver,"$1,366,500",318.2
+2024-08,Burnaby South,"$1,139,700",353.2
+2024-08,Richmond,"$1,174,700",386.8
+2024-09,Burnaby North,"$997,600",332.4
+2024-09,Vancouver West,"$1,319,000",312.9
+2024-09,Richmond,"$1,161,000",382.3
+2024-09,Vancouver East,"$1,206,500",376.4
+2024-09,Coquitlam,"$1,088,200",341.9
+2024-09,New Westminster,"$836,800",383.0
+2024-09,North Vancouver,"$1,333,300",310.4
+2024-09,Burnaby South,"$1,101,500",341.3
+2024-09,West Vancouver,"$2,550,900",275.2
+2024-10,Coquitlam,"$1,080,000",339.3
+2024-10,North Vancouver,"$1,320,200",307.4
+2024-10,Burnaby South,"$1,118,500",346.6
+2024-10,West Vancouver,"$2,513,100",271.2
+2024-10,Vancouver West,"$1,300,000",308.3
+2024-10,Richmond,"$1,145,300",377.1
+2024-10,Burnaby North,"$993,200",331.0
+2024-10,New Westminster,"$818,900",374.8
+2024-10,Vancouver East,"$1,216,300",379.5
+2024-11,Coquitlam,"$1,067,400",335.3
+2024-11,Burnaby South,"$1,120,200",347.1
+2024-11,Vancouver West,"$1,314,000",311.7
+2024-11,West Vancouver,"$2,503,600",270.1
+2024-11,Richmond,"$1,143,100",376.4
+2024-11,Burnaby North,"$989,000",329.6
+2024-11,New Westminster,"$811,800",371.5
+2024-11,Vancouver East,"$1,208,400",377.0
+2024-11,North Vancouver,"$1,327,600",309.1
+2024-12,Vancouver West,"$1,309,800",310.7
+2024-12,New Westminster,"$820,900",375.7
+2024-12,North Vancouver,"$1,320,600",307.5
+2024-12,Richmond,"$1,144,500",376.9
+2024-12,Burnaby South,"$1,122,500",347.8
+2024-12,Vancouver East,"$1,207,100",376.6
+2024-12,Burnaby North,"$986,700",328.8
+2024-12,West Vancouver,"$2,564,300",276.7
+2024-12,Coquitlam,"$1,074,900",337.7
+2025-01,Coquitlam,"$1,076,300",338.1
+2025-01,North Vancouver,"$1,346,400",313.5
+2025-01,Vancouver East,"$1,208,800",377.2
+2025-01,Burnaby North,"$993,700",331.1
+2025-01,New Westminster,"$821,000",375.7
+2025-01,Vancouver West,"$1,309,100",310.5
+2025-01,West Vancouver,"$2,481,300",267.7
+2025-01,Richmond,"$1,145,300",377.1
+2025-01,Burnaby South,"$1,121,300",347.5
