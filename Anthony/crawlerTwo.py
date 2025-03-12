@@ -3,9 +3,8 @@ import re
 import requests
 import csv
 
-# api_key = "AIzaSyCXWOG_sUAT5W9VE0lvH6jpSLMg7klaU9s"
 
-api_key = "AIzaSyCdv2UPOBPL3H9haGKRnks6p_DKku91Nw4"
+api_key = ""
 
 
 def get_lat_long_google(address):
