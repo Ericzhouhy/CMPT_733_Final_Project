@@ -4,7 +4,7 @@ import requests
 import csv
 
 
-api_key = "" # Add api key when execute
+api_key = ""  # Add api key when execute
 
 
 def get_lat_long_google(address):
@@ -104,7 +104,8 @@ with open('/Users/anthony/Downloads/data2.pdf', 'rb') as file:
 
         # 提取 bed 和 bath 信息，分别存储
         for description in descriptions[1:]:  # 跳过第一个描述
-            bed_bath = re.findall(r'(\d+)\s*bed\s*-\s*(\d+)\s*bath', description)
+            bed_bath = re.findall(
+                r'(\d+)\s*bed\s*-\s*(\d+)\s*bath', description)
             if bed_bath:
                 beds.append(bed_bath[0][0])  # 存储床的数量
                 baths.append(bed_bath[0][1])  # 存储浴室的数量
@@ -113,7 +114,7 @@ with open('/Users/anthony/Downloads/data2.pdf', 'rb') as file:
                 baths.append(None)
 
         # 提取 publication date 中的日期部分
-        for pub_date in pubDate: 
+        for pub_date in pubDate:
             # 使用正则表达式提取年、月、日
             match = re.findall(r'(\d{2})\s([A-Za-z]{3})\s(\d{2})', pub_date)
             if match:
@@ -167,4 +168,3 @@ def save_to_csv(property_list):
 
 
 save_to_csv(property_list)
-
