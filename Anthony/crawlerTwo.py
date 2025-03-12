@@ -3,8 +3,9 @@ import re
 import requests
 import csv
 
+# api_key = "AIzaSyCXWOG_sUAT5W9VE0lvH6jpSLMg7klaU9s"
 
-api_key = "" # Add api key when execute
+api_key = "AIzaSyCdv2UPOBPL3H9haGKRnks6p_DKku91Nw4"
 
 
 def get_lat_long_google(address):
@@ -49,15 +50,16 @@ longitudes = []
 
 # 存储所有的房产信息
 property_list = []
-start_page = 700
+start_page = 1100
+csv_file = '/Users/anthony/Downloads/propertyInVancouver.csv'  # CSV 文件路径
 # 打开 PDF 文件
-with open('/Users/anthony/Downloads/data2.pdf', 'rb') as file:
+with open('/Users/anthony/Desktop/cmpt733 final project/Raw_data/data3.pdf', 'rb') as file:
     reader = PyPDF2.PdfReader(file)
     # max_page = min(20, len(reader.pages))
     # total_pages = len(reader.pages)
 
     # for page_num in range(max_page):
-    for page_num in range(start_page, 702):
+    for page_num in range(start_page, 1358):
         addresses.clear()
         prices.clear()
         price_types.clear()
@@ -104,7 +106,8 @@ with open('/Users/anthony/Downloads/data2.pdf', 'rb') as file:
 
         # 提取 bed 和 bath 信息，分别存储
         for description in descriptions[1:]:  # 跳过第一个描述
-            bed_bath = re.findall(r'(\d+)\s*bed\s*-\s*(\d+)\s*bath', description)
+            bed_bath = re.findall(
+                r'(\d+)\s*bed\s*-\s*(\d+)\s*bath', description)
             if bed_bath:
                 beds.append(bed_bath[0][0])  # 存储床的数量
                 baths.append(bed_bath[0][1])  # 存储浴室的数量
@@ -113,7 +116,7 @@ with open('/Users/anthony/Downloads/data2.pdf', 'rb') as file:
                 baths.append(None)
 
         # 提取 publication date 中的日期部分
-        for pub_date in pubDate: 
+        for pub_date in pubDate:
             # 使用正则表达式提取年、月、日
             match = re.findall(r'(\d{2})\s([A-Za-z]{3})\s(\d{2})', pub_date)
             if match:
@@ -143,28 +146,38 @@ with open('/Users/anthony/Downloads/data2.pdf', 'rb') as file:
 # for property in property_list:
 #     print(property)
 
-def save_to_csv(property_list):
-    # 指定 CSV 文件的路径
-    output_file = '/Users/anthony/Downloads/propertyInVancouver.csv'
+def get_existing_addresses(csv_file):
+    existing_addresses = set()
+    try:
+        with open(csv_file, mode='r', newline='', encoding='utf-8') as file:
+            reader = csv.DictReader(file)
+            for row in reader:
+                # 假设每条数据都有 Address 字段
+                existing_addresses.add(row['Address'].strip())
+    except FileNotFoundError:
+        print(f"{csv_file} not found. No existing data to check against.")
+    return existing_addresses
 
-    # CSV 字段名
-    fieldnames = ['Address', 'Price', 'Price Type',
-                  'Latitude', 'Longitude', 'Beds', 'Baths', 'Date']
 
-    # 写入 CSV 文件
-    with open(output_file, mode='a', newline='', encoding='utf-8') as file:
-        writer = csv.DictWriter(file, fieldnames=fieldnames)
+def save_to_csv(property_list, csv_file):
+    existing_addresses = get_existing_addresses(csv_file)
+    with open(csv_file, mode='a', newline='', encoding='utf-8') as file:
+        writer = csv.DictWriter(file, fieldnames=[
+                                'Address', 'Price', 'Price Type', 'Latitude', 'Longitude', 'Beds', 'Baths', 'Date'])
 
         # 如果文件为空（即没有表头），则写入表头
         if file.tell() == 0:
             writer.writeheader()
 
-        # 写入每一条数据
         for property_data in property_list:
+            # 如果地址已经存在，则跳过
+            if property_data['Address'] in existing_addresses:
+                continue
+            # 否则，添加到 CSV 文件中
             writer.writerow(property_data)
+            existing_addresses.add(property_data['Address'])  # 将新地址添加到集合中
 
-    print(f"Data has been written to {output_file}")
+    print(f"New data has been written to {csv_file}")
 
 
-save_to_csv(property_list)
-
+save_to_csv(property_list, csv_file)
