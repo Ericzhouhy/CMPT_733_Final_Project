@@ -1,0 +1,965 @@
+Date,Benchmark,Residential Type
+2025-01,"$695,700",Apartment
+2025-01,"$971,100",Townhouse
+2025-01,"$1,787,800",Detached
+2025-01,"$1,102,400",Residential - All Types
+2024-12,"$696,900",Apartment
+2024-12,"$976,400",Townhouse
+2024-12,"$1,781,100",Detached
+2024-12,"$1,101,300",Residential - All Types
+2024-11,"$699,800",Apartment
+2024-11,"$981,000",Townhouse
+2024-11,"$1,781,000",Detached
+2024-11,"$1,103,100",Residential - All Types
+2024-10,"$974,300",Townhouse
+2024-10,"$1,103,600",Residential - All Types
+2024-10,"$1,785,600",Detached
+2024-10,"$704,500",Apartment
+2024-09,"$708,400",Apartment
+2024-09,"$970,200",Townhouse
+2024-09,"$1,802,500",Detached
+2024-09,"$1,110,900",Residential - All Types
+2024-08,"$713,300",Apartment
+2024-08,"$986,500",Townhouse
+2024-08,"$1,826,500",Detached
+2024-08,"$1,126,200",Residential - All Types
+2024-07,"$714,400",Apartment
+2024-07,"$990,500",Townhouse
+2024-07,"$1,828,600",Detached
+2024-07,"$1,129,300",Residential - All Types
+2024-06,"$1,834,100",Detached
+2024-06,"$1,136,100",Residential - All Types
+2024-06,"$718,200",Apartment
+2024-06,"$998,400",Townhouse
+2024-05,"$721,200",Apartment
+2024-05,"$1,003,600",Townhouse
+2024-05,"$1,834,800",Detached
+2024-05,"$1,140,600",Residential - All Types
+2024-04,"$722,700",Apartment
+2024-04,"$998,200",Townhouse
+2024-04,"$1,816,800",Detached
+2024-04,"$1,137,300",Residential - All Types
+2024-03,"$988,300",Townhouse
+2024-03,"$1,803,600",Detached
+2024-03,"$1,132,200",Residential - All Types
+2024-03,"$719,800",Apartment
+2024-02,"$713,400",Apartment
+2024-02,"$972,600",Townhouse
+2024-02,"$1,764,000",Detached
+2024-02,"$1,117,800",Residential - All Types
+2024-01,"$706,300",Apartment
+2024-01,"$954,900",Townhouse
+2024-01,"$1,737,700",Detached
+2024-01,"$1,103,600",Residential - All Types
+2023-12,"$697,100",Apartment
+2023-12,"$953,800",Townhouse
+2023-12,"$1,742,000",Detached
+2023-12,"$1,101,900",Residential - All Types
+2023-11,"$969,200",Townhouse
+2023-11,"$1,117,400",Residential - All Types
+2023-11,"$1,759,200",Detached
+2023-11,"$707,500",Apartment
+2023-10,"$713,300",Apartment
+2023-10,"$976,500",Townhouse
+2023-10,"$1,775,000",Detached
+2023-10,"$1,128,600",Residential - All Types
+2023-09,"$712,300",Apartment
+2023-09,"$977,900",Townhouse
+2023-09,"$1,793,100",Detached
+2023-09,"$1,137,900",Residential - All Types
+2023-08,"$979,300",Townhouse
+2023-08,"$1,796,700",Detached
+2023-08,"$1,143,700",Residential - All Types
+2023-08,"$715,300",Apartment
+2023-07,"$716,900",Apartment
+2023-07,"$981,300",Townhouse
+2023-07,"$1,796,800",Detached
+2023-07,"$1,147,700",Residential - All Types
+2023-06,"$712,700",Apartment
+2023-06,"$976,300",Townhouse
+2023-06,"$1,776,800",Detached
+2023-06,"$1,140,900",Residential - All Types
+2023-05,"$705,300",Apartment
+2023-05,"$958,600",Townhouse
+2023-05,"$1,739,700",Detached
+2023-05,"$1,123,300",Residential - All Types
+2023-04,"$951,400",Townhouse
+2023-04,"$1,106,300",Residential - All Types
+2023-04,"$1,704,400",Detached
+2023-04,"$696,500",Apartment
+2023-03,"$681,100",Apartment
+2023-03,"$929,100",Townhouse
+2023-03,"$1,650,200",Detached
+2023-03,"$1,076,600",Residential - All Types
+2023-02,"$674,500",Apartment
+2023-02,"$918,900",Townhouse
+2023-02,"$1,622,100",Detached
+2023-02,"$1,062,600",Residential - All Types
+2023-01,"$1,047,700",Residential - All Types
+2023-01,"$666,600",Apartment
+2023-01,"$901,600",Townhouse
+2023-01,"$1,597,000",Detached
+2022-12,"$1,614,600",Detached
+2022-12,"$1,051,200",Residential - All Types
+2022-12,"$659,100",Apartment
+2022-12,"$899,900",Townhouse
+2022-11,"$667,500",Apartment
+2022-11,"$913,600",Townhouse
+2022-11,"$1,645,300",Detached
+2022-11,"$1,068,800",Residential - All Types
+2022-10,"$674,500",Apartment
+2022-10,"$926,400",Townhouse
+2022-10,"$1,678,800",Detached
+2022-10,"$1,087,000",Residential - All Types
+2022-09,"$935,000",Townhouse
+2022-09,"$1,096,900",Residential - All Types
+2022-09,"$676,500",Apartment
+2022-09,"$1,697,700",Detached
+2022-08,"$954,700",Townhouse
+2022-08,"$1,124,300",Residential - All Types
+2022-08,"$1,747,200",Detached
+2022-08,"$687,800",Apartment
+2022-07,"$701,900",Apartment
+2022-07,"$986,100",Townhouse
+2022-07,"$1,809,200",Detached
+2022-07,"$1,158,800",Residential - All Types
+2022-06,"$713,900",Apartment
+2022-06,"$1,005,000",Townhouse
+2022-06,"$1,866,000",Detached
+2022-06,"$1,189,700",Residential - All Types
+2022-05,"$726,900",Apartment
+2022-05,"$1,030,300",Townhouse
+2022-05,"$1,912,100",Detached
+2022-05,"$1,219,000",Residential - All Types
+2022-04,"$1,935,900",Detached
+2022-04,"$1,231,600",Residential - All Types
+2022-04,"$1,039,600",Townhouse
+2022-04,"$726,000",Apartment
+2022-03,"$722,600",Apartment
+2022-03,"$1,036,800",Townhouse
+2022-03,"$1,941,500",Detached
+2022-03,"$1,233,800",Residential - All Types
+2022-02,"$704,700",Apartment
+2022-02,"$1,003,200",Townhouse
+2022-02,"$1,903,700",Detached
+2022-02,"$1,207,100",Residential - All Types
+2022-01,"$676,500",Apartment
+2022-01,"$948,400",Townhouse
+2022-01,"$1,819,900",Detached
+2022-01,"$1,153,700",Residential - All Types
+2021-12,"$1,743,700",Detached
+2021-12,"$1,107,300",Residential - All Types
+2021-12,"$649,200",Apartment
+2021-12,"$905,800",Townhouse
+2021-11,"$641,300",Apartment
+2021-11,"$885,600",Townhouse
+2021-11,"$1,702,500",Detached
+2021-11,"$1,085,400",Residential - All Types
+2021-10,"$633,300",Apartment
+2021-10,"$862,400",Townhouse
+2021-10,"$1,664,900",Detached
+2021-10,"$1,065,300",Residential - All Types
+2021-09,"$626,600",Apartment
+2021-09,"$848,400",Townhouse
+2021-09,"$1,630,500",Detached
+2021-09,"$1,047,600",Residential - All Types
+2021-08,"$1,605,400",Detached
+2021-08,"$1,033,900",Residential - All Types
+2021-08,"$621,400",Apartment
+2021-08,"$835,400",Townhouse
+2021-07,"$618,200",Apartment
+2021-07,"$829,000",Townhouse
+2021-07,"$1,589,500",Detached
+2021-07,"$1,025,700",Residential - All Types
+2021-06,"$619,200",Apartment
+2021-06,"$825,200",Townhouse
+2021-06,"$1,596,400",Detached
+2021-06,"$1,027,500",Residential - All Types
+2021-05,"$1,600,000",Detached
+2021-05,"$1,026,400",Residential - All Types
+2021-05,"$817,600",Townhouse
+2021-05,"$617,200",Apartment
+2021-04,"$615,700",Apartment
+2021-04,"$802,300",Townhouse
+2021-04,"$1,579,900",Detached
+2021-04,"$1,014,900",Residential - All Types
+2021-03,"$603,300",Apartment
+2021-03,"$775,000",Townhouse
+2021-03,"$1,542,000",Detached
+2021-03,"$988,600",Residential - All Types
+2021-02,"$585,900",Apartment
+2021-02,"$740,200",Townhouse
+2021-02,"$1,468,300",Detached
+2021-02,"$944,200",Residential - All Types
+2021-01,"$1,405,400",Detached
+2021-01,"$909,700",Residential - All Types
+2021-01,"$573,900",Apartment
+2021-01,"$711,800",Townhouse
+2020-12,"$562,800",Apartment
+2020-12,"$705,700",Townhouse
+2020-12,"$1,371,900",Detached
+2020-12,"$891,700",Residential - All Types
+2020-11,"$563,700",Apartment
+2020-11,"$703,500",Townhouse
+2020-11,"$1,355,100",Detached
+2020-11,"$884,500",Residential - All Types
+2020-10,"$1,337,400",Detached
+2020-10,"$876,200",Residential - All Types
+2020-10,"$702,500",Townhouse
+2020-10,"$562,900",Apartment
+2020-09,"$565,000",Apartment
+2020-09,"$698,500",Townhouse
+2020-09,"$1,324,000",Detached
+2020-09,"$869,300",Residential - All Types
+2020-08,"$564,200",Apartment
+2020-08,"$695,300",Townhouse
+2020-08,"$1,307,900",Detached
+2020-08,"$861,200",Residential - All Types
+2020-07,"$851,600",Residential - All Types
+2020-07,"$1,293,600",Detached
+2020-07,"$693,600",Townhouse
+2020-07,"$559,600",Apartment
+2020-06,"$562,500",Apartment
+2020-06,"$686,800",Townhouse
+2020-06,"$1,276,500",Detached
+2020-06,"$843,900",Residential - All Types
+2020-05,"$563,800",Apartment
+2020-05,"$684,600",Townhouse
+2020-05,"$1,271,900",Detached
+2020-05,"$842,400",Residential - All Types
+2020-04,"$683,400",Townhouse
+2020-04,"$1,271,100",Detached
+2020-04,"$842,900",Residential - All Types
+2020-04,"$564,000",Apartment
+2020-03,"$686,500",Townhouse
+2020-03,"$843,600",Residential - All Types
+2020-03,"$566,800",Apartment
+2020-03,"$1,264,800",Detached
+2020-02,"$679,800",Townhouse
+2020-02,"$1,250,900",Detached
+2020-02,"$837,200",Residential - All Types
+2020-02,"$566,600",Apartment
+2020-01,"$555,500",Apartment
+2020-01,"$675,500",Townhouse
+2020-01,"$1,234,000",Detached
+2020-01,"$825,400",Residential - All Types
+2019-12,"$546,400",Apartment
+2019-12,"$669,800",Townhouse
+2019-12,"$1,225,000",Detached
+2019-12,"$816,600",Residential - All Types
+2019-11,"$665,000",Townhouse
+2019-11,"$1,222,000",Detached
+2019-11,"$813,600",Residential - All Types
+2019-11,"$544,700",Apartment
+2019-10,"$539,500",Apartment
+2019-10,"$664,000",Townhouse
+2019-10,"$1,223,300",Detached
+2019-10,"$811,100",Residential - All Types
+2019-09,"$541,600",Apartment
+2019-09,"$665,100",Townhouse
+2019-09,"$1,211,100",Detached
+2019-09,"$807,600",Residential - All Types
+2019-08,"$539,700",Apartment
+2019-08,"$668,400",Townhouse
+2019-08,"$1,208,200",Detached
+2019-08,"$805,900",Residential - All Types
+2019-07,"$667,000",Townhouse
+2019-07,"$1,206,200",Detached
+2019-07,"$805,100",Residential - All Types
+2019-07,"$540,100",Apartment
+2019-06,"$542,900",Apartment
+2019-06,"$667,300",Townhouse
+2019-06,"$1,213,100",Detached
+2019-06,"$809,100",Residential - All Types
+2019-05,"$546,200",Apartment
+2019-05,"$671,500",Townhouse
+2019-05,"$1,215,600",Detached
+2019-05,"$813,000",Residential - All Types
+2019-04,"$553,200",Apartment
+2019-04,"$671,100",Townhouse
+2019-04,"$1,222,400",Detached
+2019-04,"$821,100",Residential - All Types
+2019-03,"$1,223,300",Detached
+2019-03,"$825,300",Residential - All Types
+2019-03,"$666,000",Townhouse
+2019-03,"$556,600",Apartment
+2019-02,"$557,400",Apartment
+2019-02,"$667,100",Townhouse
+2019-02,"$1,224,100",Detached
+2019-02,"$829,400",Residential - All Types
+2019-01,"$559,700",Apartment
+2019-01,"$668,000",Townhouse
+2019-01,"$1,225,100",Detached
+2019-01,"$833,700",Residential - All Types
+2018-12,"$562,200",Apartment
+2018-12,"$677,200",Townhouse
+2018-12,"$1,247,200",Detached
+2018-12,"$846,900",Residential - All Types
+2018-11,"$1,268,300",Detached
+2018-11,"$858,600",Residential - All Types
+2018-11,"$689,100",Townhouse
+2018-11,"$562,500",Apartment
+2018-10,"$576,900",Apartment
+2018-10,"$697,200",Townhouse
+2018-10,"$1,290,300",Detached
+2018-10,"$876,500",Residential - All Types
+2018-09,"$582,900",Apartment
+2018-09,"$704,600",Townhouse
+2018-09,"$1,301,300",Detached
+2018-09,"$886,500",Residential - All Types
+2018-08,"$712,400",Townhouse
+2018-08,"$1,322,400",Detached
+2018-08,"$901,100",Residential - All Types
+2018-08,"$591,500",Apartment
+2018-07,"$601,700",Apartment
+2018-07,"$719,800",Townhouse
+2018-07,"$1,337,700",Detached
+2018-07,"$914,700",Residential - All Types
+2018-06,"$604,000",Apartment
+2018-06,"$722,000",Townhouse
+2018-06,"$1,354,300",Detached
+2018-06,"$925,000",Residential - All Types
+2018-05,"$606,900",Apartment
+2018-05,"$723,900",Townhouse
+2018-05,"$1,358,500",Detached
+2018-05,"$931,400",Residential - All Types
+2018-04,"$720,900",Townhouse
+2018-04,"$937,500",Residential - All Types
+2018-04,"$1,369,800",Detached
+2018-04,"$605,900",Apartment
+2018-03,"$606,700",Apartment
+2018-03,"$714,600",Townhouse
+2018-03,"$1,371,000",Detached
+2018-03,"$940,700",Residential - All Types
+2018-02,"$593,900",Apartment
+2018-02,"$698,100",Townhouse
+2018-02,"$1,377,800",Detached
+2018-02,"$938,200",Residential - All Types
+2018-01,"$934,500",Residential - All Types
+2018-01,"$585,700",Apartment
+2018-01,"$682,700",Townhouse
+2018-01,"$1,378,900",Detached
+2017-12,"$1,377,300",Detached
+2017-12,"$929,500",Residential - All Types
+2017-12,"$570,500",Apartment
+2017-12,"$680,600",Townhouse
+2017-11,"$562,600",Apartment
+2017-11,"$677,600",Townhouse
+2017-11,"$1,383,100",Detached
+2017-11,"$929,300",Residential - All Types
+2017-10,"$558,400",Apartment
+2017-10,"$674,900",Townhouse
+2017-10,"$1,387,400",Detached
+2017-10,"$930,500",Residential - All Types
+2017-09,"$669,500",Townhouse
+2017-09,"$932,000",Residential - All Types
+2017-09,"$551,300",Apartment
+2017-09,"$1,393,400",Detached
+2017-08,"$666,900",Townhouse
+2017-08,"$1,399,400",Detached
+2017-08,"$935,100",Residential - All Types
+2017-08,"$548,200",Apartment
+2017-07,"$541,200",Apartment
+2017-07,"$659,400",Townhouse
+2017-07,"$1,410,500",Detached
+2017-07,"$938,400",Residential - All Types
+2017-06,"$535,600",Apartment
+2017-06,"$646,400",Townhouse
+2017-06,"$1,404,500",Detached
+2017-06,"$934,400",Residential - All Types
+2017-05,"$635,200",Townhouse
+2017-05,"$1,391,300",Detached
+2017-05,"$924,800",Residential - All Types
+2017-05,"$524,700",Apartment
+2017-04,"$511,400",Apartment
+2017-04,"$620,600",Townhouse
+2017-04,"$1,363,900",Detached
+2017-04,"$907,400",Residential - All Types
+2017-03,"$496,500",Apartment
+2017-03,"$607,700",Townhouse
+2017-03,"$1,336,000",Detached
+2017-03,"$888,800",Residential - All Types
+2017-02,"$483,100",Apartment
+2017-02,"$596,500",Townhouse
+2017-02,"$1,312,500",Detached
+2017-02,"$874,000",Residential - All Types
+2017-01,"$586,100",Townhouse
+2017-01,"$1,292,400",Detached
+2017-01,"$861,000",Residential - All Types
+2017-01,"$471,400",Apartment
+2016-12,"$460,100",Apartment
+2016-12,"$578,000",Townhouse
+2016-12,"$1,295,200",Detached
+2016-12,"$858,200",Residential - All Types
+2016-11,"$456,800",Apartment
+2016-11,"$579,700",Townhouse
+2016-11,"$1,313,800",Detached
+2016-11,"$867,000",Residential - All Types
+2016-10,"$454,700",Apartment
+2016-10,"$577,600",Townhouse
+2016-10,"$1,336,900",Detached
+2016-10,"$877,800",Residential - All Types
+2016-09,"$1,375,800",Detached
+2016-09,"$900,100",Residential - All Types
+2016-09,"$581,500",Townhouse
+2016-09,"$459,200",Apartment
+2016-08,"$456,900",Apartment
+2016-08,"$582,800",Townhouse
+2016-08,"$1,398,000",Detached
+2016-08,"$911,400",Residential - All Types
+2016-07,"$458,300",Apartment
+2016-07,"$575,900",Townhouse
+2016-07,"$1,411,500",Detached
+2016-07,"$919,300",Residential - All Types
+2016-06,"$452,000",Apartment
+2016-06,"$566,500",Townhouse
+2016-06,"$1,397,900",Detached
+2016-06,"$912,100",Residential - All Types
+2016-05,"$551,500",Townhouse
+2016-05,"$1,377,500",Detached
+2016-05,"$897,800",Residential - All Types
+2016-05,"$440,300",Apartment
+2016-04,"$429,700",Apartment
+2016-04,"$530,100",Townhouse
+2016-04,"$1,346,300",Detached
+2016-04,"$877,000",Residential - All Types
+2016-03,"$418,900",Apartment
+2016-03,"$513,000",Townhouse
+2016-03,"$1,305,600",Detached
+2016-03,"$851,300",Residential - All Types
+2016-02,"$408,700",Apartment
+2016-02,"$492,900",Townhouse
+2016-02,"$1,253,700",Detached
+2016-02,"$819,700",Residential - All Types
+2016-01,"$1,184,200",Detached
+2016-01,"$779,200",Residential - All Types
+2016-01,"$477,200",Townhouse
+2016-01,"$394,400",Apartment
+2015-12,"$383,500",Apartment
+2015-12,"$470,000",Townhouse
+2015-12,"$1,141,700",Detached
+2015-12,"$754,100",Residential - All Types
+2015-11,"$381,700",Apartment
+2015-11,"$466,200",Townhouse
+2015-11,"$1,121,500",Detached
+2015-11,"$743,200",Residential - All Types
+2015-10,"$376,900",Apartment
+2015-10,"$463,000",Townhouse
+2015-10,"$1,102,600",Detached
+2015-10,"$732,400",Residential - All Types
+2015-09,"$1,082,200",Detached
+2015-09,"$721,200",Residential - All Types
+2015-09,"$456,500",Townhouse
+2015-09,"$374,800",Apartment
+2015-08,"$369,700",Apartment
+2015-08,"$451,700",Townhouse
+2015-08,"$1,068,100",Detached
+2015-08,"$712,600",Residential - All Types
+2015-07,"$366,900",Apartment
+2015-07,"$450,700",Townhouse
+2015-07,"$1,051,700",Detached
+2015-07,"$703,800",Residential - All Types
+2015-06,"$693,700",Residential - All Types
+2015-06,"$365,200",Apartment
+2015-06,"$448,000",Townhouse
+2015-06,"$1,032,700",Detached
+2015-05,"$681,600",Residential - All Types
+2015-05,"$1,012,400",Detached
+2015-05,"$443,300",Townhouse
+2015-05,"$362,500",Apartment
+2015-04,"$359,200",Apartment
+2015-04,"$438,400",Townhouse
+2015-04,"$990,500",Detached
+2015-04,"$669,100",Residential - All Types
+2015-03,"$355,400",Apartment
+2015-03,"$434,600",Townhouse
+2015-03,"$973,600",Detached
+2015-03,"$658,700",Residential - All Types
+2015-02,"$427,700",Townhouse
+2015-02,"$951,500",Detached
+2015-02,"$644,600",Residential - All Types
+2015-02,"$349,700",Apartment
+2015-01,"$346,000",Apartment
+2015-01,"$423,500",Townhouse
+2015-01,"$930,900",Detached
+2015-01,"$632,900",Residential - All Types
+2014-12,"$343,300",Apartment
+2014-12,"$420,000",Townhouse
+2014-12,"$914,800",Detached
+2014-12,"$623,700",Residential - All Types
+2014-11,"$345,200",Apartment
+2014-11,"$421,700",Townhouse
+2014-11,"$908,400",Detached
+2014-11,"$621,800",Residential - All Types
+2014-10,"$421,700",Townhouse
+2014-10,"$902,700",Detached
+2014-10,"$618,200",Residential - All Types
+2014-10,"$343,500",Apartment
+2014-09,"$342,400",Apartment
+2014-09,"$420,800",Townhouse
+2014-09,"$897,400",Detached
+2014-09,"$615,400",Residential - All Types
+2014-08,"$342,400",Apartment
+2014-08,"$419,400",Townhouse
+2014-08,"$889,900",Detached
+2014-08,"$611,500",Residential - All Types
+2014-07,"$340,000",Apartment
+2014-07,"$419,300",Townhouse
+2014-07,"$892,200",Detached
+2014-07,"$611,900",Residential - All Types
+2014-06,"$419,300",Townhouse
+2014-06,"$888,800",Detached
+2014-06,"$610,900",Residential - All Types
+2014-06,"$341,400",Apartment
+2014-05,"$343,100",Apartment
+2014-05,"$418,100",Townhouse
+2014-05,"$885,700",Detached
+2014-05,"$609,900",Residential - All Types
+2014-04,"$340,400",Apartment
+2014-04,"$415,400",Townhouse
+2014-04,"$884,800",Detached
+2014-04,"$608,000",Residential - All Types
+2014-03,"$338,700",Apartment
+2014-03,"$413,400",Townhouse
+2014-03,"$882,200",Detached
+2014-03,"$606,300",Residential - All Types
+2014-02,"$874,300",Detached
+2014-02,"$601,800",Residential - All Types
+2014-02,"$412,000",Townhouse
+2014-02,"$337,100",Apartment
+2014-01,"$332,900",Apartment
+2014-01,"$407,300",Townhouse
+2014-01,"$867,200",Detached
+2014-01,"$596,500",Residential - All Types
+2013-12,"$328,900",Apartment
+2013-12,"$406,700",Townhouse
+2013-12,"$859,800",Detached
+2013-12,"$591,400",Residential - All Types
+2013-11,"$332,200",Apartment
+2013-11,"$407,600",Townhouse
+2013-11,"$857,600",Detached
+2013-11,"$591,500",Residential - All Types
+2013-10,"$854,900",Detached
+2013-10,"$589,500",Residential - All Types
+2013-10,"$407,800",Townhouse
+2013-10,"$329,200",Apartment
+2013-09,"$335,200",Apartment
+2013-09,"$406,900",Townhouse
+2013-09,"$851,500",Detached
+2013-09,"$589,700",Residential - All Types
+2013-08,"$333,400",Apartment
+2013-08,"$407,100",Townhouse
+2013-08,"$849,100",Detached
+2013-08,"$588,100",Residential - All Types
+2013-07,"$333,000",Apartment
+2013-07,"$406,700",Townhouse
+2013-07,"$848,200",Detached
+2013-07,"$587,200",Residential - All Types
+2013-06,"$845,500",Detached
+2013-06,"$585,300",Residential - All Types
+2013-06,"$406,200",Townhouse
+2013-06,"$331,400",Apartment
+2013-05,"$330,800",Apartment
+2013-05,"$407,300",Townhouse
+2013-05,"$844,000",Detached
+2013-05,"$584,000",Residential - All Types
+2013-04,"$328,400",Apartment
+2013-04,"$403,400",Townhouse
+2013-04,"$842,900",Detached
+2013-04,"$581,500",Residential - All Types
+2013-03,"$329,300",Apartment
+2013-03,"$406,000",Townhouse
+2013-03,"$835,000",Detached
+2013-03,"$578,300",Residential - All Types
+2013-02,"$831,700",Detached
+2013-02,"$576,300",Residential - All Types
+2013-02,"$327,100",Apartment
+2013-02,"$407,100",Townhouse
+2013-01,"$321,600",Apartment
+2013-01,"$402,400",Townhouse
+2013-01,"$818,800",Detached
+2013-01,"$567,700",Residential - All Types
+2012-12,"$321,600",Apartment
+2012-12,"$401,900",Townhouse
+2012-12,"$820,400",Detached
+2012-12,"$568,100",Residential - All Types
+2012-11,"$402,700",Townhouse
+2012-11,"$828,200",Detached
+2012-11,"$571,700",Residential - All Types
+2012-11,"$322,600",Apartment
+2012-10,"$325,600",Apartment
+2012-10,"$403,200",Townhouse
+2012-10,"$837,200",Detached
+2012-10,"$576,700",Residential - All Types
+2012-09,"$327,700",Apartment
+2012-09,"$403,300",Townhouse
+2012-09,"$845,000",Detached
+2012-09,"$580,500",Residential - All Types
+2012-08,"$330,600",Apartment
+2012-08,"$406,500",Townhouse
+2012-08,"$849,400",Detached
+2012-08,"$583,800",Residential - All Types
+2012-07,"$586,900",Residential - All Types
+2012-07,"$854,700",Detached
+2012-07,"$409,200",Townhouse
+2012-07,"$330,800",Apartment
+2012-06,"$335,700",Apartment
+2012-06,"$414,400",Townhouse
+2012-06,"$864,300",Detached
+2012-06,"$594,400",Residential - All Types
+2012-05,"$337,300",Apartment
+2012-05,"$416,900",Townhouse
+2012-05,"$871,300",Detached
+2012-05,"$598,400",Residential - All Types
+2012-04,"$338,400",Apartment
+2012-04,"$418,400",Townhouse
+2012-04,"$878,100",Detached
+2012-04,"$602,000",Residential - All Types
+2012-03,"$416,100",Townhouse
+2012-03,"$599,700",Residential - All Types
+2012-03,"$875,800",Detached
+2012-03,"$337,200",Apartment
+2012-02,"$334,700",Apartment
+2012-02,"$411,100",Townhouse
+2012-02,"$870,300",Detached
+2012-02,"$595,100",Residential - All Types
+2012-01,"$332,700",Apartment
+2012-01,"$406,800",Townhouse
+2012-01,"$850,700",Detached
+2012-01,"$584,500",Residential - All Types
+2011-12,"$331,600",Apartment
+2011-12,"$407,600",Townhouse
+2011-12,"$582,100",Residential - All Types
+2011-12,"$846,700",Detached
+2011-11,"$851,500",Detached
+2011-11,"$585,100",Residential - All Types
+2011-11,"$331,800",Apartment
+2011-11,"$412,200",Townhouse
+2011-10,"$330,200",Apartment
+2011-10,"$414,100",Townhouse
+2011-10,"$852,200",Detached
+2011-10,"$585,300",Residential - All Types
+2011-09,"$332,900",Apartment
+2011-09,"$413,400",Townhouse
+2011-09,"$852,300",Detached
+2011-09,"$585,900",Residential - All Types
+2011-08,"$855,300",Detached
+2011-08,"$587,700",Residential - All Types
+2011-08,"$415,500",Townhouse
+2011-08,"$334,400",Apartment
+2011-07,"$334,800",Apartment
+2011-07,"$412,600",Townhouse
+2011-07,"$850,600",Detached
+2011-07,"$584,500",Residential - All Types
+2011-06,"$335,700",Apartment
+2011-06,"$410,500",Townhouse
+2011-06,"$841,400",Detached
+2011-06,"$579,700",Residential - All Types
+2011-05,"$411,500",Townhouse
+2011-05,"$830,700",Detached
+2011-05,"$574,400",Residential - All Types
+2011-05,"$336,300",Apartment
+2011-04,"$564,600",Residential - All Types
+2011-04,"$813,400",Detached
+2011-04,"$409,300",Townhouse
+2011-04,"$334,700",Apartment
+2011-03,"$333,000",Apartment
+2011-03,"$404,800",Townhouse
+2011-03,"$793,700",Detached
+2011-03,"$553,400",Residential - All Types
+2011-02,"$329,800",Apartment
+2011-02,"$401,200",Townhouse
+2011-02,"$776,600",Detached
+2011-02,"$543,000",Residential - All Types
+2011-01,"$396,000",Townhouse
+2011-01,"$750,200",Detached
+2011-01,"$527,500",Residential - All Types
+2011-01,"$324,400",Apartment
+2010-12,"$320,700",Apartment
+2010-12,"$393,500",Townhouse
+2010-12,"$733,900",Detached
+2010-12,"$517,900",Residential - All Types
+2010-11,"$319,300",Apartment
+2010-11,"$392,000",Townhouse
+2010-11,"$727,100",Detached
+2010-11,"$514,000",Residential - All Types
+2010-10,"$318,100",Apartment
+2010-10,"$391,600",Townhouse
+2010-10,"$723,800",Detached
+2010-10,"$511,500",Residential - All Types
+2010-09,"$721,800",Detached
+2010-09,"$510,600",Residential - All Types
+2010-09,"$392,200",Townhouse
+2010-09,"$318,400",Apartment
+2010-08,"$318,300",Apartment
+2010-08,"$395,100",Townhouse
+2010-08,"$723,000",Detached
+2010-08,"$511,700",Residential - All Types
+2010-07,"$318,900",Apartment
+2010-07,"$398,000",Townhouse
+2010-07,"$725,400",Detached
+2010-07,"$513,500",Residential - All Types
+2010-06,"$516,600",Residential - All Types
+2010-06,"$727,800",Detached
+2010-06,"$399,600",Townhouse
+2010-06,"$323,800",Apartment
+2010-05,"$326,300",Apartment
+2010-05,"$400,100",Townhouse
+2010-05,"$731,900",Detached
+2010-05,"$519,000",Residential - All Types
+2010-04,"$326,400",Apartment
+2010-04,"$399,000",Townhouse
+2010-04,"$728,500",Detached
+2010-04,"$517,500",Residential - All Types
+2010-03,"$395,700",Townhouse
+2010-03,"$720,600",Detached
+2010-03,"$512,700",Residential - All Types
+2010-03,"$324,000",Apartment
+2010-02,"$390,700",Townhouse
+2010-02,"$503,900",Residential - All Types
+2010-02,"$320,200",Apartment
+2010-02,"$706,300",Detached
+2010-01,"$695,400",Detached
+2010-01,"$497,200",Residential - All Types
+2010-01,"$317,500",Apartment
+2010-01,"$386,700",Townhouse
+2009-12,"$314,200",Apartment
+2009-12,"$382,100",Townhouse
+2009-12,"$681,600",Detached
+2009-12,"$489,000",Residential - All Types
+2009-11,"$311,300",Apartment
+2009-11,"$378,600",Townhouse
+2009-11,"$674,100",Detached
+2009-11,"$484,000",Residential - All Types
+2009-10,"$374,800",Townhouse
+2009-10,"$666,400",Detached
+2009-10,"$478,700",Residential - All Types
+2009-10,"$308,200",Apartment
+2009-09,"$306,300",Apartment
+2009-09,"$370,900",Townhouse
+2009-09,"$658,600",Detached
+2009-09,"$473,900",Residential - All Types
+2009-08,"$300,900",Apartment
+2009-08,"$365,500",Townhouse
+2009-08,"$645,700",Detached
+2009-08,"$465,100",Residential - All Types
+2009-07,"$296,500",Apartment
+2009-07,"$360,200",Townhouse
+2009-07,"$632,300",Detached
+2009-07,"$456,500",Residential - All Types
+2009-06,"$355,100",Townhouse
+2009-06,"$619,400",Detached
+2009-06,"$448,100",Residential - All Types
+2009-06,"$292,100",Apartment
+2009-05,"$285,900",Apartment
+2009-05,"$352,400",Townhouse
+2009-05,"$611,700",Detached
+2009-05,"$441,900",Residential - All Types
+2009-04,"$280,300",Apartment
+2009-04,"$350,000",Townhouse
+2009-04,"$602,900",Detached
+2009-04,"$435,700",Residential - All Types
+2009-03,"$275,700",Apartment
+2009-03,"$347,300",Townhouse
+2009-03,"$594,200",Detached
+2009-03,"$430,000",Residential - All Types
+2009-02,"$596,500",Detached
+2009-02,"$431,600",Residential - All Types
+2009-02,"$348,900",Townhouse
+2009-02,"$275,700",Apartment
+2009-01,"$276,300",Apartment
+2009-01,"$350,800",Townhouse
+2009-01,"$599,100",Detached
+2009-01,"$433,300",Residential - All Types
+2008-12,"$276,600",Apartment
+2008-12,"$352,900",Townhouse
+2008-12,"$602,400",Detached
+2008-12,"$435,400",Residential - All Types
+2008-11,"$283,600",Apartment
+2008-11,"$360,500",Townhouse
+2008-11,"$617,100",Detached
+2008-11,"$446,000",Residential - All Types
+2008-10,"$632,300",Detached
+2008-10,"$458,000",Residential - All Types
+2008-10,"$368,700",Townhouse
+2008-10,"$293,400",Apartment
+2008-09,"$304,100",Apartment
+2008-09,"$377,400",Townhouse
+2008-09,"$648,100",Detached
+2008-09,"$471,000",Residential - All Types
+2008-08,"$307,300",Apartment
+2008-08,"$380,600",Townhouse
+2008-08,"$658,600",Detached
+2008-08,"$477,800",Residential - All Types
+2008-07,"$384,000",Townhouse
+2008-07,"$669,400",Detached
+2008-07,"$485,100",Residential - All Types
+2008-07,"$310,500",Apartment
+2008-06,"$315,700",Apartment
+2008-06,"$387,700",Townhouse
+2008-06,"$680,500",Detached
+2008-06,"$492,900",Residential - All Types
+2008-05,"$316,800",Apartment
+2008-05,"$386,400",Townhouse
+2008-05,"$678,800",Detached
+2008-05,"$492,800",Residential - All Types
+2008-04,"$317,400",Apartment
+2008-04,"$385,200",Townhouse
+2008-04,"$676,700",Detached
+2008-04,"$492,600",Residential - All Types
+2008-03,"$384,000",Townhouse
+2008-03,"$491,600",Residential - All Types
+2008-03,"$675,400",Detached
+2008-03,"$316,900",Apartment
+2008-02,"$312,800",Apartment
+2008-02,"$379,500",Townhouse
+2008-02,"$667,000",Detached
+2008-02,"$485,900",Residential - All Types
+2008-01,"$311,400",Apartment
+2008-01,"$375,100",Townhouse
+2008-01,"$658,300",Detached
+2008-01,"$481,100",Residential - All Types
+2007-12,"$475,800",Residential - All Types
+2007-12,"$307,600",Apartment
+2007-12,"$371,000",Townhouse
+2007-12,"$650,700",Detached
+2007-11,"$648,900",Detached
+2007-11,"$473,400",Residential - All Types
+2007-11,"$304,100",Apartment
+2007-11,"$369,300",Townhouse
+2007-10,"$302,100",Apartment
+2007-10,"$367,600",Townhouse
+2007-10,"$647,600",Detached
+2007-10,"$471,800",Residential - All Types
+2007-09,"$301,900",Apartment
+2007-09,"$365,900",Townhouse
+2007-09,"$645,900",Detached
+2007-09,"$470,700",Residential - All Types
+2007-08,"$363,800",Townhouse
+2007-08,"$467,400",Residential - All Types
+2007-08,"$299,300",Apartment
+2007-08,"$641,800",Detached
+2007-07,"$637,700",Detached
+2007-07,"$464,100",Residential - All Types
+2007-07,"$361,700",Townhouse
+2007-07,"$296,300",Apartment
+2007-06,"$293,700",Apartment
+2007-06,"$359,600",Townhouse
+2007-06,"$633,600",Detached
+2007-06,"$460,900",Residential - All Types
+2007-05,"$289,800",Apartment
+2007-05,"$355,700",Townhouse
+2007-05,"$623,900",Detached
+2007-05,"$454,300",Residential - All Types
+2007-04,"$351,800",Townhouse
+2007-04,"$614,500",Detached
+2007-04,"$448,400",Residential - All Types
+2007-04,"$287,400",Apartment
+2007-03,"$282,000",Apartment
+2007-03,"$347,900",Townhouse
+2007-03,"$605,000",Detached
+2007-03,"$441,400",Residential - All Types
+2007-02,"$277,200",Apartment
+2007-02,"$344,800",Townhouse
+2007-02,"$597,100",Detached
+2007-02,"$435,400",Residential - All Types
+2007-01,"$272,100",Apartment
+2007-01,"$341,700",Townhouse
+2007-01,"$589,400",Detached
+2007-01,"$429,400",Residential - All Types
+2006-12,"$581,800",Detached
+2006-12,"$423,300",Residential - All Types
+2006-12,"$338,700",Townhouse
+2006-12,"$266,600",Apartment
+2006-11,"$267,800",Apartment
+2006-11,"$336,700",Townhouse
+2006-11,"$581,800",Detached
+2006-11,"$423,500",Residential - All Types
+2006-10,"$269,300",Apartment
+2006-10,"$334,800",Townhouse
+2006-10,"$581,500",Detached
+2006-10,"$423,600",Residential - All Types
+2006-09,"$423,700",Residential - All Types
+2006-09,"$333,000",Townhouse
+2006-09,"$581,500",Detached
+2006-09,"$270,100",Apartment
+2006-08,"$267,800",Apartment
+2006-08,"$329,800",Townhouse
+2006-08,"$576,100",Detached
+2006-08,"$419,800",Residential - All Types
+2006-07,"$265,300",Apartment
+2006-07,"$326,700",Townhouse
+2006-07,"$570,700",Detached
+2006-07,"$415,800",Residential - All Types
+2006-06,"$411,400",Residential - All Types
+2006-06,"$261,600",Apartment
+2006-06,"$323,600",Townhouse
+2006-06,"$565,300",Detached
+2006-05,"$317,400",Townhouse
+2006-05,"$554,000",Detached
+2006-05,"$403,700",Residential - All Types
+2006-05,"$257,600",Apartment
+2006-04,"$395,800",Residential - All Types
+2006-04,"$543,000",Detached
+2006-04,"$311,400",Townhouse
+2006-04,"$252,600",Apartment
+2006-03,"$246,400",Apartment
+2006-03,"$305,500",Townhouse
+2006-03,"$532,000",Detached
+2006-03,"$387,400",Residential - All Types
+2006-02,"$241,200",Apartment
+2006-02,"$299,600",Townhouse
+2006-02,"$521,900",Detached
+2006-02,"$379,900",Residential - All Types
+2006-01,"$293,800",Townhouse
+2006-01,"$512,000",Detached
+2006-01,"$372,200",Residential - All Types
+2006-01,"$235,500",Apartment
+2005-12,"$228,800",Apartment
+2005-12,"$288,100",Townhouse
+2005-12,"$502,200",Detached
+2005-12,"$364,300",Residential - All Types
+2005-11,"$227,000",Apartment
+2005-11,"$286,300",Townhouse
+2005-11,"$498,700",Detached
+2005-11,"$361,700",Residential - All Types
+2005-10,"$226,300",Apartment
+2005-10,"$284,500",Townhouse
+2005-10,"$495,000",Detached
+2005-10,"$359,500",Residential - All Types
+2005-09,"$491,400",Detached
+2005-09,"$357,500",Residential - All Types
+2005-09,"$282,700",Townhouse
+2005-09,"$226,300",Apartment
+2005-08,"$218,600",Apartment
+2005-08,"$279,200",Townhouse
+2005-08,"$485,400",Detached
+2005-08,"$351,300",Residential - All Types
+2005-07,"$217,000",Apartment
+2005-07,"$275,800",Townhouse
+2005-07,"$479,500",Detached
+2005-07,"$347,500",Residential - All Types
+2005-06,"$343,300",Residential - All Types
+2005-06,"$272,400",Townhouse
+2005-06,"$473,600",Detached
+2005-06,"$214,600",Apartment
+2005-05,"$211,000",Apartment
+2005-05,"$270,300",Townhouse
+2005-05,"$470,000",Detached
+2005-05,"$339,900",Residential - All Types
+2005-04,"$208,300",Apartment
+2005-04,"$268,200",Townhouse
+2005-04,"$466,400",Detached
+2005-04,"$337,000",Residential - All Types
+2005-03,"$334,200",Residential - All Types
+2005-03,"$206,300",Apartment
+2005-03,"$266,000",Townhouse
+2005-03,"$462,700",Detached
+2005-02,"$264,000",Townhouse
+2005-02,"$459,200",Detached
+2005-02,"$330,600",Residential - All Types
+2005-02,"$202,000",Apartment
+2005-01,"$261,900",Townhouse
+2005-01,"$455,600",Detached
+2005-01,"$199,300",Apartment
+2005-01,"$327,600",Residential - All Types

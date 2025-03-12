@@ -3,3 +3,4 @@
 
 # Ignore IDE specific files
 .vscode/
+eric/.DS_Store
