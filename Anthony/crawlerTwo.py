@@ -3,7 +3,7 @@ import re
 import requests
 import csv
 
-api_key = "AIzaSyDfX_KghcL9Db-3mkJQQvG0X-LBd9HtSkU"
+api_key = ""
 
 # List of valid cities (only these addresses will trigger geocoding and be output)
 valid_cities = ["Vancouver", "Burnaby", "Richmond",
@@ -16,7 +16,6 @@ def extract_city(address):
     if len(parts) > 1:
         return parts[-1]  # 返回最后一部分，即城市名
     return ''
-
 
 
 def is_valid_city(address):
