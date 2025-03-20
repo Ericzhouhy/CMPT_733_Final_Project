@@ -30,28 +30,35 @@ def find_neighborhood(row):
 # Assign the neighborhood to each property
 property_gdf['Neighborhood'] = property_gdf.apply(find_neighborhood, axis=1)
 
-# Calculate the percentage of properties in each neighborhood
-neighborhood_count = property_gdf['Neighborhood'].value_counts()
-total_properties = len(property_gdf)
-neighborhood_percentage = (neighborhood_count / total_properties) * 100
+# Remove commas from the Price column and convert to float
+property_gdf['Price'] = property_gdf['Price'].replace({',': ''}, regex=True).astype(float)
 
-# Calculate the price statistics for each neighborhood
-property_gdf['Price'] = property_gdf['Price'].replace({',': ''}, regex=True).astype(float)  # Remove commas and convert to float
+# Create a new column for bedroom categories with 4 or more combined
+property_gdf['Beds_Category'] = property_gdf['Beds'].apply(lambda x: '4+' if x >= 4 else str(x))
 
-price_stats = property_gdf.groupby('Neighborhood')['Price'].agg(
+# Group by Neighborhood and Beds_Category
+grouped = property_gdf.groupby(['Neighborhood', 'Beds_Category'])
+
+# Calculate price statistics for each group
+price_stats = grouped['Price'].agg(
     mean='mean',
     median='median',
     q25=lambda x: np.percentile(x, 25),
-    q50=lambda x: np.percentile(x, 50),
+    q75=lambda x: np.percentile(x, 75),
     q100=lambda x: np.percentile(x, 100)
 )
 
+# Calculate the percentage of properties in each group
+neighborhood_beds_count = grouped.size()
+total_properties = len(property_gdf)
+neighborhood_beds_percentage = (neighborhood_beds_count / total_properties) * 100
+
 # Merge the percentage and price stats into a single DataFrame
-neighborhood_summary = pd.DataFrame({
-    'Percentage': neighborhood_percentage,
+neighborhood_beds_summary = pd.DataFrame({
+    'Percentage': neighborhood_beds_percentage,
 }).join(price_stats)
 
 # Output the result to a CSV file
-neighborhood_summary.to_csv('neighborhood_summary.csv')
+neighborhood_beds_summary.to_csv('neighborhood_beds_summary.csv')
 
-print("Neighborhood summary has been saved to 'neighborhood_summary.csv'")
+print("Neighborhood and bedroom summary has been saved to 'neighborhood_beds_summary.csv'")
