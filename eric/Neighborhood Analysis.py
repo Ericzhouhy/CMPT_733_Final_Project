@@ -10,7 +10,7 @@ property_data = pd.read_csv('cleaned_data/filteredPropertyInVancouver.csv')
 property_data = property_data[property_data['Price Type'] == 'For Sale']
 
 # Load the neighborhood boundary data
-neighborhoods = gpd.read_file('raw_data/local-area-boundary.geojson')
+neighborhoods = gpd.read_file('raw_data/merged_vancouver_burnaby.geojson')
 
 # Convert the property coordinates to GeoDataFrame
 geometry = [Point(xy) for xy in zip(property_data['Longitude'], property_data['Latitude'])]
