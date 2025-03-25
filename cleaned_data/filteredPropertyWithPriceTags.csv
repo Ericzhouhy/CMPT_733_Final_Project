@@ -1,0 +1,1533 @@
+Unnamed: 0,Address,Price,Price Type,Latitude,Longitude,Beds,Baths,Date,Neighborhood,Beds_Category,Price Tag
+0,"1208 - 159 2nd Avenue, Vancouver",859900.0,For Sale,49.2695849,-123.1080183,2.0,1.0,11-Mar-25,Mount Pleasant,2.0,Lower priced
+1,"119 - 5725 Agronomy Road, Vancouver",968000.0,For Sale,49.2643613,-123.2399744,2.0,2.0,11-Mar-25,others,2.0,Fair price
+2,"6563 Broadway Street, Burnaby",7851000.0,For Sale,49.2621125,-122.96829,4.0,3.0,11-Mar-25,Burnaby,4+,Over priced
+3,"6605 Broadway Street, Burnaby",6669000.0,For Sale,49.2620134,-122.9676052,5.0,4.0,11-Mar-25,Burnaby,4+,Over priced
+4,"1806 - 505 Nelson Street, Coquitlam",950000.0,For Sale,49.2494204,-122.8649479,2.0,2.0,11-Mar-25,Coquitlam,2.0,Fair price
+5,"1588 Charland Avenue, Coquitlam",170000.0,For Sale,49.2479163,-122.8484242,4.0,1.0,11-Mar-25,Coquitlam,4+,Lower priced
+6,"2111 - 1955 Alpha Way, Burnaby",659900.0,For Sale,49.2668104,-123.0006967,3.0,2.0,11-Mar-25,Burnaby,3.0,Lower priced
+8,"615 Kings Road, North Vancouver",2940000.0,For Sale,49.3371427,-123.0600323,6.0,5.0,10-Mar-25,others,4+,Fair price
+9,"3372 Fleming Street, Vancouver",2099000.0,For Sale,49.2547557,-123.0706491,5.0,4.0,10-Mar-25,Kensington-Cedar Cottage,4+,Fair price
+10,"1602 - 938 Smithe Street, Vancouver",998000.0,For Sale,49.2816822,-123.1239141,4.0,4.0,10-Mar-25,Downtown,4+,Fair price
+14,"606 - 5380 Oben Street, Vancouver",629900.0,For Sale,49.2350637,-123.0264593,2.0,3.0,10-Mar-25,Renfrew-Collingwood,2.0,Lower priced
+16,"1602 - 3200 Corvette Way, Richmond",1498000.0,For Sale,49.1900977,-123.1331608,3.0,3.0,10-Mar-25,Richmond,3.0,Fair price
+17,"71 - 6700 Rumble Street, Burnaby",1230000.0,For Sale,49.2142024,-122.9635728,4.0,3.0,10-Mar-25,Burnaby,4+,Lower priced
+18,"1905 - 550 Taylor Street, Vancouver",612000.0,For Sale,49.27996,-123.1057286,1.0,1.0,10-Mar-25,Downtown,1.0,Lower priced
+19,"3542 Sawmill Crescent, Vancouver",998000.0,For Sale,49.2057187,-123.0299577,2.0,2.0,10-Mar-25,Killarney,2.0,Fair price
+20,"32 - 6100 Woodwards Road, Richmond",1328000.0,For Sale,49.1436497,-123.157783,2.0,3.0,10-Mar-25,Richmond,2.0,Over priced
+22,"307 - 5058 Joyce Street, Vancouver",648899.0,For Sale,49.2387388,-123.0311215,1.0,1.0,10-Mar-25,Renfrew-Collingwood,1.0,Over priced
+23,"1402 - 822 Homer Street, Vancouver",568000.0,For Sale,49.2790402,-123.1172996,1.0,1.0,10-Mar-25,Downtown,1.0,Lower priced
+24,"27 - 8726 159 Street, Surrey",899000.0,For Sale,49.1614811,-122.7816966,3.0,3.0,10-Mar-25,Surrey,3.0,Fair price
+25,"1407 Strawline Hill Street , Coquitlam",2499800.0,For Sale,49.2984999,-122.738904,6.0,6.0,10-Mar-25,Coquitlam,4+,Over priced
+32,"505 - 10788 No.5 Road, Richmond",599000.0,For Sale,49.1343834,-123.0891868,1.0,1.0,10-Mar-25,Richmond,1.0,Fair price
+33,"206 - 4933 Clarendon Street, Vancouver",998000.0,For Sale,49.2394981,-123.0560367,3.0,2.0,10-Mar-25,Renfrew-Collingwood,3.0,Lower priced
+34,"3491 Catalina Crescent, Richmond",1038000.0,For Sale,49.1913423,-123.1430542,0.0,1.0,10-Mar-25,Richmond,0.0,Over priced
+35,"1576 Lodgepole Place, Coquitlam",2277000.0,For Sale,49.3034204,-122.7922407,5.0,4.0,10-Mar-25,Coquitlam,4+,Fair price
+36,"15930 20 Avenue, Surrey",1170000.0,For Sale,49.0380577,-122.7811479,3.0,2.0,10-Mar-25,Surrey,3.0,Fair price
+37,"1808 - 1028 Barclay Street, Vancouver",1200000.0,For Sale,49.2822897,-123.1259317,2.0,2.0,10-Mar-25,West End,2.0,Over priced
+39,"8241 Brynlor Drive, Burnaby",2288000.0,For Sale,49.2085793,-122.9723411,7.0,4.0,10-Mar-25,Burnaby,4+,Fair price
+40,"5 - 1640 162 Street, Surrey",699900.0,For Sale,49.0319961,-122.7733691,3.0,2.0,10-Mar-25,Surrey,3.0,Lower priced
+42,"123 - 5800 Andrews Road, Richmond",888000.0,For Sale,49.1214759,-123.1596098,2.0,1.0,10-Mar-25,Richmond,2.0,Fair price
+45,"303 - 4933 Clarendon Street, Vancouver",888000.0,For Sale,49.2394981,-123.0560367,2.0,2.0,10-Mar-25,Renfrew-Collingwood,2.0,Fair price
+46,"510 - 2888 Cambie Street, Vancouver",569000.0,For Sale,49.25981,-123.1146858,0.0,1.0,10-Mar-25,Mount Pleasant,0.0,Fair price
+47,"905 - 5639 Hampton Place, Vancouver",718000.0,For Sale,49.2590832,-123.2330855,1.0,1.0,10-Mar-25,others,1.0,Lower priced
+48,"9828 Belfriar Drive, Burnaby",1058000.0,For Sale,49.2452516,-122.8958144,3.0,2.0,10-Mar-25,Burnaby,3.0,Fair price
+49,"103 - 5775 Irmin Street, Burnaby",799000.0,For Sale,49.2162115,-122.9811736,2.0,2.0,10-Mar-25,Burnaby,2.0,Fair price
+50,"1775 Sherlock Avenue, Burnaby",2680000.0,For Sale,49.2683091,-122.9567686,8.0,6.0,10-Mar-25,Burnaby,4+,Fair price
+51,"1091 Esquimalt Avenue, West Vancouver",5680000.0,For Sale,49.3304532,-123.1453559,6.0,6.0,10-Mar-25,West Vancouver,4+,Over priced
+52,"1448 Sandhurst Place, West Vancouver",3490000.0,For Sale,49.3520592,-123.148057,6.0,5.0,10-Mar-25,West Vancouver,4+,Fair price
+53,"5339 Monte Bre Crescent, West Vancouver",3550000.0,For Sale,49.3488136,-123.2593093,5.0,4.0,10-Mar-25,West Vancouver,4+,Fair price
+54,"4 - 5115 Buxton Street, Burnaby",1690000.0,For Sale,49.2346533,-122.9902481,6.0,3.0,10-Mar-25,Burnaby,4+,Fair price
+55,"3 - 5115 Buxton Street, Burnaby",1690000.0,For Sale,49.2346533,-122.9902481,4.0,6.0,10-Mar-25,Burnaby,4+,Fair price
+57,"25 - 9728 Alexandra Road, Richmond",1243000.0,For Sale,49.1787317,-123.11523,1.0,1.0,10-Mar-25,Richmond,1.0,Over priced
+58,"111 - 6677 Cambie Street, Vancouver",699999.0,For Sale,49.2243649,-123.1170539,3.0,3.0,10-Mar-25,Oakridge,3.0,Lower priced
+59,"40 - 5191 Steveston Highway, Richmond",1490000.0,For Sale,49.1338937,-123.166232,4.0,4.0,10-Mar-25,Richmond,4+,Lower priced
+60,"302 - 2200 Douglas Road, Burnaby",699888.0,For Sale,49.2642416,-122.9899479,2.0,1.0,10-Mar-25,Burnaby,2.0,Lower priced
+61,"1004 - 1401 Hunter Street, North Vancouver",778000.0,For Sale,49.310499,-123.0347028,1.0,1.0,10-Mar-25,others,1.0,Fair price
+62,"6116 Oak Street, Vancouver",1890000.0,For Sale,49.2301302,-123.1280447,3.0,3.0,10-Mar-25,Oakridge,3.0,Fair price
+63,"201 - 1675 Lions Gate Lane, North Vancouver",728000.0,For Sale,49.3254849,-123.1226258,1.0,1.0,10-Mar-25,others,1.0,Fair price
+64,"1010 - 7288 Acorn Avenue, Burnaby",725000.0,For Sale,49.2172543,-122.9552242,2.0,2.0,10-Mar-25,Burnaby,2.0,Fair price
+65,"205 - 1785 Esquimalt Avenue, West Vancouver",535000.0,For Sale,49.3308936,-123.1619334,1.0,1.0,10-Mar-25,West Vancouver,1.0,Lower priced
+66,"111 - 4933 Clarendon Street, Vancouver",798000.0,For Sale,49.2394981,-123.0560367,2.0,2.0,10-Mar-25,Renfrew-Collingwood,2.0,Fair price
+67,"28 - 14959 58 Avenue, Surrey",999999.0,For Sale,49.1083862,-122.8085154,3.0,3.0,10-Mar-25,Surrey,3.0,Fair price
+68,"101 - 3188 Riverwalk Avenue, Vancouver",1198000.0,For Sale,49.2053271,-123.0389071,3.0,2.0,10-Mar-25,Killarney,3.0,Over priced
+69,"411 - 1450 Pennyfarthing Drive, Vancouver",1184000.0,For Sale,49.2726319,-123.1417658,2.0,2.0,10-Mar-25,Fairview,2.0,Fair price
+70,"2608 - 198 Aquarius Mews, Vancouver",1490000.0,For Sale,49.2741606,-123.1195035,2.0,2.0,10-Mar-25,Downtown,2.0,Fair price
+71,"3304 Mayfair Avenue, Vancouver",1898000.0,For Sale,49.236887,-123.1790349,3.0,3.0,10-Mar-25,Dunbar-Southlands,3.0,Lower priced
+72,"10125 Elderberry Crescent, Surrey",1757142.0,For Sale,49.186378,-122.7297781,4.0,5.0,10-Mar-25,Surrey,4+,Fair price
+73,"2 - 3268 15th Avenue, Vancouver",2638000.0,For Sale,49.2585831,-123.1774793,3.0,3.0,10-Mar-25,Kitsilano,3.0,Fair price
+74,"104 - 2320 Emery Court, North Vancouver",1499900.0,For Sale,49.3304447,-123.0402086,3.0,3.0,10-Mar-25,others,3.0,Fair price
+75,"702 - 3451 Sawmill Crescent, Vancouver",1250000.0,For Sale,49.2065741,-123.0326264,2.0,3.0,10-Mar-25,Killarney,2.0,Over priced
+76,"202 - 1850 Lorne Street, Vancouver",874900.0,For Sale,49.268271,-123.0998316,1.0,2.0,10-Mar-25,Mount Pleasant,1.0,Fair price
+77,"87 - 14151 58a Avenue, Surrey",799999.0,For Sale,49.1095246,-122.8301458,2.0,2.0,10-Mar-25,Surrey,2.0,Fair price
+78,"521 20th Avenue, Vancouver",2798000.0,For Sale,49.2533903,-123.1155343,3.0,3.0,10-Mar-25,South Cambie,3.0,Fair price
+79,"7339 Burnham Court, Burnaby",2888000.0,For Sale,49.2602963,-122.9464786,4.0,3.0,10-Mar-25,Burnaby,4+,Over priced
+80,"7380 Parkwood Drive, Surrey",1275000.0,For Sale,49.1371436,-122.8659519,7.0,4.0,10-Mar-25,Surrey,4+,Lower priced
+83,"2 - 5115 Buxton Street, Burnaby",2499000.0,For Sale,49.2346533,-122.9902481,5.0,6.0,10-Mar-25,Burnaby,4+,Fair price
+84,"411 - 4933 Clarendon Street, Vancouver",898000.0,For Sale,49.2394981,-123.0560367,2.0,2.0,10-Mar-25,Renfrew-Collingwood,2.0,Over priced
+85,"405 - 3639 16 Avenue, Vancouver",1780000.0,For Sale,49.2581209,-123.1848001,2.0,3.0,10-Mar-25,West Point Grey,2.0,Lower priced
+86,"106 - 1450 Laburnum Street, Vancouver",648000.0,For Sale,49.2730282,-123.151068,1.0,1.0,10-Mar-25,Kitsilano,1.0,Lower priced
+87,"2209 - 3663 Crowley Drive, Vancouver",749000.0,For Sale,49.2353569,-123.0271018,2.0,2.0,10-Mar-25,Renfrew-Collingwood,2.0,Fair price
+88,"301 - 7139 18 Avenue, Burnaby",619000.0,For Sale,49.2154573,-122.9552799,1.0,1.0,10-Mar-25,Burnaby,1.0,Fair price
+89,"25 - 16760 61 Avenue, Surrey",849000.0,For Sale,49.1120206,-122.7593519,2.0,4.0,10-Mar-25,Surrey,2.0,Fair price
+90,"3288 23rd Avenue, Vancouver",3998000.0,For Sale,49.2517595,-123.1778099,4.0,5.0,10-Mar-25,Dunbar-Southlands,4+,Over priced
+91,"5538 184 Street, Surrey",2889000.0,For Sale,49.1029426,-122.7122965,5.0,3.0,10-Mar-25,Surrey,4+,Over priced
+93,"210 - 615 Cottonwood Avenue, Coquitlam",788000.0,For Sale,49.259002,-122.8855243,2.0,2.0,10-Mar-25,Coquitlam,2.0,Fair price
+94,"1708 - 9133 Hemlock Drive, Richmond",848000.0,For Sale,49.1672621,-123.1230903,2.0,2.0,10-Mar-25,Richmond,2.0,Fair price
+95,"1602 - 1495 Richards Street, Vancouver",1399000.0,For Sale,49.2736071,-123.1281418,2.0,2.0,10-Mar-25,Downtown,2.0,Fair price
+96,"1 - 9131 Williams Road, Richmond",1439900.0,For Sale,49.1409669,-123.1231684,3.0,3.0,10-Mar-25,Richmond,3.0,Fair price
+97,"1010 24th Avenue, Vancouver",884000.0,For Sale,49.248907,-123.0835355,1.0,1.0,10-Mar-25,Kensington-Cedar Cottage,1.0,Fair price
+98,"7361 Liard Place, Vancouver",799000.0,For Sale,49.2180292,-123.0258608,3.0,1.0,10-Mar-25,Killarney,3.0,Fair price
+101,"15423 Madrona Drive, Surrey",1288888.0,For Sale,49.0413322,-122.7951652,2.0,2.0,10-Mar-25,Surrey,2.0,Over priced
+102,"15869 Yorkshire Place, Surrey",799000.0,For Sale,49.0411212,-122.7829527,3.0,2.0,10-Mar-25,Surrey,3.0,Lower priced
+103,"4570 Woodgreen Court, West Vancouver",3598000.0,For Sale,49.35222,-123.2443171,3.0,2.0,10-Mar-25,West Vancouver,3.0,Fair price
+104,"7626 Hedley Avenue, Burnaby",2990000.0,For Sale,49.2143892,-122.9669805,7.0,5.0,10-Mar-25,Burnaby,4+,Over priced
+105,"2146 7th Avenue, Vancouver",1979000.0,For Sale,49.2639087,-123.0609785,2.0,1.0,10-Mar-25,Grandview-Woodland,2.0,Over priced
+106,"15556 96b Avenue, Surrey",1199900.0,For Sale,49.1775983,-122.7912528,3.0,2.0,10-Mar-25,Surrey,3.0,Fair price
+107,"906 - 6351 Buswell Street, Richmond",769000.0,For Sale,49.1679288,-123.1344812,2.0,2.0,10-Mar-25,Richmond,2.0,Fair price
+108,"3002 - 7088 18th Avenue, Burnaby",799800.0,For Sale,49.2132822,-122.9566475,2.0,2.0,10-Mar-25,Burnaby,2.0,Fair price
+109,"145 - 2035 Glenaire Drive, North Vancouver",1199900.0,For Sale,49.3279976,-123.1218647,3.0,2.0,10-Mar-25,others,3.0,Fair price
+110,"709 - 2770 Sophia Street, Vancouver",874900.0,For Sale,49.2603935,-123.0976785,1.0,1.0,10-Mar-25,Mount Pleasant,1.0,Fair price
+111,"4101 - 2388 Madison Avenue, Burnaby",1288000.0,For Sale,49.2628193,-123.0084224,2.0,2.0,10-Mar-25,Burnaby,2.0,Over priced
+112,"111 - 3660 Vanness Avenue, Vancouver",449900.0,For Sale,49.234974,-123.025186,0.0,1.0,10-Mar-25,Renfrew-Collingwood,0.0,Fair price
+113,"1301 - 4880 Lougheed Highway, Burnaby",699000.0,For Sale,49.2652118,-122.9944925,1.0,1.0,10-Mar-25,Burnaby,1.0,Over priced
+114,"3105 - 1283 Howe Street, Vancouver",869000.0,For Sale,49.2771293,-123.1286393,2.0,2.0,10-Mar-25,Downtown,2.0,Fair price
+115,"52 - 9566 Tomicki Avenue, Richmond",1148000.0,For Sale,49.180015,-123.1165448,3.0,3.0,10-Mar-25,Richmond,3.0,Fair price
+116,"312 - 6420 Buswell Street, Richmond",259000.0,For Sale,49.1672857,-123.1327593,1.0,1.0,10-Mar-25,Richmond,1.0,Lower priced
+117,"205 - 13931 Fraser Highway, Surrey",489800.0,For Sale,49.1800882,-122.8369062,1.0,1.0,10-Mar-25,Surrey,1.0,Fair price
+118,"5517 188a Street, Surrey",2169999.0,For Sale,49.102583,-122.7008176,7.0,6.0,10-Mar-25,Surrey,4+,Over priced
+119,"11240 Granville Avenue, Richmond",2990000.0,For Sale,49.1625486,-123.0990856,7.0,5.0,10-Mar-25,Richmond,4+,Over priced
+120,"7568 149 Street, Surrey",2450000.0,For Sale,49.140433,-122.80987,11.0,8.0,10-Mar-25,Surrey,4+,Over priced
+121,"12669 96 Avenue, Surrey",1350000.0,For Sale,49.1774044,-122.8716309,3.0,2.0,10-Mar-25,Surrey,3.0,Over priced
+122,"1105 - 1601 Quebec Street, Vancouver",1750000.0,For Sale,49.2715566,-123.1027944,2.0,2.0,10-Mar-25,Mount Pleasant,2.0,Over priced
+123,"5531 Slocan Street, Vancouver",1799000.0,For Sale,49.2346069,-123.054594,4.0,4.0,10-Mar-25,Renfrew-Collingwood,4+,Fair price
+124,"1607 - 1495 Richards Street, Vancouver",729900.0,For Sale,49.2736071,-123.1281418,1.0,1.0,10-Mar-25,Downtown,1.0,Fair price
+125,"110 - 8391 Bennett Road, Richmond",299999.0,For Sale,49.1613272,-123.1313972,1.0,1.0,10-Mar-25,Richmond,1.0,Lower priced
+126,"312 - 9880 Manchester Drive, Burnaby",515000.0,For Sale,49.2458546,-122.8984126,2.0,1.0,10-Mar-25,Burnaby,2.0,Lower priced
+127,"1986 8th Avenue, Vancouver",1799900.0,For Sale,49.2630129,-123.0643121,3.0,2.0,10-Mar-25,Grandview-Woodland,3.0,Fair price
+128,"14163 60a Avenue, Surrey",1999000.0,For Sale,49.1130484,-122.8300715,7.0,7.0,10-Mar-25,Surrey,4+,Fair price
+129,"2932 Brixham Road, North Vancouver",1950000.0,For Sale,49.315419,-122.993188,4.0,3.0,10-Mar-25,others,4+,Lower priced
+130,"1108 - 63 Keefer Place, Vancouver",849800.0,For Sale,49.2797904,-123.1063697,2.0,2.0,10-Mar-25,Downtown,2.0,Lower priced
+131,"1205 - 3280 Corvette Way, Richmond",1449000.0,For Sale,49.1897287,-123.133568,3.0,3.0,10-Mar-25,Richmond,3.0,Fair price
+132,"402 - 1864 Frances Street, Vancouver",585000.0,For Sale,49.2790464,-123.066387,1.0,1.0,10-Mar-25,Grandview-Woodland,1.0,Fair price
+133,"305 - 2910 Ontario Street, Vancouver",699000.0,For Sale,49.2590759,-123.1046631,1.0,1.0,10-Mar-25,Mount Pleasant,1.0,Lower priced
+134,"101 - 1100 7th Avenue, Vancouver",729000.0,For Sale,49.2642848,-123.0812243,1.0,1.0,10-Mar-25,Mount Pleasant,1.0,Fair price
+135,"501 - 5619 Cedarbridge Way, Richmond",628000.0,For Sale,49.1744139,-123.1425143,1.0,1.0,10-Mar-25,Richmond,1.0,Fair price
+136,"807 - 2950 Panorama Drive, Coquitlam",1010000.0,For Sale,49.2979922,-122.8045264,2.0,2.0,10-Mar-25,Coquitlam,2.0,Over priced
+137,"589 7th Avenue, Vancouver",1199800.0,For Sale,49.2645154,-123.0912905,2.0,2.0,10-Mar-25,Mount Pleasant,2.0,Fair price
+138,"4410 - 4890 Lougheed Highway, Burnaby",699000.0,For Sale,49.2649736,-122.9928699,1.0,1.0,10-Mar-25,Burnaby,1.0,Over priced
+139,"704 - 235 Keith Road, West Vancouver",615000.0,For Sale,49.3311031,-123.1246019,1.0,1.0,10-Mar-25,West Vancouver,1.0,Fair price
+140,"3619 Dalebright Drive, Burnaby",2899800.0,For Sale,49.251406,-122.9209946,5.0,5.0,10-Mar-25,Burnaby,4+,Over priced
+141,"1747 37th Avenue, Vancouver",1750000.0,For Sale,49.2369416,-123.0700803,4.0,4.0,10-Mar-25,Kensington-Cedar Cottage,4+,Fair price
+142,"1090 Handsworth Road, North Vancouver",2598000.0,For Sale,49.3528922,-123.1038992,5.0,4.0,10-Mar-25,others,4+,Fair price
+143,"1905 - 4465 Juneau Street, Burnaby",859900.0,For Sale,49.2637587,-123.0044781,2.0,2.0,10-Mar-25,Burnaby,2.0,Fair price
+144,"511 - 3538 Sawmill Crescent, Vancouver",649900.0,For Sale,49.2056788,-123.0294639,1.0,1.0,10-Mar-25,Killarney,1.0,Fair price
+145,"2208 - 2311 Beta Avenue, Burnaby",678000.0,For Sale,49.2632359,-122.9989634,1.0,1.0,10-Mar-25,Burnaby,1.0,Fair price
+146,"612 - 7708 Alderbridge Way, Richmond",583000.0,For Sale,49.1749456,-123.1430217,1.0,1.0,10-Mar-25,Richmond,1.0,Lower priced
+147,"205 - 1189 Westwood Street, Coquitlam",598000.0,For Sale,49.2839,-122.78915,2.0,2.0,10-Mar-25,Coquitlam,2.0,Lower priced
+148,"1709 - 13655 Fraser Highway, Surrey",659900.0,For Sale,49.1807963,-122.8435081,2.0,2.0,10-Mar-25,Surrey,2.0,Fair price
+149,"203 - 1355 Harwood Street, Vancouver",899000.0,For Sale,49.282108,-123.1375594,2.0,2.0,10-Mar-25,West End,2.0,Fair price
+151,"3405 24th Avenue, Vancouver",2699000.0,For Sale,49.2489915,-123.0308704,5.0,5.0,10-Mar-25,Renfrew-Collingwood,4+,Fair price
+152,"2166 54th Avenue, Vancouver",3598000.0,For Sale,49.2217449,-123.15714,6.0,2.0,10-Mar-25,Kerrisdale,4+,Fair price
+153,"4987 Hoy Street, Vancouver",1548888.0,For Sale,49.2395785,-123.025482,3.0,3.0,10-Mar-25,Renfrew-Collingwood,3.0,Fair price
+154,"1125 Groveland Court, West Vancouver",4839000.0,For Sale,49.3524416,-123.1463629,3.0,2.0,10-Mar-25,West Vancouver,3.0,Over priced
+156,"1 - 5115 Buxton Street, Burnaby",2499000.0,For Sale,49.2346533,-122.9902481,3.0,3.0,10-Mar-25,Burnaby,3.0,Over priced
+157,"1006 - 1033 Marinaside Crescent, Vancouver",1750000.0,For Sale,49.273476,-123.1163516,2.0,2.0,10-Mar-25,Downtown,2.0,Over priced
+158,"PH2 - 668 16th Avenue, Vancouver",990000.0,For Sale,49.2567311,-123.1191076,2.0,2.0,10-Mar-25,South Cambie,2.0,Fair price
+159,"3509 - 1178 Heffley Crescent, Coquitlam",788000.0,For Sale,49.2813477,-122.7921325,2.0,2.0,10-Mar-25,Coquitlam,2.0,Fair price
+160,"413 - 7579 16th Street, Burnaby",658800.0,For Sale,49.2134939,-122.9494678,1.0,1.0,10-Mar-25,Burnaby,1.0,Fair price
+161,"112 - 3600 Windcrest Drive, North Vancouver",1270000.0,For Sale,49.3062655,-122.9701235,2.0,3.0,10-Mar-25,others,2.0,Fair price
+162,"1300 - 8160 Mcmyn Way, Richmond",1810900.0,For Sale,49.190062,-123.1324295,4.0,3.0,10-Mar-25,Richmond,4+,Fair price
+163,"104 - 1150 29th Street, North Vancouver",715000.0,For Sale,49.335919,-123.0424719,1.0,1.0,10-Mar-25,others,1.0,Lower priced
+164,"14 - 7140 132 Street, Surrey",899000.0,For Sale,49.1323162,-122.8555006,4.0,4.0,10-Mar-25,Surrey,4+,Lower priced
+165,"307 - 1266 13th Avenue, Vancouver",684900.0,For Sale,49.2594939,-123.132921,1.0,1.0,10-Mar-25,Fairview,1.0,Lower priced
+166,"7251 Union Street, Burnaby",3699000.0,For Sale,49.2780281,-122.9519432,7.0,7.0,10-Mar-25,Burnaby,4+,Over priced
+167,"41 171 Street, Surrey",1399000.0,For Sale,49.0028835,-122.7501963,7.0,4.0,10-Mar-25,Surrey,4+,Fair price
+170,"801 - 4118 Dawson Street, Burnaby",559000.0,For Sale,49.2643041,-123.013727,1.0,1.0,10-Mar-25,Burnaby,1.0,Lower priced
+171,"601 - 1325 Rolston Street, Vancouver",538000.0,For Sale,49.2756464,-123.1278677,1.0,1.0,10-Mar-25,Downtown,1.0,Lower priced
+172,"1600 - 8155 Capstan Way, Richmond",2922900.0,For Sale,49.1892807,-123.1336464,4.0,4.0,10-Mar-25,Richmond,4+,Over priced
+173,"1603 - 4168 Lougheed Highway, Burnaby",729000.0,For Sale,49.2660541,-123.0118677,2.0,1.0,10-Mar-25,Burnaby,2.0,Fair price
+174,"410 - 215 33rd Avenue, Vancouver",1129888.0,For Sale,49.2407866,-123.1010646,2.0,1.0,10-Mar-25,Riley Park,2.0,Over priced
+175,"7153 Paulus Court, Burnaby",2250000.0,For Sale,49.2662427,-122.9552031,2.0,2.0,10-Mar-25,Burnaby,2.0,Over priced
+176,"5747 Newton Wynd, Vancouver",31770000.0,For Sale,49.2762816,-123.2476897,4.0,2.0,10-Mar-25,others,4+,Over priced
+177,"4634 2nd Avenue, Vancouver",8880000.0,For Sale,49.2711221,-123.2132724,9.0,12.0,10-Mar-25,West Point Grey,4+,Over priced
+179,"810 - 8155 Capstan Way, Richmond",1229900.0,For Sale,49.1892807,-123.1336464,4.0,4.0,10-Mar-25,Richmond,4+,Lower priced
+180,"303 - 28 Powell Street, Vancouver",698000.0,For Sale,49.2831481,-123.1034336,2.0,2.0,10-Mar-25,Downtown,2.0,Lower priced
+181,"2503 - 1155 Homer Street, Vancouver",1525000.0,For Sale,49.2755506,-123.1232646,2.0,2.0,10-Mar-25,Downtown,2.0,Fair price
+182,"2306 - 977 Mainland Street, Vancouver",668000.0,For Sale,49.2772935,-123.1183606,1.0,1.0,10-Mar-25,Downtown,1.0,Fair price
+183,"12 - 6965 Hastings Street, Burnaby",570000.0,For Sale,49.2807742,-122.9599762,1.0,1.0,10-Mar-25,Burnaby,1.0,Lower priced
+184,"121 - 8460 Ackroyd Road, Richmond",434800.0,For Sale,49.1715776,-123.1301517,1.0,1.0,10-Mar-25,Richmond,1.0,Lower priced
+185,"1606 - 1045 Austin Avenue, Coquitlam",590000.0,For Sale,49.2493707,-122.8642772,1.0,1.0,10-Mar-25,Coquitlam,1.0,Fair price
+186,"607 - 8160 Mcmyn Way, Richmond",1124900.0,For Sale,49.190062,-123.1324295,2.0,2.0,10-Mar-25,Richmond,2.0,Over priced
+187,"1440 30th Street, West Vancouver",3780000.0,For Sale,49.3407483,-123.1991454,4.0,3.0,10-Mar-25,West Vancouver,4+,Fair price
+188,"1170 Kendal Place, North Vancouver",2788000.0,For Sale,49.3465397,-123.107135,2.0,4.0,10-Mar-25,others,2.0,Over priced
+189,"6566 Churchill Street, Vancouver",8680000.0,For Sale,49.2263039,-123.1413502,4.0,3.0,10-Mar-25,Kerrisdale,4+,Over priced
+190,"40 Sea Avenue, Burnaby",1599900.0,For Sale,49.2837164,-122.9791193,7.0,8.0,10-Mar-25,Burnaby,4+,Lower priced
+192,"1607 - 1148 Heffley Crescent, Coquitlam",760000.0,For Sale,49.28051,-122.79214,2.0,2.0,10-Mar-25,Coquitlam,2.0,Fair price
+193,"5422 Norfolk Street, Burnaby",1099000.0,For Sale,49.2546999,-122.9853469,2.0,2.0,10-Mar-25,Burnaby,2.0,Over priced
+194,"50 - 6100 Woodwards Road, Richmond",1388000.0,For Sale,49.1432912,-123.1581192,3.0,3.0,10-Mar-25,Richmond,3.0,Fair price
+195,"302 - 2121 W 38th Avenue, Vancouver",998000.0,For Sale,49.2375887,-123.1563859,3.0,2.0,10-Mar-25,Arbutus Ridge,3.0,Fair price
+196,"600 - 8155 Capstan Way, Richmond",1166900.0,For Sale,49.1892807,-123.1336464,2.0,2.0,10-Mar-25,Richmond,2.0,Over priced
+198,"5 - 8250 158 Street, Surrey",1198000.0,For Sale,49.1527417,-122.7842363,3.0,3.0,10-Mar-25,Surrey,3.0,Fair price
+200,"408 - 13740 75a Avenue, Surrey",399999.0,For Sale,49.1387418,-122.8411936,1.0,1.0,10-Mar-25,Surrey,1.0,Lower priced
+201,"708 Austin Avenue, Coquitlam",3188888.0,For Sale,49.2487793,-122.8821694,8.0,8.0,10-Mar-25,Coquitlam,4+,Over priced
+202,"2638 Queens Avenue, West Vancouver",10980000.0,For Sale,49.3423326,-123.1871872,6.0,9.0,10-Mar-25,West Vancouver,4+,Over priced
+203,"3320 Johnson Avenue, Richmond",2438000.0,For Sale,49.1681704,-123.1908603,4.0,4.0,10-Mar-25,Richmond,4+,Fair price
+208,"5949 Sherbrooke Street, Vancouver",2188000.0,For Sale,49.2304025,-123.0816252,5.0,3.0,10-Mar-25,Sunset,4+,Fair price
+209,"3301 - 6098 Station Street, Burnaby",699000.0,For Sale,49.2275577,-123.0028731,2.0,2.0,10-Mar-25,Burnaby,2.0,Lower priced
+210,"212 - 8120 Colonial Drive, Richmond",379900.0,For Sale,49.1535312,-123.170696,1.0,1.0,10-Mar-25,Richmond,1.0,Lower priced
+211,"1106 - 1688 Pullman Porter Street, Vancouver",1999800.0,For Sale,49.2706831,-123.1038068,1.0,1.0,10-Mar-25,Mount Pleasant,1.0,Over priced
+212,"1050 Como Lake Avenue, Coquitlam",1600000.0,For Sale,49.2632224,-122.8626637,4.0,2.0,10-Mar-25,Coquitlam,4+,Fair price
+213,"139 - 3880 Westminster Highway, Richmond",1368000.0,For Sale,49.1690334,-123.1831438,1.0,1.0,10-Mar-25,Richmond,1.0,Over priced
+214,"114 - 828 Gauthier Avenue, Coquitlam",568000.0,For Sale,49.2384632,-122.8744449,4.0,3.0,10-Mar-25,Coquitlam,4+,Lower priced
+215,"606 - 6855 Pearson Way, Richmond",1299000.0,For Sale,49.1761849,-123.1471966,1.0,1.0,10-Mar-25,Richmond,1.0,Over priced
+216,"107 - 277 1st Street, North Vancouver",1128000.0,For Sale,49.3139883,-123.0849971,2.0,2.0,10-Mar-25,North Vancouver,2.0,Fair price
+217,"420 - 9388 Odlin Road, Richmond",575000.0,For Sale,49.1814227,-123.1201224,2.0,2.0,10-Mar-25,Richmond,2.0,Lower priced
+218,"1503 - 1365 Davie Street, Vancouver",2349999.0,For Sale,49.2833576,-123.135485,1.0,1.0,10-Mar-25,West End,1.0,Over priced
+219,"516 - 10033 River Drive, Richmond",599900.0,For Sale,49.1995594,-123.1124112,2.0,3.0,10-Mar-25,Richmond,2.0,Lower priced
+220,"105 - 9584 Manchester Drive, Burnaby",539999.0,For Sale,49.2464488,-122.8983909,2.0,1.0,10-Mar-25,Burnaby,2.0,Lower priced
+221,"1210 - 8800 Hazelbridge Way, Richmond",1080000.0,For Sale,49.1890449,-123.1277594,2.0,2.0,10-Mar-25,Richmond,2.0,Over priced
+222,"10271 Thirlmere Drive, Richmond",2099000.0,For Sale,49.1372661,-123.1473024,7.0,3.0,10-Mar-25,Richmond,4+,Fair price
+223,"11586 Railway Avenue, Richmond",1799000.0,For Sale,49.1283828,-123.1694624,3.0,2.0,10-Mar-25,Richmond,3.0,Over priced
+224,"13218 67 Avenue, Surrey",1298800.0,For Sale,49.1243744,-122.8559626,6.0,5.0,10-Mar-25,Surrey,4+,Lower priced
+228,"414 - 221 3rd Street, North Vancouver",688888.0,For Sale,49.3116061,-123.0735159,1.0,1.0,10-Mar-25,North Vancouver,1.0,Fair price
+229,"345 Therrien Street, Coquitlam",1399000.0,For Sale,49.2435632,-122.8608346,3.0,4.0,10-Mar-25,Coquitlam,3.0,Over priced
+230,"307 - 3699 Sexsmith Road, Richmond",699000.0,For Sale,49.1864208,-123.1286082,1.0,1.0,10-Mar-25,Richmond,1.0,Over priced
+231,"113 - 561 28th Avenue, Vancouver",1799900.0,For Sale,49.245841,-123.0927827,3.0,2.0,10-Mar-25,Riley Park,3.0,Fair price
+232,"316 - 3050 Dayanee Springs Boulevard, Coquitlam",754900.0,For Sale,49.2938359,-122.7872241,2.0,2.0,10-Mar-25,Coquitlam,2.0,Fair price
+233,"3105 - 1328 Pender Street, Vancouver",1650000.0,For Sale,49.2890577,-123.1263542,3.0,3.0,10-Mar-25,Downtown,3.0,Fair price
+234,"203 - 788 Arthur Erickson Place, West Vancouver",1698000.0,For Sale,49.3289613,-123.1381914,2.0,2.0,10-Mar-25,West Vancouver,2.0,Fair price
+235,"407 - 721 Anskar Court, Coquitlam",698000.0,For Sale,49.2669814,-122.8822769,2.0,2.0,10-Mar-25,Coquitlam,2.0,Lower priced
+236,"1 - 8589 Rivergrass Drive, Vancouver",799000.0,For Sale,49.2051655,-123.0292552,2.0,1.0,10-Mar-25,Killarney,2.0,Fair price
+237,"211 - 2677 Broadway , Vancouver",799900.0,For Sale,49.2642729,-123.1655791,2.0,2.0,10-Mar-25,Kitsilano,2.0,Lower priced
+238,"212 - 10778 138 Street, Surrey",574000.0,For Sale,49.198376,-122.8394915,1.0,1.0,10-Mar-25,Surrey,1.0,Fair price
+239,"914 Grover Avenue, Coquitlam",2280000.0,For Sale,49.2623962,-122.8713962,5.0,2.0,10-Mar-25,Coquitlam,4+,Fair price
+242,"201 - 288 1st Avenue, Vancouver",765000.0,For Sale,49.268931,-123.1118371,1.0,1.0,10-Mar-25,Mount Pleasant,1.0,Fair price
+243,"1505 - 575 Delestre Avenue, Coquitlam",589000.0,For Sale,49.2423524,-122.8889386,2.0,1.0,10-Mar-25,Coquitlam,2.0,Lower priced
+244,"104 - 5880 Hampton Place, Vancouver",978800.0,For Sale,49.2576144,-123.236,2.0,2.0,10-Mar-25,others,2.0,Fair price
+245,"2 - 8311 Saunders Road, Richmond",1080000.0,For Sale,49.1438991,-123.1329485,3.0,3.0,10-Mar-25,Richmond,3.0,Fair price
+246,"13 - 7077 Beresford Street, Burnaby",749000.0,For Sale,49.2173587,-122.9587673,2.0,2.0,10-Mar-25,Burnaby,2.0,Fair price
+247,"603 - 13303 Central Avenue, Surrey",499000.0,For Sale,49.1908425,-122.8538847,2.0,2.0,10-Mar-25,Surrey,2.0,Lower priced
+248,"4802 - 777 Richards Street, Vancouver",1868000.0,For Sale,49.2806484,-123.1172768,2.0,2.0,10-Mar-25,Downtown,2.0,Over priced
+249,"1703 - 2041 Bellwood Avenue, Burnaby",521000.0,For Sale,49.2659087,-122.9895799,1.0,1.0,10-Mar-25,Burnaby,1.0,Lower priced
+250,"504 - 2975 Atlantic Avenue, Coquitlam",499999.0,For Sale,49.2821044,-122.7969491,3.0,3.0,10-Mar-25,Coquitlam,3.0,Lower priced
+251,"1002 - 4250 Dawson Street, Burnaby",599800.0,For Sale,49.2642747,-123.0106234,1.0,1.0,10-Mar-25,Burnaby,1.0,Fair price
+252,"1101 - 1318 Homer Street, Vancouver",1225000.0,For Sale,49.2738747,-123.1250676,0.0,1.0,10-Mar-25,Downtown,0.0,Over priced
+254,"4D - 1500 Alberni Street, Vancouver",1199000.0,For Sale,49.289506,-123.13059,1.0,2.0,10-Mar-25,West End,1.0,Over priced
+255,"405 - 2965 Horley Street, Vancouver",774900.0,For Sale,49.2392292,-123.044556,3.0,2.0,10-Mar-25,Renfrew-Collingwood,3.0,Lower priced
+256,"1402 - 1625 Hornby Street, Vancouver",1129000.0,For Sale,49.2751282,-123.1336648,2.0,2.0,10-Mar-25,Downtown,2.0,Fair price
+257,"2716 37th Avenue, Vancouver",4800000.0,For Sale,49.2382623,-123.1665244,4.0,4.0,10-Mar-25,Arbutus Ridge,4+,Over priced
+258,"5433 Lanark Street, Vancouver",2198000.0,For Sale,49.2353744,-123.0759258,4.0,4.0,10-Mar-25,Kensington-Cedar Cottage,4+,Fair price
+259,"1374 Kilmer Road, North Vancouver",3549000.0,For Sale,49.3465974,-123.0359104,4.0,3.0,10-Mar-25,others,4+,Over priced
+260,"806 - 6900 Pearson Way, Richmond",699000.0,For Sale,49.1750156,-123.1469593,1.0,1.0,10-Mar-25,Richmond,1.0,Over priced
+261,"605 - 6811 Pearson Way, Richmond",1135000.0,For Sale,49.1765483,-123.1484157,2.0,2.0,10-Mar-25,Richmond,2.0,Over priced
+262,"407 - 733 3rd Street, North Vancouver",1099000.0,For Sale,49.308291,-123.0587404,1.0,1.0,10-Mar-25,North Vancouver,1.0,Over priced
+263,"509 - 4880 Lougheed Hwy , Burnaby",799000.0,For Sale,49.2652118,-122.9944925,3.0,2.0,10-Mar-25,Burnaby,3.0,Fair price
+264,"201 - 13065 84 Avenue, Surrey",1749000.0,For Sale,49.1559749,-122.8604749,2.0,2.0,10-Mar-25,Surrey,2.0,Over priced
+265,"1 - 1982 Venables Street, Vancouver",1879000.0,For Sale,49.2764159,-123.0640612,3.0,3.0,10-Mar-25,Grandview-Woodland,3.0,Over priced
+266,"3167 Gambier Avenue, Coquitlam",1290000.0,For Sale,49.2888227,-122.7800128,3.0,2.0,10-Mar-25,Coquitlam,3.0,Fair price
+268,"11216 Wallace Drive, Surrey",1300000.0,For Sale,49.206558,-122.8137085,3.0,2.0,10-Mar-25,Surrey,3.0,Over priced
+269,"402 - 1419 Beach Avenue, Vancouver",1869000.0,For Sale,49.2820099,-123.1396201,2.0,3.0,10-Mar-25,West End,2.0,Over priced
+270,"202 - 4479 10th Avenue, Vancouver",628000.0,For Sale,49.2639771,-123.2084503,1.0,1.0,10-Mar-25,West Point Grey,1.0,Fair price
+271,"11 - 14177 103 Avenue, Surrey",985000.0,For Sale,49.1897716,-122.8294931,3.0,4.0,10-Mar-25,Surrey,3.0,Fair price
+272,"2465 Brock Street, Vancouver",1598000.0,For Sale,49.2439373,-123.0553795,3.0,4.0,10-Mar-25,Renfrew-Collingwood,3.0,Fair price
+273,"609 - 7080 St. Albans Road, Richmond",819000.0,For Sale,49.1623971,-123.1303313,2.0,2.0,10-Mar-25,Richmond,2.0,Fair price
+274,"3402 - 1281 Cordova Street, Vancouver",5998000.0,For Sale,49.2899647,-123.1233648,3.0,3.0,10-Mar-25,Downtown,3.0,Over priced
+275,"211 - 15168 33 Avenue, Surrey",645000.0,For Sale,49.0623164,-122.8022901,2.0,2.0,10-Mar-25,Surrey,2.0,Fair price
+276,"316 Begin St , Coquitlam",2299000.0,For Sale,49.2419012,-122.8601527,2.0,2.0,10-Mar-25,Coquitlam,2.0,Over priced
+277,"3108 62nd Avenue, Vancouver",1999000.0,For Sale,49.2135732,-123.0411769,6.0,6.0,10-Mar-25,Killarney,4+,Fair price
+282,"4707 - 2108 Gilmore Avenue, Burnaby",1238000.0,For Sale,49.2653663,-123.0133104,3.0,2.0,10-Mar-25,Burnaby,3.0,Fair price
+283,"305 - 5311 Cedarbridge Way, Richmond",699800.0,For Sale,49.1760534,-123.1438597,2.0,2.0,10-Mar-25,Richmond,2.0,Lower priced
+284,"1208 - 595 Austin Avenue, Coquitlam",1034000.0,For Sale,49.2496465,-122.8865732,2.0,2.0,10-Mar-25,Coquitlam,2.0,Over priced
+285,"12A - 338 Taylor Way, West Vancouver",1180000.0,For Sale,49.3265128,-123.1336002,2.0,2.0,10-Mar-25,West Vancouver,2.0,Fair price
+286,"606 - 611 Tyndall Street, Coquitlam",625900.0,For Sale,49.2634453,-122.8921777,2.0,2.0,10-Mar-25,Coquitlam,2.0,Lower priced
+287,"417 St Andrews Avenue, North Vancouver",1298000.0,For Sale,49.3120713,-123.0702332,3.0,3.0,10-Mar-25,North Vancouver,3.0,Fair price
+288,"2005 - 788 Richards Street, Vancouver",788000.0,For Sale,49.2803641,-123.116879,1.0,1.0,10-Mar-25,Downtown,1.0,Fair price
+289,"2105 - 188 Keefer Place, Vancouver",1068000.0,For Sale,49.2796404,-123.1088566,2.0,2.0,10-Mar-25,Downtown,2.0,Fair price
+290,"2532 Burian Drive, Coquitlam",1175000.0,For Sale,49.2484525,-122.8232302,3.0,2.0,10-Mar-25,Coquitlam,3.0,Fair price
+291,"302 - 3596 Malsum Drive, North Vancouver",779900.0,For Sale,49.3112441,-122.9723132,2.0,2.0,10-Mar-25,others,2.0,Lower priced
+292,"311 - 15165 Thrift Street, Surrey",1150000.0,For Sale,49.238723,-122.876871,2.0,3.0,10-Mar-25,Coquitlam,2.0,Over priced
+293,"7080 193 Street, Surrey",2150000.0,For Sale,49.1315309,-122.6880381,9.0,7.0,10-Mar-25,Surrey,4+,Over priced
+294,"10600 Ainsworth Crescent, Richmond",2999999.0,For Sale,49.1369462,-123.1059822,5.0,6.0,10-Mar-25,Richmond,4+,Over priced
+295,"4640 Foxglove Crescent, Richmond",3690000.0,For Sale,49.1645866,-123.174198,5.0,6.0,10-Mar-25,Richmond,4+,Over priced
+296,"1445 El Camino Drive, Coquitlam",1775000.0,For Sale,49.2974612,-122.7762756,6.0,4.0,10-Mar-25,Coquitlam,4+,Fair price
+297,"305 Sorrento Place, Coquitlam",2599000.0,For Sale,49.2402015,-122.8266833,5.0,5.0,10-Mar-25,Coquitlam,4+,Over priced
+298,"950 15th Avenue, Vancouver",1599000.0,For Sale,49.2576663,-123.1260629,3.0,2.0,10-Mar-25,Fairview,3.0,Fair price
+299,"119 - 750 Dogwood Street, Coquitlam",829000.0,For Sale,49.2625468,-122.8838489,3.0,2.0,10-Mar-25,Coquitlam,3.0,Lower priced
+300,"709 - 7303 Noble Lane, Burnaby",609900.0,For Sale,49.2194426,-122.9491631,1.0,1.0,10-Mar-25,Burnaby,1.0,Fair price
+301,"309 - 1777 13th Avenue, Vancouver",799000.0,For Sale,49.2601965,-123.1450401,1.0,1.0,10-Mar-25,Fairview,1.0,Over priced
+302,"202 - 2036 10th Avenue, Vancouver",769000.0,For Sale,49.2626237,-123.1514218,1.0,1.0,10-Mar-25,Kitsilano,1.0,Fair price
+303,"36 - 730 Farrow Street, Coquitlam",849000.0,For Sale,49.26258,-122.89235,3.0,2.0,10-Mar-25,Coquitlam,3.0,Lower priced
+304,"18 - 15188 62a Avenue, Surrey",1100000.0,For Sale,49.1158982,-122.802851,3.0,3.0,10-Mar-25,Surrey,3.0,Fair price
+305,"3443 2nd Avenue, Vancouver",2998000.0,For Sale,49.2705607,-123.1807561,4.0,4.0,10-Mar-25,Kitsilano,4+,Fair price
+306,"1436 Grand Boulevard, North Vancouver",2498000.0,For Sale,49.3213553,-123.0575362,5.0,3.0,10-Mar-25,North Vancouver,4+,Fair price
+307,"3559 18th Avenue, Vancouver",2990000.0,For Sale,49.2567039,-123.1835612,5.0,4.0,10-Mar-25,Dunbar-Southlands,4+,Fair price
+308,"809 - 8750 University Crescent, Burnaby",588000.0,For Sale,49.2797351,-122.9105226,3.0,3.0,10-Mar-25,Burnaby,3.0,Lower priced
+309,"1205 - 4433 Alaska Street, Burnaby",665000.0,For Sale,49.2628202,-123.0041474,1.0,1.0,10-Mar-25,Burnaby,1.0,Fair price
+310,"2668 8th Avenue, Vancouver",1549988.0,For Sale,49.2627721,-123.0505007,5.0,4.0,10-Mar-25,Hastings-Sunrise,4+,Lower priced
+311,"3001 - 1482 Robson Street, Vancouver",5334000.0,For Sale,49.2885128,-123.1311775,3.0,3.0,10-Mar-25,West End,3.0,Over priced
+312,"429 - 11077 Ravine Road, Surrey",458888.0,For Sale,49.2040616,-122.8542636,1.0,1.0,10-Mar-25,Surrey,1.0,Lower priced
+313,"203 - 2167 Bellevue Avenue, West Vancouver",1085000.0,For Sale,49.3297426,-123.1700708,2.0,2.0,10-Mar-25,West Vancouver,2.0,Lower priced
+314,"315 - 9371 Hemlock Drive, Richmond",599000.0,For Sale,49.1674596,-123.1216107,1.0,1.0,10-Mar-25,Richmond,1.0,Fair price
+315,"613 - 13458 95 Avenue, Surrey",744900.0,For Sale,49.1747077,-122.8104842,2.0,2.0,10-Mar-25,Surrey,2.0,Fair price
+316,"1802 - 13495 Central Avenue, Surrey",459000.0,For Sale,49.1906551,-122.8482557,1.0,1.0,10-Mar-25,Surrey,1.0,Lower priced
+317,"10777 Springmont Drive, Richmond",3998000.0,For Sale,49.1368908,-123.1931551,2.0,2.0,10-Mar-25,Richmond,2.0,Over priced
+318,"578 59th Avenue, Vancouver",3280000.0,For Sale,49.2166691,-123.1194328,6.0,7.0,10-Mar-25,Marpole,4+,Over priced
+319,"1859 Berkley Road, North Vancouver",2195000.0,For Sale,49.3243581,-123.0052313,8.0,5.0,10-Mar-25,others,4+,Fair price
+320,"2368 180 Street, Surrey",3890000.0,For Sale,49.0450012,-122.7240759,5.0,4.0,10-Mar-25,Surrey,4+,Over priced
+323,"1005 - 2351 Beta Avenue, Burnaby",678000.0,For Sale,49.2632921,-122.9980174,3.0,2.0,10-Mar-25,Burnaby,3.0,Lower priced
+325,"3110 - 4730 Lougheed Highway, Burnaby",599000.0,For Sale,49.265665,-122.9952381,2.0,2.0,10-Mar-25,Burnaby,2.0,Lower priced
+326,"2409 - 2351 Beta Avenue, Burnaby",659900.0,For Sale,49.2632921,-122.9980174,1.0,1.0,10-Mar-25,Burnaby,1.0,Fair price
+327,"701 - 384 1st Avenue, Vancouver",699000.0,For Sale,49.2675068,-123.0957013,1.0,1.0,10-Mar-25,Strathcona,1.0,Fair price
+328,"1008 - 4200 Mayberry Street, Burnaby",530000.0,For Sale,49.2262496,-123.0122235,1.0,1.0,10-Mar-25,Burnaby,1.0,Lower priced
+329,"305 - 5788 Gilbert Road, Richmond",788888.0,For Sale,49.1721137,-123.1465188,2.0,1.0,10-Mar-25,Richmond,2.0,Fair price
+330,"205 - 7727 Royal Oak Avenue, Burnaby",739800.0,For Sale,49.2136331,-122.9888259,2.0,2.0,10-Mar-25,Burnaby,2.0,Fair price
+331,"4007 - 1111 Alberni Street, Vancouver",1999000.0,For Sale,49.2855785,-123.1238406,2.0,2.0,10-Mar-25,West End,2.0,Over priced
+332,"15 - 6378 142 Street, Surrey",886900.0,For Sale,49.1182721,-122.827912,3.0,3.0,10-Mar-25,Surrey,3.0,Fair price
+333,"170 - 13898 64 Avenue, Surrey",959900.0,For Sale,49.1173812,-122.8388355,4.0,4.0,10-Mar-25,Surrey,4+,Lower priced
+334,"4270 Rockridge Place, West Vancouver",5880000.0,For Sale,49.3470893,-123.2383004,8.0,6.0,10-Mar-25,West Vancouver,4+,Over priced
+335,"3913 Dundas Street, Burnaby",2580000.0,For Sale,49.2849261,-123.0181286,5.0,3.0,10-Mar-25,Burnaby,4+,Fair price
+336,"4188 Coventry Way, North Vancouver",3348000.0,For Sale,49.3475621,-123.0709058,4.0,4.0,10-Mar-25,others,4+,Over priced
+337,"4710 Reid Street, Vancouver",1688800.0,For Sale,49.2426791,-123.0368881,5.0,3.0,10-Mar-25,Renfrew-Collingwood,4+,Lower priced
+338,"1715 Berkley Road, North Vancouver",1999000.0,For Sale,49.3227754,-123.0052769,4.0,3.0,10-Mar-25,others,4+,Fair price
+340,"4104 - 3833 Evergreen Place, Burnaby",659000.0,For Sale,49.249599,-122.8943497,2.0,2.0,10-Mar-25,Burnaby,2.0,Lower priced
+341,"212 - 4468 Dawson Street, Burnaby",849900.0,For Sale,49.2642817,-123.0041922,3.0,2.0,10-Mar-25,Burnaby,3.0,Fair price
+342,"3801 - 6000 Mckay Avenue, Burnaby",668800.0,For Sale,49.2291698,-123.0028825,2.0,2.0,10-Mar-25,Burnaby,2.0,Lower priced
+343,"322 - 2768 Cranberry Drive, Vancouver",799000.0,For Sale,49.2615355,-123.153472,1.0,1.0,10-Mar-25,Kitsilano,1.0,Fair price
+344,"202 - 1331 Alberni Street, Vancouver",698000.0,For Sale,49.2882466,-123.1276892,1.0,1.0,10-Mar-25,West End,1.0,Fair price
+345,"1503 - 200 Klahanie Court, West Vancouver",818000.0,For Sale,49.3255228,-123.1247727,1.0,1.0,10-Mar-25,West Vancouver,1.0,Fair price
+346,"314 - 13258 105 Avenue, Surrey",549900.0,For Sale,49.1930305,-122.8547066,1.0,1.0,10-Mar-25,Surrey,1.0,Fair price
+347,"211 - 1209 Howie Avenue, Coquitlam",398888.0,For Sale,49.25077,-122.85856,1.0,1.0,10-Mar-25,Coquitlam,1.0,Lower priced
+348,"2 - 8079 Selkirk Street, Vancouver",1988999.0,For Sale,49.2123655,-123.133186,3.0,4.0,10-Mar-25,Marpole,3.0,Over priced
+349,"13109 66b Avenue, Surrey",1350000.0,For Sale,49.1242906,-122.8591572,4.0,3.0,10-Mar-25,Surrey,4+,Fair price
+350,"404 - 10428 Whalley Boulevard, Surrey",649649.0,For Sale,49.19237,-122.8415042,2.0,2.0,10-Mar-25,Surrey,2.0,Fair price
+351,"3507 - 602 Citadel Parade, Vancouver",699900.0,For Sale,49.2792302,-123.1100504,1.0,1.0,10-Mar-25,Downtown,1.0,Fair price
+352,"806 - 518 Beatty Street, Vancouver",1198000.0,For Sale,49.2808689,-123.1087954,1.0,1.0,10-Mar-25,Downtown,1.0,Over priced
+353,"1902 - 5311 Goring Street, Burnaby",648000.0,For Sale,49.2630666,-122.9871461,1.0,2.0,10-Mar-25,Burnaby,1.0,Fair price
+354,"403 - 288 King Edward Avenue, Vancouver",1699000.0,For Sale,49.2486383,-123.1109928,3.0,2.0,10-Mar-25,Riley Park,3.0,Fair price
+355,"1807 - 2351 Beta Avenue, Burnaby",499000.0,For Sale,49.2632921,-122.9980174,1.0,1.0,10-Mar-25,Burnaby,1.0,Lower priced
+356,"1109 - 110 Switchmen Street, Vancouver",815000.0,For Sale,49.2708692,-123.1016807,1.0,1.0,10-Mar-25,Mount Pleasant,1.0,Fair price
+358,"3905 - 1480 Howe Street, Vancouver",1698000.0,For Sale,49.2749438,-123.1312301,2.0,2.0,10-Mar-25,Downtown,2.0,Fair price
+359,"806 - 13359 Old Yale Road, Surrey",439800.0,For Sale,49.1871713,-122.853656,1.0,1.0,10-Mar-25,Surrey,1.0,Lower priced
+360,"837 Windermere Street, Vancouver",1499888.0,For Sale,49.2768019,-123.0366943,2.0,1.0,10-Mar-25,Hastings-Sunrise,2.0,Fair price
+361,"5295 Gulf Place, West Vancouver",4998000.0,For Sale,49.3472201,-123.2688279,5.0,4.0,10-Mar-25,West Vancouver,4+,Fair price
+362,"1155 Sinclair Street, West Vancouver",4490000.0,For Sale,49.3351458,-123.1635261,6.0,5.0,10-Mar-25,West Vancouver,4+,Fair price
+366,"304 - 455 Bromley Street, Coquitlam",618000.0,For Sale,49.2481976,-122.8182555,2.0,2.0,10-Mar-25,Coquitlam,2.0,Lower priced
+367,"1505 - 5782 Berton Avenue, Vancouver",1380000.0,For Sale,49.2552368,-123.233794,3.0,2.0,10-Mar-25,others,3.0,Fair price
+368,"107 - 13258 105 Avenue, Surrey",654900.0,For Sale,49.1930305,-122.8547066,2.0,2.0,10-Mar-25,Surrey,2.0,Fair price
+369,"2305 - 1155 Seymour Street, Vancouver",699000.0,For Sale,49.2771445,-123.1245855,1.0,1.0,10-Mar-25,Downtown,1.0,Fair price
+370,"1007 - 555 Sydney Avenue, Coquitlam",679500.0,For Sale,49.248371,-122.8888785,1.0,1.0,10-Mar-25,Coquitlam,1.0,Fair price
+371,"215 - 13933 105 Boulevard, Surrey",489000.0,For Sale,49.19446,-122.83606,1.0,1.0,10-Mar-25,Surrey,1.0,Fair price
+372,"1304 - 4890 Lougheed Highway, Burnaby",859900.0,For Sale,49.2649736,-122.9928699,2.0,2.0,10-Mar-25,Burnaby,2.0,Fair price
+373,"1041 53rd Avenue, Vancouver",5998000.0,For Sale,49.2230694,-123.1296252,3.0,3.0,10-Mar-25,Oakridge,3.0,Over priced
+374,"3491 Pender Street, Vancouver",1960000.0,For Sale,49.2804639,-123.0287508,1.0,1.0,10-Mar-25,Hastings-Sunrise,1.0,Over priced
+375,"151 Holdom Avenue, Burnaby",1998000.0,For Sale,49.2829038,-122.9811594,4.0,4.0,10-Mar-25,Burnaby,4+,Fair price
+376,"10060 Swinton Crescent, Richmond",2350000.0,For Sale,49.1339805,-123.1107081,5.0,3.0,10-Mar-25,Richmond,4+,Fair price
+377,"16105 109a Avenue, Surrey",1725000.0,For Sale,49.2018315,-122.7763595,2.0,2.0,10-Mar-25,Surrey,2.0,Over priced
+379,"2 - 1328 35th Avenue, Vancouver",1638000.0,For Sale,49.2383386,-123.0784475,3.0,4.0,10-Mar-25,Kensington-Cedar Cottage,3.0,Fair price
+380,"415 - 6788 Minoru Boulevard, Richmond",689000.0,For Sale,49.1633764,-123.1401484,1.0,1.0,10-Mar-25,Richmond,1.0,Fair price
+381,"115 - 13258 105 Avenue, Surrey",629900.0,For Sale,49.1930305,-122.8547066,2.0,1.0,10-Mar-25,Surrey,2.0,Fair price
+382,"505 - 55 Cordova Street, Vancouver",849000.0,For Sale,49.2828753,-123.1056654,0.0,1.0,10-Mar-25,Downtown,0.0,Fair price
+383,"105 - 10011 River Drive, Richmond",597000.0,For Sale,49.1991911,-123.1127993,2.0,2.0,10-Mar-25,Richmond,2.0,Lower priced
+384,"1302 - 3809 Evergreen Place, Burnaby",618800.0,For Sale,49.2498579,-122.8940588,1.0,1.0,10-Mar-25,Burnaby,1.0,Fair price
+385,"508 - 8033 Saba Road, Richmond",799900.0,For Sale,49.1693121,-123.1352121,2.0,2.0,10-Mar-25,Richmond,2.0,Fair price
+386,"706 - 1661 Ontario Street, Vancouver",989888.0,For Sale,49.2705883,-123.1047753,1.0,1.0,10-Mar-25,Mount Pleasant,1.0,Over priced
+387,"209 - 6655 Lynas Lane, Richmond",499900.0,For Sale,49.1646029,-123.1669911,2.0,1.0,10-Mar-25,Richmond,2.0,Lower priced
+388,"1002 - 433 Marine Drive, Vancouver",578000.0,For Sale,49.211344,-123.0963781,1.0,1.0,10-Mar-25,Sunset,1.0,Lower priced
+389,"1006 - 3920 Hastings Street, Burnaby",699000.0,For Sale,49.280895,-123.0178722,2.0,1.0,10-Mar-25,Burnaby,2.0,Lower priced
+390,"2110 Ferndale Street, Vancouver",1625000.0,For Sale,49.2794855,-123.0615462,4.0,3.0,10-Mar-25,Grandview-Woodland,4+,Fair price
+391,"4254 Caddy Road, North Vancouver",2399800.0,For Sale,49.3116814,-122.9535138,2.0,2.0,10-Mar-25,others,2.0,Over priced
+392,"14112 Trites Road, Surrey",2999990.0,For Sale,49.1016086,-122.8313563,5.0,3.0,10-Mar-25,Surrey,4+,Over priced
+393,"10527 159b Street, Surrey",1750000.0,For Sale,49.193774,-122.7791044,4.0,4.0,10-Mar-25,Surrey,4+,Fair price
+394,"1999 Amble Greene Drive, Surrey",1839000.0,For Sale,49.0382472,-122.8562579,4.0,3.0,10-Mar-25,Surrey,4+,Fair price
+395,"218 - 10780 No. 5 Road, Richmond",783000.0,For Sale,49.134504,-123.0901255,2.0,1.0,10-Mar-25,Richmond,2.0,Fair price
+396,"209 - 257 Keith Road, North Vancouver",1099000.0,For Sale,49.3146373,-123.0691507,2.0,2.0,10-Mar-25,North Vancouver,2.0,Fair price
+397,"57 - 7288 Heather Street, Richmond",1548000.0,For Sale,49.1609174,-123.1208063,4.0,3.0,10-Mar-25,Richmond,4+,Fair price
+398,"5802 - 2108 Gilmore Avenue, Burnaby",699900.0,For Sale,49.2653663,-123.0133104,2.0,2.0,10-Mar-25,Burnaby,2.0,Lower priced
+399,"PH7 - 380 10th Avenue, Vancouver",1250000.0,For Sale,49.2616904,-123.0965243,2.0,3.0,10-Mar-25,Mount Pleasant,2.0,Fair price
+400,"7481 Laurel Street, Vancouver",1799000.0,For Sale,49.2175692,-123.1263549,4.0,4.0,10-Mar-25,Marpole,4+,Lower priced
+401,"425 - 11077 Ravine Road, Surrey",456900.0,For Sale,49.2040616,-122.8542636,1.0,1.0,10-Mar-25,Surrey,1.0,Lower priced
+402,"1203 - 1146 Harwood Street, Vancouver",588000.0,For Sale,49.2795017,-123.134697,1.0,1.0,10-Mar-25,West End,1.0,Fair price
+403,"3575 20th Avenue, Vancouver",3680000.0,For Sale,49.25491,-123.183995,5.0,3.0,10-Mar-25,Dunbar-Southlands,4+,Fair price
+404,"14756 Wellington Drive, Surrey",1489880.0,For Sale,49.2089118,-122.8129153,2.0,2.0,10-Mar-25,Surrey,2.0,Over priced
+406,"303 - 177 3rd Street, North Vancouver",1319000.0,For Sale,49.3121688,-123.0746035,2.0,2.0,10-Mar-25,North Vancouver,2.0,Over priced
+407,"403 - 1288 Alberni Street, Vancouver",969000.0,For Sale,49.2870669,-123.1270333,2.0,2.0,10-Mar-25,West End,2.0,Fair price
+408,"63 - 9285 122 Street, Surrey",615000.0,For Sale,49.1721838,-122.8849246,2.0,2.0,10-Mar-25,Surrey,2.0,Fair price
+409,"1508 19th Avenue, Vancouver",1549900.0,For Sale,49.2532838,-123.0727363,1.0,1.0,10-Mar-25,Kensington-Cedar Cottage,1.0,Over priced
+410,"706 - 1500 Fern Street, North Vancouver",1340000.0,For Sale,49.3117599,-123.0322935,3.0,3.0,10-Mar-25,others,3.0,Fair price
+411,"29 - 10433 158 Street, Surrey",878999.0,For Sale,49.1923585,-122.7845215,3.0,3.0,10-Mar-25,Surrey,3.0,Fair price
+412,"52 - 6537 138 Street, Surrey",699000.0,For Sale,49.1209769,-122.8401944,2.0,2.0,10-Mar-25,Surrey,2.0,Fair price
+413,"2578 4th Avenue, Vancouver",1899999.0,For Sale,49.2680565,-123.1639826,4.0,3.0,10-Mar-25,Kitsilano,4+,Lower priced
+414,"8287 Victoria Drive, Vancouver",1650000.0,For Sale,49.2101052,-123.0664818,3.0,1.0,10-Mar-25,Victoria-Fraserview,3.0,Fair price
+415,"5555 Lanark Street, Vancouver",1799000.0,For Sale,49.2341933,-123.0760292,8.0,3.0,10-Mar-25,Kensington-Cedar Cottage,4+,Fair price
+416,"1308 Sadie Crescent, Coquitlam",2099000.0,For Sale,49.2916194,-122.756529,1.0,2.0,10-Mar-25,Coquitlam,1.0,Over priced
+417,"1802 - 6331 Buswell Street, Richmond",1678000.0,For Sale,49.1681961,-123.1340376,4.0,3.0,10-Mar-25,Richmond,4+,Fair price
+418,"318 - 2320 40th Avenue, Vancouver",539000.0,For Sale,49.2338904,-123.0584712,1.0,1.0,10-Mar-25,Renfrew-Collingwood,1.0,Fair price
+419,"206 - 2988 Silver Springs Boulevard, Coquitlam",545900.0,For Sale,49.29563,-122.7901299,1.0,1.0,10-Mar-25,Coquitlam,1.0,Lower priced
+420,"199 Victory Ship Way, North Vancouver",1149000.0,For Sale,49.3088826,-123.0773012,2.0,2.0,10-Mar-25,North Vancouver,2.0,Fair price
+421,"3035 Maplewood Court, Coquitlam",1928000.0,For Sale,49.3055892,-122.7945409,5.0,3.0,10-Mar-25,Coquitlam,4+,Fair price
+422,"11331 No. 2 Road, Richmond",3390000.0,For Sale,49.131301,-123.1592799,5.0,6.0,10-Mar-25,Richmond,4+,Over priced
+423,"5449 Royal Oak Avenue, Burnaby",2099900.0,For Sale,49.2349221,-122.9892968,2.0,3.0,10-Mar-25,Burnaby,2.0,Over priced
+424,"205 - 360 36th Avenue, Vancouver",689900.0,For Sale,49.2378715,-123.0986935,1.0,1.0,10-Mar-25,Riley Park,1.0,Lower priced
+425,"403 - 6900 Pearson Way, Richmond",1049000.0,For Sale,49.1750156,-123.1469593,2.0,2.0,10-Mar-25,Richmond,2.0,Over priced
+426,"302 - 1508 Mariner Walk, Vancouver",820000.0,For Sale,49.2699916,-123.1392084,2.0,2.0,10-Mar-25,Fairview,2.0,Lower priced
+427,"1001 - 1688 Pullman Porter Street, Vancouver",758000.0,For Sale,49.2706831,-123.1038068,1.0,1.0,10-Mar-25,Mount Pleasant,1.0,Fair price
+428,"5741 Seaview Road, West Vancouver",5498000.0,For Sale,49.3545337,-123.2695109,4.0,6.0,10-Mar-25,West Vancouver,4+,Fair price
+429,"1387 35th Avenue, Vancouver",1899000.0,For Sale,49.2387702,-123.07721,6.0,3.0,10-Mar-25,Kensington-Cedar Cottage,4+,Fair price
+430,"6691 121a Street Street, Surrey",1799999.0,For Sale,49.1245726,-122.8864199,4.0,4.0,10-Mar-25,Surrey,4+,Fair price
+431,"118 - 6033 Katsura Street, Richmond",698000.0,For Sale,49.1697085,-123.122552,4.0,4.0,10-Mar-25,Richmond,4+,Lower priced
+432,"510 - 15848 Fraser Highway, Surrey",599999.0,For Sale,49.1593464,-122.7852114,3.0,4.0,10-Mar-25,Surrey,3.0,Lower priced
+433,"316 - 1675 10th Avenue, Vancouver",899000.0,For Sale,49.2629561,-123.1424554,3.0,2.0,10-Mar-25,Fairview,3.0,Lower priced
+434,"24 - 12635 63 Avenue, Surrey",1139900.0,For Sale,49.1177605,-122.8728585,2.0,1.0,10-Mar-25,Surrey,2.0,Over priced
+435,"404 - 1630 1st Avenue, Vancouver",998000.0,For Sale,49.2704235,-123.1416075,2.0,2.0,10-Mar-25,Fairview,2.0,Fair price
+436,"909 - 6808 Minoru Boulevard, Richmond",799000.0,For Sale,49.1633764,-123.1401484,2.0,1.0,10-Mar-25,Richmond,2.0,Fair price
+437,"6 - 12036 66 Avenue, Surrey",868800.0,For Sale,49.1227484,-122.8895617,3.0,3.0,10-Mar-25,Surrey,3.0,Fair price
+438,"3507 - 1955 Alpha Way, Burnaby",789000.0,For Sale,49.2668104,-123.0006967,2.0,1.0,10-Mar-25,Burnaby,2.0,Fair price
+439,"51 - 13706 74 Avenue, Surrey",599000.0,For Sale,49.1366181,-122.8420568,2.0,2.0,10-Mar-25,Surrey,2.0,Fair price
+440,"59 - 3039 156 Street, Surrey",575000.0,For Sale,49.0572527,-122.790431,3.0,3.0,10-Mar-25,Surrey,3.0,Lower priced
+441,"102 - 5689 Kings Road, Vancouver",798800.0,For Sale,49.2656914,-123.2410071,1.0,1.0,10-Mar-25,others,1.0,Fair price
+442,"6993 149a Street, Surrey",2089900.0,For Sale,49.1299653,-122.8080435,9.0,6.0,10-Mar-25,Surrey,4+,Over priced
+443,"12 - 6383 140 Street, Surrey",849000.0,For Sale,49.1186173,-122.8352831,4.0,4.0,10-Mar-25,Surrey,4+,Lower priced
+444,"12431 113b Avenue, Surrey",1190000.0,For Sale,49.2090803,-122.8778526,2.0,1.0,10-Mar-25,Surrey,2.0,Over priced
+445,"6060 9th Avenue, Burnaby",1150000.0,For Sale,49.1962486,-122.9639104,0.0,0.0,10-Mar-25,Burnaby,0.0,Fair price
+446,"2976 42nd Avenue, Vancouver",2588000.0,For Sale,49.2336066,-123.1724523,5.0,4.0,10-Mar-25,Kerrisdale,4+,Lower priced
+447,"23 - 1133 Ridgewood Drive, North Vancouver",1899800.0,For Sale,49.3391501,-123.1053957,3.0,4.0,10-Mar-25,others,3.0,Fair price
+448,"108 - 330 1st Street, North Vancouver",475000.0,For Sale,49.3151971,-123.0854774,1.0,1.0,10-Mar-25,North Vancouver,1.0,Lower priced
+449,"317 - 1550 Barclay Street, Vancouver",799000.0,For Sale,49.2877525,-123.1342747,2.0,1.0,10-Mar-25,West End,2.0,Lower priced
+450,"1861 Island Avenue, Vancouver",1850000.0,For Sale,49.2095296,-123.0684179,5.0,3.0,10-Mar-25,Victoria-Fraserview,4+,Lower priced
+451,"77 - 1701 Parkway Boulevard, Coquitlam",1678000.0,For Sale,49.3059466,-122.802022,5.0,4.0,10-Mar-25,Coquitlam,4+,Fair price
+452,"16151 27 Avenue, Surrey",2499000.0,For Sale,49.0501619,-122.7732033,4.0,4.0,10-Mar-25,Surrey,4+,Over priced
+453,"703 - 1575 Beach Avenue, Vancouver",1528000.0,For Sale,49.2831224,-123.1413054,3.0,3.0,10-Mar-25,West End,3.0,Lower priced
+454,"15381 36 Avenue, Surrey",1899000.0,For Sale,49.0675766,-122.7963572,5.0,7.0,10-Mar-25,Surrey,4+,Fair price
+455,"15305 29a Avenue, Surrey",2273997.0,For Sale,49.0556121,-122.7981197,5.0,4.0,10-Mar-25,Surrey,4+,Over priced
+456,"14492 91 Avenue, Surrey",1498000.0,For Sale,49.1675681,-122.8208924,6.0,5.0,10-Mar-25,Surrey,4+,Fair price
+457,"411 - 2601 Whiteley Court, North Vancouver",1067000.0,For Sale,49.332494,-123.0420794,2.0,2.0,10-Mar-25,others,2.0,Fair price
+458,"13082 60 Avenue, Surrey",1435000.0,For Sale,49.1116834,-122.8599528,5.0,4.0,10-Mar-25,Surrey,4+,Fair price
+459,"14095 110 Avenue, Surrey",1399999.0,For Sale,49.2027142,-122.8316048,4.0,3.0,10-Mar-25,Surrey,4+,Fair price
+460,"12755 104 Avenue, Surrey",1425000.0,For Sale,49.1919433,-122.8691345,5.0,3.0,10-Mar-25,Surrey,4+,Fair price
+461,"8B - 1568 12th Avenue, Vancouver",1349000.0,For Sale,49.2605144,-123.1402811,2.0,2.0,10-Mar-25,Fairview,2.0,Over priced
+462,"42 24th Avenue, Vancouver",1849000.0,For Sale,49.2494085,-123.1040454,4.0,2.0,10-Mar-25,Riley Park,4+,Fair price
+463,"11098 Caledonia Drive, Surrey",1479000.0,For Sale,49.2041491,-122.8223093,4.0,2.0,10-Mar-25,Surrey,4+,Fair price
+464,"1705 - 1500 Fern Street, North Vancouver",729900.0,For Sale,49.3117599,-123.0322935,1.0,1.0,10-Mar-25,others,1.0,Fair price
+465,"806 - 1600 Hornby Street, Vancouver",2198000.0,For Sale,49.2744543,-123.1334458,3.0,3.0,10-Mar-25,Downtown,3.0,Fair price
+466,"1 - 5737 Clarendon Street, Vancouver",1798000.0,For Sale,49.2320296,-123.0555627,3.0,4.0,10-Mar-25,Victoria-Fraserview,3.0,Over priced
+467,"801 - 525 Foster Avenue, Coquitlam",630000.0,For Sale,49.25715,-122.89048,1.0,1.0,10-Mar-25,Coquitlam,1.0,Fair price
+468,"908 - 13318 104 Avenue, Surrey",579000.0,For Sale,49.1914074,-122.8533952,2.0,1.0,10-Mar-25,Surrey,2.0,Lower priced
+469,"101 - 941 Dansey Avenue, Coquitlam",1299999.0,For Sale,49.2473894,-122.8699094,3.0,3.0,10-Mar-25,Coquitlam,3.0,Over priced
+470,"642 Thompson Avenue, Coquitlam",4999000.0,For Sale,49.2682286,-122.8835934,6.0,7.0,10-Mar-25,Coquitlam,4+,Over priced
+471,"2511 Lawson Avenue, West Vancouver",5250000.0,For Sale,49.3378124,-123.182919,5.0,5.0,10-Mar-25,West Vancouver,4+,Fair price
+472,"2 - 4579 Culloden Street, Vancouver",1649900.0,For Sale,49.243574,-123.0792286,3.0,4.0,10-Mar-25,Kensington-Cedar Cottage,3.0,Fair price
+479,"7468 Curtis Street, Burnaby",3980000.0,For Sale,49.27496,-122.94599,3.0,2.0,09-Mar-25,Burnaby,3.0,Over priced
+482,"312 - 733 14th Street, North Vancouver",659800.0,For Sale,49.3210651,-123.0931234,3.0,5.0,09-Mar-25,North Vancouver,3.0,Lower priced
+486,"1606 - 2004 Fullerton Avenue, North Vancouver",440000.0,For Sale,49.3302517,-123.1206331,2.0,3.0,08-Mar-25,others,2.0,Lower priced
+488,"13 Ellesmere Avenue, Burnaby",1949999.0,For Sale,49.2839716,-122.9825837,4.0,2.0,08-Mar-25,Burnaby,4+,Fair price
+489,"119 - 707 Robinson Street, Coquitlam",1179000.0,For Sale,49.2609899,-122.8794539,3.0,3.0,08-Mar-25,Coquitlam,3.0,Fair price
+490,"4062 39th Avenue, Vancouver",5698000.0,For Sale,49.2362568,-123.195802,6.0,6.0,08-Mar-25,Dunbar-Southlands,4+,Over priced
+493,"650 56th Avenue, Vancouver",1955000.0,For Sale,49.2189107,-123.0920239,1.0,3.0,08-Mar-25,Sunset,1.0,Over priced
+494,"905 - 5199 Brighouse Way, Richmond",788000.0,For Sale,49.1731639,-123.1559308,7.0,6.0,08-Mar-25,Richmond,4+,Lower priced
+496,"1657 59th Avenue, Vancouver",1998000.0,For Sale,49.2178854,-123.1447337,5.0,2.0,11-Mar-25,Marpole,4+,Fair price
+497,"10931 Springwood Court, Richmond",3888000.0,For Sale,49.1350193,-123.1930761,3.0,4.0,11-Mar-25,Richmond,3.0,Over priced
+498,"2005 - 10626 City Parkway, Surrey",588000.0,For Sale,49.1955846,-122.8479033,4.0,4.0,11-Mar-25,Surrey,4+,Lower priced
+499,"911 - 10448 University Drive, Surrey",409900.0,For Sale,49.1923857,-122.8504739,1.0,1.0,11-Mar-25,Surrey,1.0,Lower priced
+500,"1602 - 3331 Browning Road, Richmond",699800.0,For Sale,49.1665898,-123.133569,0.0,1.0,11-Mar-25,Richmond,0.0,Lower priced
+501,"117 - 8480 Granville Avenue, Richmond",829900.0,For Sale,49.1621703,-123.1293014,2.0,2.0,11-Mar-25,Richmond,2.0,Fair price
+502,"2307 - 977 Mainland Street, Vancouver",698888.0,For Sale,49.2772935,-123.1183606,1.0,1.0,11-Mar-25,Downtown,1.0,Fair price
+503,"3504 - 4458 Beresford Street, Burnaby",699000.0,For Sale,49.2251804,-123.0049229,1.0,1.0,11-Mar-25,Burnaby,1.0,Over priced
+504,"312 - 6468 195a Street, Surrey",490000.0,For Sale,49.1198214,-122.6810818,1.0,1.0,11-Mar-25,Surrey,1.0,Fair price
+505,"9433 156 Street, Surrey",1899900.0,For Sale,49.1741113,-122.790375,3.0,1.0,11-Mar-25,Surrey,3.0,Over priced
+506,"5231 Woodwards Road, Richmond",1890000.0,For Sale,49.1441683,-123.1666425,7.0,4.0,11-Mar-25,Richmond,4+,Fair price
+507,"6844 195a Street, Surrey",1550000.0,For Sale,49.127236,-122.6808562,6.0,3.0,11-Mar-25,Surrey,4+,Fair price
+508,"901 - 7368 Sandborne Avenue, Burnaby",749000.0,For Sale,49.2104267,-122.9611494,2.0,2.0,11-Mar-25,Burnaby,2.0,Fair price
+509,"1503 - 5615 Hampton Place, Vancouver",2400000.0,For Sale,49.2584452,-123.2327314,3.0,2.0,11-Mar-25,others,3.0,Over priced
+510,"203 - 13628 81a Avenue, Surrey",549000.0,For Sale,49.1508064,-122.8451729,2.0,2.0,11-Mar-25,Surrey,2.0,Lower priced
+511,"1308 - 10428 Whalley Boulevard, Surrey",688900.0,For Sale,49.19237,-122.8415042,2.0,1.0,11-Mar-25,Surrey,2.0,Fair price
+512,"101 - 2375 Emery Court, North Vancouver",1599000.0,For Sale,49.3304948,-123.0401569,3.0,2.0,11-Mar-25,others,3.0,Fair price
+513,"1571 136 Street, Surrey",2738000.0,For Sale,49.0306969,-122.8459179,5.0,6.0,11-Mar-25,Surrey,4+,Over priced
+514,"22 - 14905 60 Avenue, Surrey",799000.0,For Sale,49.112688,-122.8089738,2.0,2.0,11-Mar-25,Surrey,2.0,Fair price
+515,"1203 - 108 1st Avenue, Vancouver",1278800.0,For Sale,49.2700879,-123.1069769,2.0,0.0,11-Mar-25,Mount Pleasant,2.0,Fair price
+516,"205 - 4885 Valley Drive, Vancouver",1098000.0,For Sale,49.2426852,-123.1505599,2.0,2.0,11-Mar-25,Arbutus Ridge,2.0,Lower priced
+517,"3440 25 Avenue, Vancouver",2388888.0,For Sale,49.2476919,-123.0300483,2.0,1.0,11-Mar-25,Renfrew-Collingwood,2.0,Over priced
+518,"625 Seymour Court, North Vancouver",1998000.0,For Sale,49.3130888,-123.0201975,8.0,7.0,11-Mar-25,others,4+,Lower priced
+519,"12686 25 Avenue, Surrey",2899000.0,For Sale,49.0477898,-122.8707177,6.0,3.0,11-Mar-25,Surrey,4+,Over priced
+520,"10 - 9132 120 Street, Surrey",299900.0,For Sale,49.1690822,-122.8867397,3.0,1.0,11-Mar-25,Surrey,3.0,Lower priced
+522,"505 - 3596 W. 28th Avenue, Vancouver",1999000.0,For Sale,49.2469782,-123.1848665,2.0,3.0,11-Mar-25,Dunbar-Southlands,2.0,Fair price
+523,"106 - 7428 Alberta Street, Vancouver",1925000.0,For Sale,49.2175086,-123.1129832,3.0,3.0,11-Mar-25,Marpole,3.0,Fair price
+524,"1801 - 811 Helmcken Street, Vancouver",839000.0,For Sale,49.2791435,-123.1257306,2.0,2.0,11-Mar-25,Downtown,2.0,Lower priced
+528,"2919 Tower Hill Crescent, West Vancouver",4198000.0,For Sale,49.344332,-123.191727,3.0,6.0,11-Mar-25,West Vancouver,3.0,Fair price
+530,"2105 - 1201 Marinaside Crescent, Vancouver",1699000.0,For Sale,49.2729228,-123.1202765,3.0,2.0,11-Mar-25,Downtown,3.0,Fair price
+531,"204 - 625 3rd Street, North Vancouver",915000.0,For Sale,49.308231,-123.061831,2.0,2.0,11-Mar-25,North Vancouver,2.0,Fair price
+532,"204 - 565 17th Street, West Vancouver",1418000.0,For Sale,49.3291381,-123.1606494,2.0,2.0,11-Mar-25,West Vancouver,2.0,Fair price
+533,"28 - 15151 Edmund Drive, Surrey",899000.0,For Sale,49.1070375,-122.8017471,3.0,3.0,11-Mar-25,Surrey,3.0,Fair price
+534,"401 - 3690 Banff Court, North Vancouver",1050000.0,For Sale,49.3191699,-122.9697552,2.0,2.0,11-Mar-25,others,2.0,Fair price
+535,"2003 - 1850 Comox Street, Vancouver",399900.0,For Sale,49.2890306,-123.1410302,1.0,1.0,11-Mar-25,West End,1.0,Lower priced
+536,"12 - 19128 65 Avenue, Surrey",779900.0,For Sale,49.1215456,-122.6929171,3.0,2.0,11-Mar-25,Surrey,3.0,Lower priced
+537,"12222 Trites Road, Richmond",1990000.0,For Sale,49.1247936,-123.1642232,3.0,3.0,11-Mar-25,Richmond,3.0,Over priced
+538,"311 - 2220 Kingsway , Vancouver",848000.0,For Sale,49.2428756,-123.0608477,2.0,2.0,11-Mar-25,Kensington-Cedar Cottage,2.0,Lower priced
+539,"54 - 1295 Soball Street, Coquitlam",1099900.0,For Sale,49.2905285,-122.7480141,3.0,3.0,11-Mar-25,Coquitlam,3.0,Fair price
+540,"803 - 1033 Marinaside Crescent, Vancouver",898000.0,For Sale,49.273476,-123.1163516,1.0,1.0,11-Mar-25,Downtown,1.0,Over priced
+541,"805 - 1468 14th Avenue, Vancouver",1100000.0,For Sale,49.2586356,-123.1373143,2.0,2.0,11-Mar-25,Fairview,2.0,Fair price
+542,"902 - 8988 Patterson Road, Richmond",999999.0,For Sale,49.1899194,-123.1257308,3.0,2.0,11-Mar-25,Richmond,3.0,Lower priced
+543,"1468 Cedar Cottage Mews, Vancouver",1099900.0,For Sale,49.248869,-123.0749368,2.0,3.0,11-Mar-25,Kensington-Cedar Cottage,2.0,Over priced
+544,"307 - 1103 Howie Avenue, Coquitlam",418000.0,For Sale,49.25079,-122.86121,1.0,1.0,11-Mar-25,Coquitlam,1.0,Lower priced
+545,"14 - 1073 Lynn Valley Road, North Vancouver",909000.0,For Sale,49.3334634,-123.0446898,2.0,2.0,11-Mar-25,others,2.0,Fair price
+546,"14072 103 Avenue, Surrey",2595000.0,For Sale,49.1893725,-122.8322236,6.0,4.0,11-Mar-25,Surrey,4+,Over priced
+547,"2556 20th Avenue, Vancouver",3850000.0,For Sale,49.2543513,-123.1633019,4.0,4.0,11-Mar-25,Arbutus Ridge,4+,Lower priced
+548,"4131 Magellan Place, Richmond",2058000.0,For Sale,49.1567573,-123.1789359,2.0,1.0,11-Mar-25,Richmond,2.0,Over priced
+549,"3660 Granville Avenue, Richmond",3898000.0,For Sale,49.1624781,-123.1830462,7.0,7.0,11-Mar-25,Richmond,4+,Over priced
+550,"7240 Miller Road, Richmond",978000.0,For Sale,49.1917221,-123.1434968,2.0,3.0,11-Mar-25,Richmond,2.0,Fair price
+552,"408 - 585 Austin Avenue, Coquitlam",599900.0,For Sale,49.2496541,-122.8866137,1.0,1.0,11-Mar-25,Coquitlam,1.0,Fair price
+554,"412 - 2388 Western Parkway, Vancouver",1028000.0,For Sale,49.2636,-123.2411851,1.0,1.0,11-Mar-25,others,1.0,Over priced
+555,"2240 York Avenue, Vancouver",1699000.0,For Sale,49.2715072,-123.155987,4.0,2.0,11-Mar-25,Kitsilano,4+,Lower priced
+556,"4169 Lions Avenue, North Vancouver",2098000.0,For Sale,49.3479076,-123.0957047,5.0,3.0,11-Mar-25,others,4+,Fair price
+557,"575 Tipton Street, Coquitlam",1899000.0,For Sale,49.2534193,-122.8540747,3.0,2.0,11-Mar-25,Coquitlam,3.0,Over priced
+559,"863 Roche Point Drive, North Vancouver",1495000.0,For Sale,49.3129035,-122.9711609,4.0,3.0,11-Mar-25,others,4+,Lower priced
+560,"1201 - 888 Hamilton Street, Vancouver",1049000.0,For Sale,49.2780748,-123.1169092,3.0,3.0,11-Mar-25,Downtown,3.0,Fair price
+561,"211 - 7751 Minoru Boulevard, Richmond",578000.0,For Sale,49.1566199,-123.1414487,2.0,2.0,11-Mar-25,Richmond,2.0,Lower priced
+562,"313 - 3596 Malsum Drive, North Vancouver",849000.0,For Sale,49.3112441,-122.9723132,3.0,2.0,11-Mar-25,others,3.0,Lower priced
+563,"402 - 15848 Fraser Highway, Surrey",445000.0,For Sale,49.1593464,-122.7852114,2.0,2.0,11-Mar-25,Surrey,2.0,Lower priced
+564,"14920 Kew Drive, Surrey",1680000.0,For Sale,49.207492,-122.8079625,9.0,4.0,11-Mar-25,Surrey,4+,Fair price
+565,"1603 49th Avenue, Vancouver",4950000.0,For Sale,49.2273314,-123.1420544,8.0,5.0,11-Mar-25,Kerrisdale,4+,Fair price
+566,"22 174 Street, Surrey",1918000.0,For Sale,49.0024121,-122.7408753,5.0,4.0,11-Mar-25,Surrey,4+,Fair price
+568,"316 - 9319 University Crescent, Burnaby",605000.0,For Sale,49.2778972,-122.9052622,2.0,2.0,11-Mar-25,Burnaby,2.0,Lower priced
+569,"508 - 6688 Pearson Way, Richmond",1399000.0,For Sale,49.1757469,-123.1484101,3.0,3.0,11-Mar-25,Richmond,3.0,Fair price
+570,"2607 - 1495 Richards Street, Vancouver",749900.0,For Sale,49.2736071,-123.1281418,1.0,1.0,11-Mar-25,Downtown,1.0,Fair price
+571,"3009 - 450 Westview Street, Coquitlam",859000.0,For Sale,49.2481153,-122.8901141,2.0,2.0,11-Mar-25,Coquitlam,2.0,Fair price
+572,"119 - 9388 Odlin Road, Richmond",588000.0,For Sale,49.1814227,-123.1201224,1.0,1.0,11-Mar-25,Richmond,1.0,Lower priced
+573,"2005 - 1000 Beach Avenue, Vancouver",1430000.0,For Sale,49.2758371,-123.1338013,1.0,2.0,11-Mar-25,Downtown,1.0,Over priced
+574,"5304 - 5111 Garden City Road, Richmond",799999.0,For Sale,49.176997,-123.126864,4.0,3.0,11-Mar-25,Richmond,4+,Lower priced
+575,"405 - 15038 101 Avenue, Surrey",649900.0,For Sale,49.1857593,-122.8048836,1.0,1.0,11-Mar-25,Surrey,1.0,Over priced
+576,"12535 26a Avenue, Surrey",1450000.0,For Sale,49.0511459,-122.8748167,3.0,1.0,11-Mar-25,Surrey,3.0,Over priced
+577,"312 - 8450 Jellicoe Street, Vancouver",739900.0,For Sale,49.2070942,-123.0465525,2.0,2.0,11-Mar-25,Killarney,2.0,Lower priced
+578,"1 - 10177 Pugwash Place, Richmond",999000.0,For Sale,49.1404697,-123.1796836,3.0,2.0,11-Mar-25,Richmond,3.0,Lower priced
+579,"506 - 8080 Cambie Road, Richmond",629000.0,For Sale,49.184468,-123.1352487,1.0,1.0,11-Mar-25,Richmond,1.0,Fair price
+580,"103 - 688 Edgar Avenue, Coquitlam",1049000.0,For Sale,49.2408429,-122.8821399,2.0,2.0,11-Mar-25,Coquitlam,2.0,Over priced
+581,"6813 Inverness Street, Vancouver",2198000.0,For Sale,49.2225759,-123.0804254,5.0,4.0,11-Mar-25,Sunset,4+,Fair price
+582,"6788 Chatterton Road, Richmond",1990000.0,For Sale,49.1586579,-123.1481325,6.0,7.0,11-Mar-25,Richmond,4+,Fair price
+583,"2930 Cougar Court, Coquitlam",1799900.0,For Sale,49.3011083,-122.7879008,5.0,5.0,11-Mar-25,Coquitlam,4+,Fair price
+584,"10163 177a Street, Surrey",1888000.0,For Sale,49.1876357,-122.7310832,7.0,5.0,11-Mar-25,Surrey,4+,Fair price
+587,"106 - 630 Como Lake Avenue, Coquitlam",779900.0,For Sale,49.2630407,-122.8844989,1.0,1.0,11-Mar-25,Coquitlam,1.0,Over priced
+588,"508 - 538 Smithe Street, Vancouver",729000.0,For Sale,49.2790779,-123.1200461,2.0,2.0,11-Mar-25,Downtown,2.0,Lower priced
+589,"307 - 5629 Dunbar Street, Vancouver",988800.0,For Sale,49.2354887,-123.185533,1.0,1.0,11-Mar-25,Dunbar-Southlands,1.0,Fair price
+590,"7 - 7060 Blundell Road, Richmond",1699000.0,For Sale,49.1554248,-123.1469786,2.0,2.0,11-Mar-25,Richmond,2.0,Over priced
+591,"A403 - 20716 Willoughby Town Centre Drive, Surrey",799900.0,For Sale,49.1445741,-122.6480293,3.0,2.0,11-Mar-25,others,3.0,Lower priced
+592,"3202 - 610 Granville Street, Vancouver",1098000.0,For Sale,49.283326,-123.1163709,1.0,2.0,11-Mar-25,Downtown,1.0,Over priced
+593,"610 - 9373 Hemlock Drive, Richmond",899900.0,For Sale,49.1673551,-123.1201097,2.0,2.0,11-Mar-25,Richmond,2.0,Fair price
+594,"1102 - 9887 Whalley Boulevard, Surrey",485000.0,For Sale,49.1827181,-122.8434076,1.0,1.0,11-Mar-25,Surrey,1.0,Fair price
+595,"129 - 2060 Curling Road, North Vancouver",669000.0,For Sale,49.3261876,-123.1231312,1.0,1.0,11-Mar-25,others,1.0,Lower priced
+596,"4305 - 13350 Central Avenue, Surrey",470000.0,For Sale,49.1898257,-122.8527849,1.0,1.0,11-Mar-25,Surrey,1.0,Fair price
+597,"55 - 3009 156 Street, Surrey",869500.0,For Sale,49.0567788,-122.7904765,3.0,3.0,11-Mar-25,Surrey,3.0,Fair price
+598,"310 Macbeth Crescent, West Vancouver",2898000.0,For Sale,49.3333473,-123.1246569,6.0,4.0,11-Mar-25,West Vancouver,4+,Lower priced
+599,"3404 Ayr Avenue, North Vancouver",4198000.0,For Sale,49.3403724,-123.1017067,3.0,2.0,11-Mar-25,others,3.0,Over priced
+600,"7220 Gilhurst Crescent, Richmond",3499000.0,For Sale,49.1415511,-123.1470757,3.0,1.0,11-Mar-25,Richmond,3.0,Over priced
+602,"304 - 7688 Alderbridge Way, Richmond",958000.0,For Sale,49.1743093,-123.1436157,2.0,2.0,11-Mar-25,Richmond,2.0,Fair price
+603,"106 - 1360 Mitchell Street, Coquitlam",1285000.0,For Sale,49.2949031,-122.7383947,4.0,4.0,11-Mar-25,Coquitlam,4+,Lower priced
+604,"101 - 4883 Maclure Mews, Vancouver",758800.0,For Sale,49.2427669,-123.1515753,1.0,1.0,11-Mar-25,Arbutus Ridge,1.0,Fair price
+605,"1803 - 13685 102 Avenue, Vancouver",389000.0,For Sale,49.1880367,-122.8437515,0.0,1.0,11-Mar-25,Surrey,0.0,Fair price
+606,"1308 - 901 Lougheed Highway, Coquitlam",429900.0,For Sale,49.2375071,-122.8726169,0.0,1.0,11-Mar-25,Coquitlam,0.0,Fair price
+607,"320 - 12101 80 Avenue, Surrey",465000.0,For Sale,49.1487583,-122.8874825,1.0,1.0,11-Mar-25,Surrey,1.0,Fair price
+608,"1408 - 10082 148 Street, Surrey",490000.0,For Sale,49.1856158,-122.8111539,1.0,2.0,11-Mar-25,Surrey,1.0,Fair price
+609,"3003 Sunnyhurst Road, North Vancouver",1948000.0,For Sale,49.336522,-123.042763,3.0,1.0,11-Mar-25,others,3.0,Fair price
+610,"4024 16th Avenue, Vancouver",2399000.0,For Sale,49.2577605,-123.1943231,5.0,3.0,11-Mar-25,Dunbar-Southlands,4+,Lower priced
+611,"305 - 8120 Jones Road, Richmond",672000.0,For Sale,49.1569323,-123.1347802,1.0,1.0,11-Mar-25,Richmond,1.0,Fair price
+612,"4103 - 4711 Hazel Street, Burnaby",1799999.0,For Sale,49.2292064,-122.9980733,2.0,2.0,11-Mar-25,Burnaby,2.0,Over priced
+613,"125 - 1465 Parkway Boulevard, Coquitlam",1269000.0,For Sale,49.2970078,-122.8067847,3.0,2.0,11-Mar-25,Coquitlam,3.0,Fair price
+614,"2603 - 7088 Salisbury Avenue, Burnaby",948800.0,For Sale,49.2196721,-122.9572118,3.0,3.0,11-Mar-25,Burnaby,3.0,Fair price
+615,"22 - 1506 Eagle Mountain Drive, Coquitlam",1099000.0,For Sale,49.301029,-122.8204253,2.0,2.0,11-Mar-25,Coquitlam,2.0,Over priced
+616,"417 - 163 175a Street, Surrey",529900.0,For Sale,49.004766,-122.737643,3.0,2.0,11-Mar-25,Surrey,3.0,Lower priced
+617,"429 Newlands Road, West Vancouver",3098000.0,For Sale,49.3352445,-123.128183,4.0,3.0,11-Mar-25,West Vancouver,4+,Fair price
+618,"3321 Willerton Court, Coquitlam",1668800.0,For Sale,49.2904751,-122.762667,3.0,3.0,11-Mar-25,Coquitlam,3.0,Over priced
+619,"5756 St. Margarets Street, Vancouver",2288000.0,For Sale,49.2318632,-123.0562245,6.0,3.0,11-Mar-25,Victoria-Fraserview,4+,Fair price
+620,"7519 14th Avenue, Burnaby",1980000.0,For Sale,49.2184175,-122.9397583,7.0,4.0,11-Mar-25,Burnaby,4+,Fair price
+621,"3126 Silverthrone Drive, Coquitlam",2688000.0,For Sale,49.3012923,-122.781071,7.0,6.0,11-Mar-25,Coquitlam,4+,Over priced
+622,"8935 Monroe Avenue, Burnaby",2288000.0,For Sale,49.235854,-122.9060906,5.0,3.0,11-Mar-25,Burnaby,4+,Fair price
+623,"1465 Blackwater Place, Coquitlam",1648000.0,For Sale,49.3005449,-122.7791864,5.0,3.0,11-Mar-25,Coquitlam,4+,Fair price
+624,"11382 154a Street, Surrey",1939000.0,For Sale,49.2086098,-122.7904467,6.0,4.0,11-Mar-25,Surrey,4+,Fair price
+625,"14 - 3634 Garibaldi Drive, North Vancouver",1499000.0,For Sale,49.315498,-122.9723519,3.0,3.0,11-Mar-25,others,3.0,Fair price
+626,"25 - 7127 193a Street, Surrey",1064000.0,For Sale,49.1330717,-122.686057,4.0,4.0,11-Mar-25,Surrey,4+,Lower priced
+627,"213 - 9228 Slopes Mews, Burnaby",620000.0,For Sale,49.2769068,-122.9074276,1.0,2.0,11-Mar-25,Burnaby,1.0,Fair price
+628,"210 - 5638 Birney Avenue, Vancouver",1058000.0,For Sale,49.2542745,-123.2319391,2.0,2.0,11-Mar-25,others,2.0,Fair price
+629,"21 - 355 Duthie Avenue, Burnaby",799000.0,For Sale,49.2809033,-122.9541068,2.0,3.0,11-Mar-25,Burnaby,2.0,Fair price
+630,"509 - 2221 30th Avenue, Vancouver",799888.0,For Sale,49.2424786,-123.0618959,3.0,2.0,11-Mar-25,Kensington-Cedar Cottage,3.0,Lower priced
+631,"413 - 13040 No. 2 Road, Richmond",1020000.0,For Sale,49.1182039,-123.1585973,2.0,2.0,11-Mar-25,Richmond,2.0,Fair price
+632,"517 - 733 3rd Street, North Vancouver",818000.0,For Sale,49.308291,-123.0587404,2.0,1.0,11-Mar-25,North Vancouver,2.0,Lower priced
+633,"107 - 14358 60 Avenue, Surrey",599000.0,For Sale,49.1112009,-122.8250978,3.0,2.0,11-Mar-25,Surrey,3.0,Lower priced
+634,"810 Burley Drive, West Vancouver",2289000.0,For Sale,49.3362038,-123.1378088,5.0,2.0,11-Mar-25,West Vancouver,4+,Lower priced
+635,"6066 165 Street, Surrey",1545000.0,For Sale,49.1126074,-122.7642171,5.0,4.0,11-Mar-25,Surrey,4+,Fair price
+637,"2209 - 131 Regiment Square, Vancouver",564888.0,For Sale,49.2786982,-123.1100408,1.0,1.0,11-Mar-25,Downtown,1.0,Lower priced
+638,"2501 - 13438 Central Avenue, Surrey",388888.0,For Sale,49.1899566,-122.8507398,1.0,1.0,11-Mar-25,Surrey,1.0,Lower priced
+639,"209 - 9311 Alexandra Road, Richmond",688000.0,For Sale,49.1791852,-123.1205697,2.0,1.0,11-Mar-25,Richmond,2.0,Lower priced
+640,"1728 Cook Street, Vancouver",1396666.0,For Sale,49.2696142,-123.1104404,2.0,3.0,11-Mar-25,Mount Pleasant,2.0,Fair price
+641,"211 - 750 Dogwood Street, Coquitlam",699000.0,For Sale,49.2625608,-122.8838346,1.0,1.0,11-Mar-25,Coquitlam,1.0,Fair price
+642,"1709 - 5380 Oben Street, Vancouver",809000.0,For Sale,49.2350637,-123.0264593,2.0,2.0,11-Mar-25,Renfrew-Collingwood,2.0,Fair price
+643,"106 - 2970 King George Boulevard, Surrey",599000.0,For Sale,49.0564346,-122.8053519,1.0,1.0,11-Mar-25,Surrey,1.0,Over priced
+644,"10940 164th Street, Surrey",1799000.0,For Sale,49.2015119,-122.7671576,4.0,3.0,11-Mar-25,Surrey,4+,Fair price
+645,"320 - 1633 Mackay Avenue, North Vancouver",815000.0,For Sale,49.3240807,-123.1014285,2.0,2.0,11-Mar-25,North Vancouver,2.0,Lower priced
+646,"702 - 6951 Elmbridge Way, Richmond",799000.0,For Sale,49.1733228,-123.1486605,2.0,2.0,11-Mar-25,Richmond,2.0,Fair price
+647,"305 - 1468 St. Andrews Avenue, North Vancouver",1199000.0,For Sale,49.3213579,-123.0657812,2.0,2.0,11-Mar-25,North Vancouver,2.0,Fair price
+648,"707 - 1775 Quebec Street, Vancouver",749000.0,For Sale,49.2694981,-123.1030368,1.0,1.0,11-Mar-25,Mount Pleasant,1.0,Fair price
+649,"206 - 7058 14th Avenue, Burnaby",699000.0,For Sale,49.210093,-122.9527097,1.0,1.0,11-Mar-25,Burnaby,1.0,Over priced
+650,"2701 - 198 Aquarius Mews, Vancouver",998000.0,For Sale,49.2741606,-123.1195035,2.0,2.0,11-Mar-25,Downtown,2.0,Fair price
+651,"102 - 15255 Sitka Drive, Surrey",1130000.0,For Sale,49.1437308,-122.7957507,1.0,1.0,11-Mar-25,Surrey,1.0,Over priced
+654,"201 - 2024 Fullerton Avenue, North Vancouver",758000.0,For Sale,49.3296286,-123.1238638,2.0,2.0,11-Mar-25,others,2.0,Lower priced
+655,"906 - 3080 Lincoln Avenue, Coquitlam",599000.0,For Sale,49.27863,-122.78949,1.0,1.0,11-Mar-25,Coquitlam,1.0,Fair price
+656,"404 - 4933 Clarendon Street, Vancouver",901000.0,For Sale,49.2394981,-123.0560367,2.0,2.0,11-Mar-25,Renfrew-Collingwood,2.0,Over priced
+657,"308 - 4933 Clarendon Street, Vancouver",868000.0,For Sale,49.2394981,-123.0560367,2.0,2.0,11-Mar-25,Renfrew-Collingwood,2.0,Fair price
+658,"13241 79 Avenue, Surrey",2280000.0,For Sale,49.1464906,-122.8558746,8.0,8.0,11-Mar-25,Surrey,4+,Over priced
+659,"8071 Alanmore Place, Richmond",3299000.0,For Sale,49.1549512,-123.182905,5.0,5.0,11-Mar-25,Richmond,4+,Over priced
+660,"203 - 4933 Clarendon Street, Vancouver",880000.0,For Sale,49.2394981,-123.0560367,2.0,2.0,11-Mar-25,Renfrew-Collingwood,2.0,Fair price
+661,"3913 Cates Landing Way, North Vancouver",3650000.0,For Sale,49.3036571,-122.9628018,3.0,4.0,11-Mar-25,others,3.0,Over priced
+662,"187 - 1330 Wellon Street, Coquitlam",1398000.0,For Sale,49.2931157,-122.7242247,4.0,4.0,11-Mar-25,Coquitlam,4+,Lower priced
+663,"402 - 590 Nicola Street, Vancouver",2268000.0,For Sale,49.2905301,-123.1279184,2.0,2.0,11-Mar-25,Downtown,2.0,Over priced
+664,"1 - 3841 27th Avenue, Vancouver",2590000.0,For Sale,49.2483111,-123.1893689,2.0,2.0,11-Mar-25,Dunbar-Southlands,2.0,Over priced
+665,"206 - 1513 Bowser Avenue, North Vancouver",1099000.0,For Sale,49.323026,-123.1163893,3.0,1.0,11-Mar-25,others,3.0,Fair price
+666,"511 - 7169 14th Avenue, Burnaby",928000.0,For Sale,49.2127602,-122.9508147,7.0,5.0,11-Mar-25,Burnaby,4+,Lower priced
+667,"185 - 12040 68 Avenue, Surrey",925000.0,For Sale,49.1265257,-122.8887201,3.0,2.0,11-Mar-25,Surrey,3.0,Fair price
+670,"102 - 1265 11th Avenue, Vancouver",729000.0,For Sale,49.2618792,-123.1330403,1.0,1.0,11-Mar-25,Fairview,1.0,Fair price
+671,"311 - 3770 Manor Street, Burnaby",525000.0,For Sale,49.257053,-123.0212372,1.0,1.0,11-Mar-25,Burnaby,1.0,Lower priced
+672,"W613 - 13838 108 Avenue, Surrey",548888.0,For Sale,49.1983518,-122.83877,1.0,2.0,11-Mar-25,Surrey,1.0,Fair price
+673,"1601 - 277 Thurlow Street, Vancouver",7590000.0,For Sale,49.2889075,-123.1190486,1.0,1.0,11-Mar-25,Downtown,1.0,Over priced
+674,"301 - 3281 East Kent Avenue, Vancouver",788800.0,For Sale,49.2064039,-123.0374876,2.0,2.0,11-Mar-25,Killarney,2.0,Fair price
+675,"2006 - 1008 Cambie Street, Vancouver",868000.0,For Sale,49.2757498,-123.1179298,1.0,1.0,11-Mar-25,Downtown,1.0,Over priced
+676,"1003 - 6611 Pearson Way, Richmond",3180000.0,For Sale,49.1761638,-123.1493605,3.0,3.0,11-Mar-25,Richmond,3.0,Over priced
+677,"1895 60th Avenue, Vancouver",3880000.0,For Sale,49.2173567,-123.1508301,2.0,3.0,11-Mar-25,Kerrisdale,2.0,Fair price
+678,"5889 Granville Street, Vancouver",5443389.0,For Sale,49.2326706,-123.1402912,2.0,3.0,11-Mar-25,Kerrisdale,2.0,Over priced
+680,"408 - 2733 Atlin Place, Coquitlam",599900.0,For Sale,49.248297,-122.8149209,1.0,1.0,11-Mar-25,Coquitlam,1.0,Fair price
+681,"1005 - 1601 Quebec Street, Vancouver",1824900.0,For Sale,49.2715566,-123.1027944,2.0,1.0,11-Mar-25,Mount Pleasant,2.0,Over priced
+682,"910 - 3557 Sawmill Crescent, Vancouver",628000.0,For Sale,49.2059698,-123.0295737,2.0,1.0,11-Mar-25,Killarney,2.0,Lower priced
+684,"101 - 9150 University High Street, Burnaby",674999.0,For Sale,49.2773864,-122.9084332,3.0,2.0,11-Mar-25,Burnaby,3.0,Lower priced
+685,"413 - 13933 105 Boulevard, Surrey",639000.0,For Sale,49.19446,-122.83606,2.0,2.0,11-Mar-25,Surrey,2.0,Fair price
+686,"1004 - 1601 Quebec Street, Vancouver",4279900.0,For Sale,49.2715566,-123.1027944,2.0,3.0,11-Mar-25,Mount Pleasant,2.0,Over priced
+687,"SL 7 - 720 Robinson Street, Coquitlam",1420000.0,For Sale,49.2614176,-122.8802032,3.0,0.0,11-Mar-25,Coquitlam,3.0,Over priced
+688,"17457 2b Avenue, Surrey",1980000.0,For Sale,49.0072837,-122.7387951,4.0,5.0,11-Mar-25,Surrey,4+,Fair price
+689,"7470 123 Street, Surrey",1329000.0,For Sale,49.138512,-122.8811653,3.0,3.0,11-Mar-25,Surrey,3.0,Over priced
+691,"18 - 6600 Lucas Road, Richmond",1249900.0,For Sale,49.1504369,-123.1507917,2.0,3.0,11-Mar-25,Richmond,2.0,Over priced
+692,"402 - 1228 Hastings Street, Vancouver",2098000.0,For Sale,49.2811005,-123.0781191,2.0,3.0,11-Mar-25,Strathcona,2.0,Over priced
+693,"301 - 1510 1st Avenue, Vancouver",725000.0,For Sale,49.2711208,-123.140307,2.0,2.0,11-Mar-25,Fairview,2.0,Lower priced
+694,"14809 26 Avenue, Surrey",2100000.0,For Sale,49.0498965,-122.8119794,4.0,4.0,11-Mar-25,Surrey,4+,Over priced
+695,"306 - 988 Richards Street, Vancouver",1199000.0,For Sale,49.2780161,-123.1206902,2.0,2.0,11-Mar-25,Downtown,2.0,Fair price
+696,"304 - 1632 Lions Gate Lane, North Vancouver",728000.0,For Sale,49.3249218,-123.1225036,1.0,1.0,11-Mar-25,others,1.0,Fair price
+697,"77 - 6140 192 Street, Surrey",849900.0,For Sale,49.1142769,-122.6907369,2.0,3.0,11-Mar-25,Surrey,2.0,Over priced
+698,"11531 Kingsbridge Drive, Richmond",1298000.0,For Sale,49.1477073,-123.0960703,3.0,1.0,11-Mar-25,Richmond,3.0,Fair price
+699,"2805 - 131 Regiment Square, Vancouver",798000.0,For Sale,49.2786982,-123.1100408,2.0,1.0,11-Mar-25,Downtown,2.0,Lower priced
+700,"12 - 7168 179 Street, Surrey",929000.0,For Sale,49.1321001,-122.7244122,4.0,3.0,11-Mar-25,Surrey,4+,Lower priced
+701,"7263 194a Street, Surrey",1499000.0,For Sale,49.1347952,-122.6840843,2.0,3.0,11-Mar-25,Surrey,2.0,Over priced
+702,"6950 Kerr Street, Vancouver",1899999.0,For Sale,49.2206811,-123.0409744,5.0,4.0,11-Mar-25,Killarney,4+,Fair price
+703,"24 - 16261 23a Avenue, Surrey",828000.0,For Sale,49.0450166,-122.7718955,3.0,3.0,11-Mar-25,Surrey,3.0,Fair price
+704,"1206 - 570 Emerson Street, Coquitlam",589000.0,For Sale,49.2622514,-122.8873794,1.0,1.0,11-Mar-25,Coquitlam,1.0,Fair price
+705,"6082 Victoria Drive, Vancouver",1288000.0,For Sale,49.2287716,-123.0653429,3.0,3.0,11-Mar-25,Victoria-Fraserview,3.0,Lower priced
+706,"7909 126a Street, Surrey",1599000.0,For Sale,49.1463163,-122.8724989,7.0,3.0,11-Mar-25,Surrey,4+,Fair price
+707,"14904 95a Avenue, Surrey",1549999.0,For Sale,49.1757881,-122.8096623,6.0,4.0,11-Mar-25,Surrey,4+,Fair price
+708,"3801 - 1009 Expo Boulevard, Vancouver",2498000.0,For Sale,49.2749349,-123.1173257,3.0,3.0,11-Mar-25,Downtown,3.0,Over priced
+709,"1001 - 777 Richards Street, Vancouver",998000.0,For Sale,49.2806484,-123.1172768,2.0,2.0,11-Mar-25,Downtown,2.0,Fair price
+710,"3055 E 24th Avenue, Vancouver",1849000.0,For Sale,49.2490352,-123.0404027,4.0,2.0,11-Mar-25,Renfrew-Collingwood,4+,Fair price
+711,"12905 104 Avenue, Surrey",1375000.0,For Sale,49.1919204,-122.8648418,2.0,2.0,11-Mar-25,Surrey,2.0,Over priced
+712,"4371 184 Street, Surrey",5850000.0,For Sale,49.0812561,-122.7140027,6.0,7.0,11-Mar-25,Surrey,4+,Over priced
+713,"16 - 888 16th Street, North Vancouver",1199000.0,For Sale,49.3233474,-123.0975815,2.0,3.0,11-Mar-25,North Vancouver,2.0,Fair price
+714,"18060 70 Avenue, Surrey",1049900.0,For Sale,49.129403,-122.7222884,4.0,4.0,11-Mar-25,Surrey,4+,Lower priced
+715,"1703 - 1239 Georgia Street, Vancouver",749500.0,For Sale,49.2876944,-123.1257207,1.0,1.0,11-Mar-25,Downtown,1.0,Fair price
+716,"2202 - 1500 Fern Street, North Vancouver",734900.0,For Sale,49.3117599,-123.0322935,3.0,3.0,11-Mar-25,others,3.0,Lower priced
+717,"1103 - 1372 Seymour Street, Vancouver",859900.0,For Sale,49.2745524,-123.1276355,1.0,1.0,11-Mar-25,Downtown,1.0,Over priced
+719,"44 - 12585 72 Avenue, Surrey",899000.0,For Sale,49.1342949,-122.8739551,4.0,4.0,10-Mar-25,Surrey,4+,Lower priced
+720,"207 - 633 16th Avenue, Vancouver",799800.0,For Sale,49.2572189,-123.1189715,2.0,1.0,10-Mar-25,Fairview,2.0,Lower priced
+721,"320 - 10530 154 Street, Surrey",479900.0,For Sale,49.1937113,-122.794902,4.0,4.0,10-Mar-25,Surrey,4+,Lower priced
+722,"3306 Mayfair Avenue, Vancouver",1998000.0,For Sale,49.2366954,-123.1790391,3.0,2.0,10-Mar-25,Dunbar-Southlands,3.0,Fair price
+723,"17423 60 Avenue, Surrey",1549999.0,For Sale,49.1117116,-122.7400352,5.0,4.0,10-Mar-25,Surrey,4+,Fair price
+725,"2727 24 Avenue, Vancouver",4180000.0,For Sale,49.2490446,-123.0485901,6.0,6.0,10-Mar-25,Renfrew-Collingwood,4+,Over priced
+726,"2616 Palmerston Avenue, West Vancouver",5980000.0,For Sale,49.3410706,-123.1860249,5.0,5.0,10-Mar-25,West Vancouver,4+,Over priced
+727,"26 - 1561 Booth Avenue, Coquitlam",653800.0,For Sale,49.2397733,-122.8505156,2.0,2.0,10-Mar-25,Coquitlam,2.0,Lower priced
+728,"8044 Kestrel Court, Surrey",1849900.0,For Sale,49.150067,-122.8265596,6.0,4.0,10-Mar-25,Surrey,4+,Fair price
+729,"LT.1 - 16045 9 Avenue, Surrey",1299000.0,For Sale,49.0186001,-122.7780037,3.0,1.0,10-Mar-25,Surrey,3.0,Fair price
+730,"407 - 9887 Whalley Boulevard, Surrey",618000.0,For Sale,49.1827181,-122.8434076,2.0,1.0,10-Mar-25,Surrey,2.0,Fair price
+731,"TH11 - 3200 Corvette Way, Richmond",1873900.0,For Sale,49.1900977,-123.1331608,4.0,3.0,10-Mar-25,Richmond,4+,Fair price
+732,"110 - 10698 151a Street, Surrey",468000.0,For Sale,49.1969961,-122.8019712,2.0,2.0,10-Mar-25,Surrey,2.0,Lower priced
+733,"1205 - 789 Drake Street, Vancouver",725000.0,For Sale,49.2766852,-123.1284825,2.0,2.0,10-Mar-25,Downtown,2.0,Lower priced
+734,"101 - 7180 Barnet Road, Burnaby",599000.0,For Sale,49.2821618,-122.9543185,1.0,1.0,10-Mar-25,Burnaby,1.0,Fair price
+735,"329 - 9233 Odlin Road, Richmond",938000.0,For Sale,49.1820674,-123.12143,2.0,2.0,10-Mar-25,Richmond,2.0,Fair price
+736,"4278 12th Avenue, Vancouver",3880000.0,For Sale,49.2616776,-123.2024428,4.0,3.0,10-Mar-25,West Point Grey,4+,Fair price
+737,"78 - 6588 Barnard Drive, Richmond",1089900.0,For Sale,49.167419,-123.184,2.0,2.0,10-Mar-25,Richmond,2.0,Over priced
+738,"44 - 14952 58 Avenue, Surrey",739900.0,For Sale,49.107755,-122.8074748,2.0,2.0,10-Mar-25,Surrey,2.0,Fair price
+739,"1598 Island Park Walk, Vancouver",2299000.0,For Sale,49.271066,-123.1397992,3.0,4.0,10-Mar-25,Fairview,3.0,Over priced
+740,"1306 - 595 Austin Avenue, Coquitlam",788800.0,For Sale,49.249754,-122.8866006,2.0,2.0,10-Mar-25,Coquitlam,2.0,Fair price
+742,"318 - 6808 Minoru Boulevard, Richmond",1088000.0,For Sale,49.1633764,-123.1401484,5.0,4.0,10-Mar-25,Richmond,4+,Lower priced
+743,"712 Keith Road, North Vancouver",3188000.0,For Sale,49.3137315,-123.0543309,6.0,7.0,10-Mar-25,others,4+,Over priced
+744,"1001 - 7380 Elmbridge Way, Richmond",649000.0,For Sale,49.171717,-123.1429423,2.0,2.0,10-Mar-25,Richmond,2.0,Lower priced
+745,"6091 174a Street, Surrey",1399000.0,For Sale,49.1132452,-122.7401834,4.0,3.0,10-Mar-25,Surrey,4+,Fair price
+746,"30 - 2662 Morningstar Crescent, Vancouver",1098000.0,For Sale,49.2065721,-123.0540281,3.0,2.0,10-Mar-25,Killarney,3.0,Fair price
+747,"1751 King Edward Avenue, Vancouver",5360000.0,For Sale,49.2498759,-123.1453905,5.0,4.0,10-Mar-25,Shaughnessy,4+,Lower priced
+748,"107 - 6933 Cambie Street, Vancouver",599000.0,For Sale,49.2223121,-123.1171596,1.0,1.0,10-Mar-25,Oakridge,1.0,Fair price
+749,"2505 - 1372 Seymour Street, Vancouver",1065000.0,For Sale,49.2745524,-123.1276355,1.0,1.0,10-Mar-25,Downtown,1.0,Over priced
+750,"1101 - 1534 Harwood Street, Vancouver",429000.0,For Sale,49.2832537,-123.1404918,1.0,1.0,10-Mar-25,West End,1.0,Lower priced
+751,"10955 131a Street, Surrey",1998000.0,For Sale,49.2019496,-122.8582503,8.0,6.0,10-Mar-25,Surrey,4+,Fair price
+752,"1377 60th Avenue, Vancouver",1899000.0,For Sale,49.215729,-123.0775744,5.0,2.0,10-Mar-25,Sunset,4+,Lower priced
+753,"4 - 7251 St. Albans Road, Richmond",1498000.0,For Sale,49.1604228,-123.1312558,4.0,4.0,10-Mar-25,Richmond,4+,Lower priced
+754,"310 - 1777 13th Avenue, Vancouver",978800.0,For Sale,49.2601965,-123.1450401,2.0,2.0,10-Mar-25,Fairview,2.0,Fair price
+755,"3982 29th Avenue, Vancouver",3499000.0,For Sale,49.245973,-123.1930895,4.0,4.0,10-Mar-25,Dunbar-Southlands,4+,Fair price
+756,"518 - 2988 Silver Springs Boulevard, Coquitlam",818800.0,For Sale,49.29563,-122.7901299,2.0,1.0,10-Mar-25,Coquitlam,2.0,Fair price
+757,"211 - 13258 105 Avenue, Surrey",514900.0,For Sale,49.1930305,-122.8547066,4.0,2.0,10-Mar-25,Surrey,4+,Lower priced
+758,"1101 - 1068 Hornby Street, Vancouver",599000.0,For Sale,49.2797225,-123.1259676,1.0,1.0,10-Mar-25,Downtown,1.0,Lower priced
+759,"163 - 2280 163 Street, Surrey",1099000.0,For Sale,49.043026,-122.7698511,3.0,3.0,10-Mar-25,Surrey,3.0,Fair price
+760,"603 - 8555 Capstan Way, Richmond",599000.0,For Sale,49.1884332,-123.1304532,1.0,1.0,10-Mar-25,Richmond,1.0,Fair price
+761,"8135 138 Street, Surrey",1349000.0,For Sale,49.150517,-122.8378439,5.0,4.0,10-Mar-25,Surrey,4+,Fair price
+762,"1116 Ridgewood Drive, North Vancouver",1895000.0,For Sale,49.3395672,-123.105192,3.0,1.0,10-Mar-25,others,3.0,Fair price
+763,"212 - 7377 14th Avenue, Burnaby",550000.0,For Sale,49.2163348,-122.9435617,1.0,1.0,10-Mar-25,Burnaby,1.0,Lower priced
+764,"6891 Heather Street, Vancouver",3998800.0,For Sale,49.2227418,-123.1240528,7.0,4.0,10-Mar-25,Oakridge,4+,Fair price
+765,"5480 Collingwood Street, Vancouver",3298000.0,For Sale,49.2371137,-123.1817666,6.0,3.0,10-Mar-25,Dunbar-Southlands,4+,Fair price
+766,"306 - 5955 Birney Avenue, Vancouver",948000.0,For Sale,49.253552,-123.2365126,3.0,3.0,10-Mar-25,others,3.0,Lower priced
+767,"215 - 9500 Odlin Road, Richmond",718000.0,For Sale,49.1814378,-123.1189751,2.0,2.0,10-Mar-25,Richmond,2.0,Fair price
+768,"301 - 4990 Mcgeer Street, Vancouver",549999.0,For Sale,49.239534,-123.0328193,1.0,1.0,10-Mar-25,Renfrew-Collingwood,1.0,Fair price
+769,"3775 Trinity Street, Burnaby",2199999.0,For Sale,49.2894928,-123.021541,4.0,2.0,10-Mar-25,Burnaby,4+,Fair price
+770,"209 - 2181 12th Avenue, Vancouver",1588000.0,For Sale,49.2612962,-123.154874,3.0,2.0,10-Mar-25,Kitsilano,3.0,Lower priced
+771,"34 - 13886 62 Avenue, Surrey",879900.0,For Sale,49.1152419,-122.8378517,3.0,3.0,10-Mar-25,Surrey,3.0,Fair price
+772,"162 - 15236 36 Avenue, Surrey",699000.0,For Sale,49.0671363,-122.8002466,4.0,2.0,10-Mar-25,Surrey,4+,Lower priced
+773,"3003 Fromme Road, North Vancouver",1799000.0,For Sale,49.33654,-123.0443169,3.0,3.0,10-Mar-25,others,3.0,Fair price
+774,"15668 102b Avenue, Surrey",1380000.0,For Sale,49.189071,-122.7878309,2.0,2.0,10-Mar-25,Surrey,2.0,Over priced
+775,"3001 - 969 Richards Street, Vancouver",1750000.0,For Sale,49.2787551,-123.1202496,2.0,2.0,10-Mar-25,Downtown,2.0,Over priced
+776,"12617 88 Avenue, Surrey",2549999.0,For Sale,49.1632087,-122.8731373,7.0,8.0,10-Mar-25,Surrey,4+,Over priced
+777,"10032 122 Street, Surrey",1690000.0,For Sale,49.1850575,-122.8836114,3.0,2.0,10-Mar-25,Surrey,3.0,Over priced
+778,"1 - 4579 Culloden Street, Vancouver",1399900.0,For Sale,49.243574,-123.0792286,3.0,4.0,10-Mar-25,Kensington-Cedar Cottage,3.0,Fair price
+781,"3754 Elmwood Street, Burnaby",2380000.0,For Sale,49.2504235,-123.0214571,7.0,5.0,08-Mar-25,Burnaby,4+,Fair price
+782,"10276 173 Street, Surrey",4850000.0,For Sale,49.1891835,-122.7421894,3.0,3.0,12-Mar-25,Surrey,3.0,Over priced
+783,"2722 Venables Street, Vancouver",2128000.0,For Sale,49.2764336,-123.0487251,6.0,4.0,12-Mar-25,Hastings-Sunrise,4+,Over priced
+784,"13260 108 Avenue, Surrey",7988000.0,For Sale,49.1986547,-122.854901,4.0,5.0,12-Mar-25,Surrey,4+,Over priced
+785,"1704 - 145 St. Georges Avenue, North Vancouver",579000.0,For Sale,49.3112133,-123.0752005,3.0,2.0,12-Mar-25,North Vancouver,3.0,Lower priced
+786,"112 - 3205 Mountain Highway, North Vancouver",1199888.0,For Sale,49.3384481,-123.038958,1.0,1.0,12-Mar-25,others,1.0,Over priced
+787,"2406 - 2135 Springer Avenue, Burnaby",1119900.0,For Sale,49.2646662,-122.9877149,3.0,2.0,12-Mar-25,Burnaby,3.0,Fair price
+788,"401 - 7011 Blundell Road, Richmond",699800.0,For Sale,49.1558004,-123.1470846,2.0,2.0,12-Mar-25,Richmond,2.0,Lower priced
+789,"802 - 505 Nelson Street, Coquitlam",884900.0,For Sale,49.2494204,-122.8649479,2.0,2.0,12-Mar-25,Coquitlam,2.0,Fair price
+790,"2 - 2525 156 Street, Surrey",1249999.0,For Sale,49.0476915,-122.7905847,4.0,4.0,12-Mar-25,Surrey,4+,Lower priced
+791,"7351 12th Avenue, Burnaby",2190000.0,For Sale,49.2141481,-122.9417218,6.0,5.0,12-Mar-25,Burnaby,4+,Fair price
+793,"7478 123 Street, Surrey",1339000.0,For Sale,49.1386599,-122.8811664,5.0,3.0,12-Mar-25,Surrey,4+,Lower priced
+794,"412 - 611 Regan Avenue, Coquitlam",588800.0,For Sale,49.2625047,-122.8854063,1.0,1.0,12-Mar-25,Coquitlam,1.0,Fair price
+795,"3004 - 3809 Evergreen Place, Burnaby",633000.0,For Sale,49.2498579,-122.8940588,1.0,1.0,12-Mar-25,Burnaby,1.0,Fair price
+796,"3406 - 2135 Springer Avenue, Burnaby",1139900.0,For Sale,49.2646662,-122.9877149,2.0,2.0,12-Mar-25,Burnaby,2.0,Over priced
+797,"7319 Coronado Drive, Burnaby",1097000.0,For Sale,49.2654809,-122.9488338,3.0,3.0,12-Mar-25,Burnaby,3.0,Fair price
+798,"3804 - 2135 Springer Avenue, Burnaby",1164900.0,For Sale,49.2646662,-122.9877149,2.0,2.0,12-Mar-25,Burnaby,2.0,Over priced
+799,"3901 - 567 Clarke Road, Coquitlam",899000.0,For Sale,49.2626,-122.8896013,2.0,2.0,12-Mar-25,Coquitlam,2.0,Fair price
+800,"4742 Caulfeild Drive, West Vancouver",3180000.0,For Sale,49.3497794,-123.2452333,4.0,4.0,12-Mar-25,West Vancouver,4+,Fair price
+801,"1625 8th Avenue, Vancouver",1425000.0,For Sale,49.2155803,-122.9297022,4.0,3.0,12-Mar-25,others,4+,Lower priced
+802,"6306 172a Street, Surrey",1499000.0,For Sale,49.1174142,-122.7450937,3.0,3.0,12-Mar-25,Surrey,3.0,Over priced
+803,"16025 9a Avenue, Surrey",2499999.0,For Sale,49.0196321,-122.7786091,8.0,7.0,12-Mar-25,Surrey,4+,Over priced
+804,"7976 141a Street, Surrey",1099000.0,For Sale,49.1477588,-122.830728,3.0,3.0,12-Mar-25,Surrey,3.0,Fair price
+806,"3007 - 6538 Nelson Avenue, Burnaby",799000.0,For Sale,49.2244616,-122.9939892,2.0,2.0,12-Mar-25,Burnaby,2.0,Fair price
+807,"3902 - 2135 Springer Avenue, Burnaby",1254900.0,For Sale,49.2646662,-122.9877149,2.0,2.0,12-Mar-25,Burnaby,2.0,Over priced
+808,"1904 - 9981 Whalley Boulevard, Surrey",599000.0,For Sale,49.1835007,-122.8433509,2.0,2.0,12-Mar-25,Surrey,2.0,Fair price
+809,"4005 - 2135 Springer Avenue, Burnaby",1234900.0,For Sale,49.2646662,-122.9877149,1.0,1.0,12-Mar-25,Burnaby,1.0,Over priced
+810,"1804 - 4182 Dawson Street, Burnaby",798800.0,For Sale,49.2643481,-123.0122061,3.0,3.0,12-Mar-25,Burnaby,3.0,Fair price
+811,"2909 - 7388 Kingsway , Burnaby",658000.0,For Sale,49.2184967,-122.9495795,2.0,2.0,12-Mar-25,Burnaby,2.0,Lower priced
+812,"2209 - 1295 Richards Street, Vancouver",865000.0,For Sale,49.275108,-123.1257237,1.0,1.0,12-Mar-25,Downtown,1.0,Over priced
+813,"404 - 505 Nelson Street, Coquitlam",1008900.0,For Sale,49.2494204,-122.8649479,3.0,3.0,12-Mar-25,Coquitlam,3.0,Fair price
+814,"3304 - 10448 University Drive, Surrey",699000.0,For Sale,49.1923857,-122.8504739,4.0,3.0,12-Mar-25,Surrey,4+,Lower priced
+815,"1805 - 9887 Whalley Boulevard, Surrey",548000.0,For Sale,49.1827181,-122.8434076,3.0,3.0,12-Mar-25,Surrey,3.0,Lower priced
+816,"4862 Bessborough Drive, Burnaby",1988000.0,For Sale,49.287503,-122.992814,5.0,3.0,12-Mar-25,Burnaby,4+,Fair price
+817,"15336 Killarney Close, Surrey",1999600.0,For Sale,49.1119729,-122.7971971,4.0,3.0,12-Mar-25,Surrey,4+,Fair price
+818,"15482 78a Avenue, Surrey",1899900.0,For Sale,49.1453149,-122.7937327,5.0,3.0,12-Mar-25,Surrey,4+,Fair price
+820,"1202 - 7733 Firbridge Way, Richmond",598000.0,For Sale,49.1713004,-123.1390914,1.0,1.0,12-Mar-25,Richmond,1.0,Fair price
+821,"206 - 6622 Pearson Way, Richmond",1099000.0,For Sale,49.1753913,-123.1488555,2.0,2.0,12-Mar-25,Richmond,2.0,Over priced
+822,"7913 133a Street, Surrey",2199000.0,For Sale,49.1465016,-122.8529398,6.0,6.0,12-Mar-25,Surrey,4+,Over priced
+823,"106 - 10477 154 Street, Surrey",599000.0,For Sale,49.1927364,-122.795662,3.0,3.0,12-Mar-25,Surrey,3.0,Lower priced
+825,"1008 - 6320 No. 3 Road, Richmond",1049000.0,For Sale,49.1674457,-123.135987,3.0,3.0,12-Mar-25,Richmond,3.0,Fair price
+826,"4105 - 720 Farrow Street, Coquitlam",968000.0,For Sale,49.2615459,-122.8926077,2.0,2.0,12-Mar-25,Coquitlam,2.0,Over priced
+827,"2205 - 10333 133 Street, Surrey",691000.0,For Sale,49.1905171,-122.8554685,4.0,2.0,12-Mar-25,Surrey,4+,Lower priced
+831,"5660 Stefanko Place, Richmond",2179000.0,For Sale,49.1356307,-123.16046,5.0,3.0,12-Mar-25,Richmond,4+,Fair price
+833,"401 - 14188 103a Avenue, Surrey",799900.0,For Sale,49.1903412,-122.8291379,3.0,4.0,12-Mar-25,Surrey,3.0,Fair price
+834,"6093 Greenside Drive, Surrey",629000.0,For Sale,49.1132345,-122.6889345,2.0,1.0,12-Mar-25,Surrey,2.0,Fair price
+835,"802 - 6152 Kathleen Avenue, Burnaby",868800.0,For Sale,49.227372,-123.0099629,2.0,2.0,12-Mar-25,Burnaby,2.0,Fair price
+836,"1734 4th Avenue, Vancouver",2088000.0,For Sale,49.2678094,-123.1440081,3.0,3.0,12-Mar-25,Fairview,3.0,Over priced
+837,"2655 Delahaye Drive, Coquitlam",1888000.0,For Sale,49.2930293,-122.8040804,3.0,4.0,12-Mar-25,Coquitlam,3.0,Over priced
+838,"415 - 12633 No. 2 Road, Richmond",928000.0,For Sale,49.1204303,-123.1590453,2.0,2.0,12-Mar-25,Richmond,2.0,Fair price
+839,"2905 - 6088 Willingdon Avenue, Burnaby",799999.0,For Sale,49.2289879,-123.0056966,2.0,2.0,12-Mar-25,Burnaby,2.0,Fair price
+840,"601 - 3333 Corvette Way, Richmond",845000.0,For Sale,49.1902092,-123.1344894,2.0,2.0,12-Mar-25,Richmond,2.0,Fair price
+841,"105 - 3595 18th Avenue, Vancouver",1749000.0,For Sale,49.2565982,-123.1848489,7.0,5.0,12-Mar-25,Dunbar-Southlands,4+,Lower priced
+842,"2 - 9560 Alexandra Road, Richmond",1088000.0,For Sale,49.1784906,-123.1176353,5.0,4.0,12-Mar-25,Richmond,4+,Lower priced
+843,"2106 - 10333 133 Street, Surrey",519000.0,For Sale,49.1905171,-122.8554685,1.0,1.0,12-Mar-25,Surrey,1.0,Fair price
+844,"149 - 14150 58a Avenue, Surrey",799900.0,For Sale,49.1089056,-122.8307698,3.0,3.0,12-Mar-25,Surrey,3.0,Fair price
+845,"301 - 1771 Nelson Street, Vancouver",868800.0,For Sale,49.2892701,-123.1380367,2.0,2.0,12-Mar-25,West End,2.0,Lower priced
+846,"2380 Marine Drive, West Vancouver",3348000.0,For Sale,49.3338127,-123.1786172,5.0,4.0,12-Mar-25,West Vancouver,4+,Fair price
+847,"309 - 185 175a Street, Surrey",599900.0,For Sale,49.0052029,-122.7376218,1.0,1.0,12-Mar-25,Surrey,1.0,Over priced
+848,"603 - 1188 Pender Street, Vancouver",735000.0,For Sale,49.2881645,-123.1232641,1.0,1.0,12-Mar-25,Downtown,1.0,Fair price
+849,"1311 63rd Avenue, Vancouver",2599000.0,For Sale,49.213103,-123.0794864,6.0,5.0,12-Mar-25,Sunset,4+,Over priced
+850,"6960 143a Street, Surrey",1480000.0,For Sale,49.129305,-122.8244219,4.0,3.0,12-Mar-25,Surrey,4+,Fair price
+851,"15153 96a Avenue, Surrey",1399900.0,For Sale,49.1775867,-122.8027877,4.0,3.0,12-Mar-25,Surrey,4+,Fair price
+853,"23 - 7373 Turnill Street, Richmond",899000.0,For Sale,49.16001,-123.124292,4.0,3.0,12-Mar-25,Richmond,4+,Lower priced
+854,"301 - 158 West 13th Street, North Vancouver",599000.0,For Sale,49.2592641,-123.1089355,1.0,1.0,12-Mar-25,Mount Pleasant,1.0,Lower priced
+855,"1513 - 989 Nelson Street, Vancouver",618000.0,For Sale,49.2812121,-123.1251379,1.0,1.0,12-Mar-25,Downtown,1.0,Lower priced
+856,"308 - 1135 Windsor Mews, Coquitlam",730000.0,For Sale,49.2801199,-122.78537,2.0,2.0,12-Mar-25,Coquitlam,2.0,Fair price
+857,"2633 138a Street, Surrey",3998000.0,For Sale,49.0500216,-122.8396107,3.0,2.0,12-Mar-25,Surrey,3.0,Over priced
+858,"6074 188 Street, Surrey",1499900.0,For Sale,49.1127244,-122.7013332,4.0,3.0,12-Mar-25,Surrey,4+,Fair price
+861,"136 - 14151 58a Avenue, Surrey",929900.0,For Sale,49.1095246,-122.8301458,3.0,3.0,12-Mar-25,Surrey,3.0,Fair price
+862,"6772 Beresford Street, Burnaby",849800.0,For Sale,49.2166978,-122.9646999,2.0,2.0,12-Mar-25,Burnaby,2.0,Fair price
+863,"860 - 6320 No. 3 Road, Richmond",698000.0,For Sale,49.1674457,-123.135987,1.0,1.0,12-Mar-25,Richmond,1.0,Fair price
+864,"7697 Ulster Street, Burnaby",1739000.0,For Sale,49.2274084,-122.9455579,4.0,4.0,12-Mar-25,Burnaby,4+,Fair price
+865,"1138 26th Avenue, Vancouver",1599000.0,For Sale,49.2479638,-123.1311727,3.0,3.0,12-Mar-25,Shaughnessy,3.0,Fair price
+866,"8151 12 Avenue, Burnaby",1768000.0,For Sale,49.2245696,-122.922616,5.0,4.0,12-Mar-25,Burnaby,4+,Fair price
+867,"102 - 908 Keith Road, West Vancouver",1890000.0,For Sale,49.3295451,-123.1397133,2.0,2.0,12-Mar-25,West Vancouver,2.0,Over priced
+868,"617 - 3588 Vanness Avenue, Vancouver",685000.0,For Sale,49.2361217,-123.0277763,2.0,2.0,12-Mar-25,Renfrew-Collingwood,2.0,Lower priced
+869,"PH7 - 188 Keefer Street, Vancouver",1188000.0,For Sale,49.2793517,-123.1001158,2.0,3.0,12-Mar-25,Downtown,2.0,Fair price
+870,"PH3 - 1477 15th Avenue, Vancouver",1398000.0,For Sale,49.2581237,-123.1383725,2.0,2.0,12-Mar-25,Fairview,2.0,Over priced
+871,"2801 - 1308 Hornby Street, Vancouver",1398000.0,For Sale,49.277171,-123.1298476,2.0,2.0,12-Mar-25,Downtown,2.0,Fair price
+872,"4301 - 2186 Gilmore Avenue, Burnaby",1193900.0,For Sale,49.2652826,-123.0140373,2.0,2.0,12-Mar-25,Burnaby,2.0,Over priced
+873,"201 - 1629 Garden Avenue, North Vancouver",650000.0,For Sale,49.3243757,-123.1191432,2.0,1.0,12-Mar-25,others,2.0,Lower priced
+874,"452 5th Street, North Vancouver",3795000.0,For Sale,49.3106431,-123.0637248,7.0,5.0,12-Mar-25,North Vancouver,4+,Over priced
+875,"2079 46th Avenue, Vancouver",3790000.0,For Sale,49.2287692,-123.0639429,6.0,5.0,12-Mar-25,Victoria-Fraserview,4+,Over priced
+876,"807 - 8533 River District Crossing, Vancouver",888000.0,For Sale,49.2062631,-123.0312557,2.0,2.0,12-Mar-25,Killarney,2.0,Fair price
+877,"438 - 9101 Horne Street, Burnaby",600000.0,For Sale,49.2502124,-122.9039635,2.0,2.0,12-Mar-25,Burnaby,2.0,Lower priced
+878,"1 - 5937 Holland Street, Vancouver",2388000.0,For Sale,49.2326113,-123.1927192,3.0,3.0,12-Mar-25,Dunbar-Southlands,3.0,Fair price
+879,"2109 - 5311 Goring Street, Burnaby",936000.0,For Sale,49.2630666,-122.9871461,3.0,3.0,12-Mar-25,Burnaby,3.0,Fair price
+880,"2888 54th Avenue, Vancouver",1695000.0,For Sale,49.2199721,-123.0455836,2.0,2.0,12-Mar-25,Killarney,2.0,Over priced
+881,"2103 - 13428 105 Avenue, Surrey",439000.0,For Sale,49.1927348,-122.8500408,4.0,2.0,12-Mar-25,Surrey,4+,Lower priced
+882,"28 - 8533 Cumberland Place, Burnaby",1380000.0,For Sale,49.2350765,-122.9190718,4.0,4.0,12-Mar-25,Burnaby,4+,Lower priced
+883,"204 - 2680 4th Avenue, Vancouver",645000.0,For Sale,49.2681868,-123.1657709,1.0,1.0,12-Mar-25,Kitsilano,1.0,Lower priced
+884,"415 - 2338 Western Parkway, Vancouver",649000.0,For Sale,49.2640925,-123.2415263,1.0,1.0,12-Mar-25,others,1.0,Lower priced
+885,"17 - 6575 192 Street, Surrey",869089.0,For Sale,49.1195471,-122.6735481,3.0,3.0,12-Mar-25,others,3.0,Lower priced
+887,"353 Newdale Court, North Vancouver",3398000.0,For Sale,49.352426,-123.0783015,6.0,5.0,12-Mar-25,others,4+,Over priced
+888,"1092 Kings Avenue, West Vancouver",2499000.0,For Sale,49.3360883,-123.1455229,4.0,3.0,12-Mar-25,West Vancouver,4+,Lower priced
+891,"707 - 13428 105 Avenue, Surrey",499900.0,For Sale,49.1927348,-122.8500408,1.0,1.0,12-Mar-25,Surrey,1.0,Fair price
+892,"908 - 1325 Rolston Street, Vancouver",628000.0,For Sale,49.2756464,-123.1278677,1.0,1.0,12-Mar-25,Downtown,1.0,Fair price
+893,"16619 Bell Road, Surrey",2399000.0,For Sale,49.1078373,-122.7615948,4.0,3.0,12-Mar-25,Surrey,4+,Over priced
+894,"14895 96 Street, Surrey",1269000.0,For Sale,49.1913466,-122.8490125,6.0,6.0,12-Mar-25,Surrey,4+,Lower priced
+896,"3203 - 13495 Central Avenue, Surrey",485000.0,For Sale,49.1906551,-122.8482557,1.0,1.0,12-Mar-25,Surrey,1.0,Fair price
+897,"409 - 9168 Slopes Mews, Burnaby",549000.0,For Sale,49.277036,-122.9085438,2.0,1.0,12-Mar-25,Burnaby,2.0,Lower priced
+898,"105 - 9650 148 Street, Surrey",459900.0,For Sale,49.1773711,-122.8108635,2.0,2.0,12-Mar-25,Surrey,2.0,Lower priced
+899,"106 - 10455 University Drive, Surrey",399900.0,For Sale,49.1922201,-122.8514171,1.0,1.0,12-Mar-25,Surrey,1.0,Lower priced
+900,"316 - 7151 121 Street, Surrey",748000.0,For Sale,49.132275,-122.8879526,2.0,2.0,12-Mar-25,Surrey,2.0,Fair price
+901,"W408 - 10828 139a Street, Surrey",419900.0,For Sale,49.1995333,-122.8353575,1.0,1.0,12-Mar-25,Surrey,1.0,Lower priced
+902,"709 - 66 W Cordova Street, Vancouver",549000.0,For Sale,49.282751,-123.1063348,1.0,1.0,12-Mar-25,Downtown,1.0,Lower priced
+903,"809 Lillian Street, Coquitlam",1699000.0,For Sale,49.2641044,-122.8600718,4.0,2.0,12-Mar-25,Coquitlam,4+,Fair price
+904,"3269 Chartwell Grn , Coquitlam",1996000.0,For Sale,49.3152596,-122.7856411,7.0,4.0,12-Mar-25,Coquitlam,4+,Fair price
+906,"104 - 15785 Croydon Drive, Surrey",538000.0,For Sale,49.0473431,-122.7843504,2.0,2.0,12-Mar-25,Surrey,2.0,Lower priced
+909,"3404 - 2186 Gilmore Avenue, Burnaby",1075900.0,For Sale,49.2652826,-123.0140373,2.0,2.0,12-Mar-25,Burnaby,2.0,Fair price
+910,"502 - 1850 Comox Street, Vancouver",465000.0,For Sale,49.2890306,-123.1410302,1.0,1.0,12-Mar-25,West End,1.0,Fair price
+911,"2457 7th Avenue, Vancouver",1999999.0,For Sale,49.2641026,-123.0553644,3.0,3.0,12-Mar-25,Hastings-Sunrise,3.0,Fair price
+912,"1709 - 511 Rochester Avenue, Coquitlam",549000.0,For Sale,49.2459224,-122.8906026,1.0,1.0,12-Mar-25,Coquitlam,1.0,Lower priced
+913,"417 - 10688 140 Street, Surrey",499800.0,For Sale,49.1966358,-122.8337313,1.0,1.0,12-Mar-25,Surrey,1.0,Fair price
+914,"301 - 505 30th Avenue, Vancouver",699000.0,For Sale,49.2437312,-123.0939127,1.0,1.0,12-Mar-25,Riley Park,1.0,Fair price
+915,"7483 Humm Street, Vancouver",2788000.0,For Sale,49.2167937,-123.063667,6.0,5.0,12-Mar-25,Victoria-Fraserview,4+,Fair price
+916,"6566 Granville Avenue, Richmond",1990000.0,For Sale,49.1624149,-123.1506794,5.0,5.0,12-Mar-25,Richmond,4+,Fair price
+917,"15181 68a Avenue, Surrey",2049999.0,For Sale,49.1276385,-122.8019089,11.0,8.0,12-Mar-25,Surrey,4+,Fair price
+918,"1903 - 5860 Olive Avenue, Burnaby",991900.0,For Sale,49.2309108,-123.0097829,2.0,2.0,12-Mar-25,Burnaby,2.0,Fair price
+919,"1301 - 2980 Atlantic Avenue, Coquitlam",745000.0,For Sale,49.2813299,-122.79554,2.0,2.0,12-Mar-25,Coquitlam,2.0,Fair price
+920,"2202 - 667 Howe Street, Vancouver",2458000.0,For Sale,49.2837556,-123.1186196,2.0,2.0,12-Mar-25,Downtown,2.0,Over priced
+921,"1104 - 5860 Olive Avenue, Burnaby",930900.0,For Sale,49.2309108,-123.0097829,2.0,2.0,12-Mar-25,Burnaby,2.0,Fair price
+922,"93 - 19505 68a Avenue, Surrey",838888.0,For Sale,49.1276452,-122.681775,3.0,3.0,12-Mar-25,Surrey,3.0,Fair price
+923,"E512 - 10829 140 Street, Surrey",465000.0,For Sale,49.1993899,-122.8350797,1.0,1.0,12-Mar-25,Surrey,1.0,Fair price
+924,"1420 53rd Avenue, Vancouver",4688888.0,For Sale,49.2223537,-123.1381383,5.0,7.0,12-Mar-25,Oakridge,4+,Over priced
+925,"3500 River Road, Richmond",2788000.0,For Sale,49.1739751,-123.1858099,6.0,3.0,12-Mar-25,Richmond,4+,Over priced
+926,"2063 28th Avenue, Vancouver",3288880.0,For Sale,49.2460444,-123.0636389,7.0,7.0,12-Mar-25,Kensington-Cedar Cottage,4+,Over priced
+927,"143 - 1330 Wellon Street, Coquitlam",1599900.0,For Sale,49.2931157,-122.7242247,4.0,5.0,12-Mar-25,Coquitlam,4+,Lower priced
+928,"120 - 9371 Hemlock Drive, Richmond",600000.0,For Sale,49.1674596,-123.1216107,1.0,1.0,12-Mar-25,Richmond,1.0,Fair price
+929,"2305 - 3538 Sawmill Crescent, Vancouver",699900.0,For Sale,49.2056788,-123.0294639,4.0,4.0,12-Mar-25,Killarney,4+,Lower priced
+930,"25 - 6238 192nd Street, Surrey",859900.0,For Sale,49.1161136,-122.6904837,4.0,3.0,12-Mar-25,Surrey,4+,Lower priced
+931,"9319 Romaniuk Drive, Richmond",1749000.0,For Sale,49.1460073,-123.1571994,4.0,3.0,12-Mar-25,Richmond,4+,Fair price
+932,"1543 Jefferson Avenue, West Vancouver",3988000.0,For Sale,49.3357074,-123.1580352,5.0,5.0,12-Mar-25,West Vancouver,4+,Fair price
+933,"4586 176 Street, Surrey",22500000.0,For Sale,49.0845234,-122.7331948,4.0,2.0,12-Mar-25,Surrey,4+,Over priced
+935,"106 - 168 Chadwick Court, North Vancouver",929000.0,For Sale,49.3111364,-123.0831631,2.0,2.0,12-Mar-25,North Vancouver,2.0,Fair price
+936,"3 - 11511 Cambie Road, Richmond",1150000.0,For Sale,49.1847567,-123.0955491,3.0,3.0,12-Mar-25,Richmond,3.0,Fair price
+937,"12 - 2880 4th Avenue, Vancouver",1150000.0,For Sale,49.2682237,-123.1699387,2.0,2.0,12-Mar-25,Kitsilano,2.0,Fair price
+938,"109 - 733 3rd Street, North Vancouver",1599000.0,For Sale,49.308291,-123.0587404,3.0,3.0,12-Mar-25,North Vancouver,3.0,Fair price
+939,"16 - 15188 62a Avenue, Surrey",1119900.0,For Sale,49.1158982,-122.802851,3.0,3.0,12-Mar-25,Surrey,3.0,Fair price
+940,"405 - 1355 Bellevue Avenue, West Vancouver",7000000.0,For Sale,49.3273908,-123.1534935,2.0,3.0,12-Mar-25,West Vancouver,2.0,Over priced
+941,"401 - 8988 Hudson Street, Vancouver",499000.0,For Sale,49.2035824,-123.1344003,1.0,1.0,12-Mar-25,Marpole,1.0,Fair price
+942,"55 - 14058 61 Avenue, Surrey",999800.0,For Sale,49.1135909,-122.8320786,4.0,4.0,12-Mar-25,Surrey,4+,Lower priced
+943,"241 - 1840 160 Street, Surrey",439500.0,For Sale,49.0368965,-122.7766256,3.0,2.0,12-Mar-25,Surrey,3.0,Lower priced
+944,"12952 60 Avenue, Surrey",1397770.0,For Sale,49.1116831,-122.8636206,5.0,5.0,12-Mar-25,Surrey,4+,Fair price
+945,"8481 11th Avenue, Burnaby",3249000.0,For Sale,49.227972,-122.9139206,8.0,9.0,12-Mar-25,Burnaby,4+,Over priced
+947,"1606 - 5629 Birney Avenue, Vancouver",1480000.0,For Sale,49.254738,-123.2310818,2.0,2.0,12-Mar-25,others,2.0,Over priced
+948,"1003 - 999 Seymour Street, Vancouver",839000.0,For Sale,49.2789705,-123.1221417,2.0,1.0,12-Mar-25,Downtown,2.0,Lower priced
+949,"310 - 516 Foster Avenue, Coquitlam",645000.0,For Sale,49.2564441,-122.891323,1.0,1.0,12-Mar-25,Coquitlam,1.0,Fair price
+950,"3006 - 2955 Atlantic Avenue, Coquitlam",769000.0,For Sale,49.28217,-122.79825,2.0,2.0,12-Mar-25,Coquitlam,2.0,Fair price
+951,"309 - 12110 80 Avenue, Surrey",514900.0,For Sale,49.148236,-122.8873813,2.0,2.0,12-Mar-25,Surrey,2.0,Lower priced
+952,"4372 Greta Street, Burnaby",2548000.0,For Sale,49.2190857,-123.0062554,5.0,3.0,12-Mar-25,Burnaby,4+,Fair price
+953,"842 5th Street, North Vancouver",2190000.0,For Sale,49.3106671,-123.0525113,2.0,2.0,12-Mar-25,North Vancouver,2.0,Over priced
+954,"7463 Todd Crescent, Surrey",1399999.0,For Sale,49.138147,-122.8330347,5.0,3.0,12-Mar-25,Surrey,4+,Fair price
+955,"342 Keith Road, North Vancouver",2899900.0,For Sale,49.3139374,-123.0657363,4.0,5.0,12-Mar-25,North Vancouver,4+,Over priced
+956,"1089 59th Avenue, Vancouver",2249900.0,For Sale,49.2173887,-123.1304789,7.0,4.0,12-Mar-25,Marpole,4+,Fair price
+958,"3009 156 Street, Surrey",849888.0,For Sale,49.0567788,-122.7904765,3.0,3.0,12-Mar-25,Surrey,3.0,Fair price
+959,"309 - 9232 University Crescent, Burnaby",459900.0,For Sale,49.2797799,-122.9050696,1.0,0.0,12-Mar-25,Burnaby,1.0,Lower priced
+960,"2503 - 2311 Beta Avenue, Burnaby",799800.0,For Sale,49.2632359,-122.9989634,2.0,2.0,12-Mar-25,Burnaby,2.0,Fair price
+961,"124 - 9456 134 Street, Surrey",619900.0,For Sale,49.174488,-122.8509855,3.0,3.0,12-Mar-25,Surrey,3.0,Lower priced
+962,"5869 Granville Street, Vancouver",5246640.0,For Sale,49.2328287,-123.1401938,4.0,4.0,12-Mar-25,Kerrisdale,4+,Fair price
+963,"385 Stevens Drive, West Vancouver",2996000.0,For Sale,49.3452742,-123.1249463,4.0,3.0,12-Mar-25,West Vancouver,4+,Lower priced
+964,"4711 Gothard Street, Vancouver",1598000.0,For Sale,49.2425284,-123.0535266,8.0,3.0,12-Mar-25,Renfrew-Collingwood,4+,Lower priced
+965,"6580 Williams Road, Richmond",2280000.0,For Sale,49.1407496,-123.1503836,3.0,2.0,12-Mar-25,Richmond,3.0,Over priced
+966,"13365 57 Avenue, Surrey",2699800.0,For Sale,49.1068279,-122.8522893,7.0,7.0,12-Mar-25,Surrey,4+,Over priced
+967,"12966 61b Avenue, Surrey",1459000.0,For Sale,49.1139291,-122.8632679,3.0,3.0,12-Mar-25,Surrey,3.0,Over priced
+968,"2936 Waterford Place, Coquitlam",2239000.0,For Sale,49.2976991,-122.7909876,7.0,4.0,12-Mar-25,Coquitlam,4+,Fair price
+969,"112 - 9288 Odlin Road, Richmond",585000.0,For Sale,49.1815009,-123.1215442,2.0,1.0,12-Mar-25,Richmond,2.0,Lower priced
+970,"202 - 908 Keith Road, West Vancouver",2368000.0,For Sale,49.3295451,-123.1397133,1.0,1.0,12-Mar-25,West Vancouver,1.0,Over priced
+971,"104 - 9288 University Crescent, Burnaby",438800.0,For Sale,49.278499,-122.9037656,3.0,3.0,12-Mar-25,Burnaby,3.0,Lower priced
+972,"1006 - 602 Como Lake Avenue, Coquitlam",549000.0,For Sale,49.26282,-122.88707,3.0,2.0,12-Mar-25,Coquitlam,3.0,Lower priced
+973,"57 - 14955 60 Avenue, Surrey",819900.0,For Sale,49.1119778,-122.8076147,3.0,2.0,12-Mar-25,Surrey,3.0,Fair price
+974,"222 - 8060 Jones Road, Richmond",599900.0,For Sale,49.156958,-123.1361344,3.0,2.0,12-Mar-25,Richmond,3.0,Lower priced
+975,"21 - 6488 168 Street, Surrey",999999.0,For Sale,49.1202745,-122.7561929,4.0,4.0,12-Mar-25,Surrey,4+,Lower priced
+976,"1202 Pinewood Crescent, North Vancouver",1399000.0,For Sale,49.3189237,-123.1089126,3.0,1.0,12-Mar-25,others,3.0,Fair price
+977,"6583 Claytonhill Place, Surrey",1999900.0,For Sale,49.1221932,-122.7140412,4.0,3.0,12-Mar-25,Surrey,4+,Fair price
+978,"8083 168a Street, Surrey",1899000.0,For Sale,49.1497292,-122.7550893,8.0,5.0,12-Mar-25,Surrey,4+,Fair price
+979,"14271 88 Avenue, Surrey",1779900.0,For Sale,49.163118,-122.8272303,2.0,1.0,12-Mar-25,Surrey,2.0,Over priced
+981,"6253 148 Street, Surrey",1599888.0,For Sale,49.1160341,-122.8124691,3.0,3.0,12-Mar-25,Surrey,3.0,Over priced
+982,"603 - 2288 Alpha Avenue, Burnaby",735000.0,For Sale,49.2636177,-122.9998676,2.0,2.0,12-Mar-25,Burnaby,2.0,Fair price
+983,"327 - 12633 No. 2 Road, Richmond",819900.0,For Sale,49.1204303,-123.1590453,2.0,2.0,12-Mar-25,Richmond,2.0,Fair price
+984,"2002 - 7088 Salisbury Avenue, Burnaby",915000.0,For Sale,49.2196721,-122.9572118,1.0,2.0,12-Mar-25,Burnaby,1.0,Over priced
+985,"2763 Duke Street, Vancouver",1639000.0,For Sale,49.2388877,-123.048883,4.0,4.0,12-Mar-25,Renfrew-Collingwood,4+,Lower priced
+986,"3301 - 1008 Cambie Street, Vancouver",1998800.0,For Sale,49.2757498,-123.1179298,2.0,2.0,12-Mar-25,Downtown,2.0,Over priced
+987,"2 - 14450 68 Avenue, Surrey",849000.0,For Sale,49.125502,-122.8223967,3.0,3.0,12-Mar-25,Surrey,3.0,Fair price
+988,"17 - 14555 68 Avenue, Surrey",870000.0,For Sale,49.1267106,-122.8198776,3.0,2.0,12-Mar-25,Surrey,3.0,Fair price
+989,"10600 Holly Park Lane, Surrey",589777.0,For Sale,49.1953748,-122.8101112,2.0,1.0,12-Mar-25,Surrey,2.0,Lower priced
+991,"1889 Bluff Way, Coquitlam",1219000.0,For Sale,49.2898552,-122.7658023,7.0,7.0,12-Mar-25,Coquitlam,4+,Lower priced
+992,"18172 Claytonwood Crescent, Surrey",1549000.0,For Sale,49.1203839,-122.7200554,3.0,2.0,12-Mar-25,Surrey,3.0,Over priced
+993,"4 - 7131 Garden City Road, Richmond",850000.0,For Sale,49.1619739,-123.1258885,4.0,2.0,12-Mar-25,Richmond,4+,Lower priced
+994,"1606 - 1308 Hornby Street, Vancouver",828000.0,For Sale,49.277171,-123.1298476,1.0,1.0,12-Mar-25,Downtown,1.0,Fair price
+995,"1 - 1722 6th Avenue, Vancouver",279900.0,For Sale,49.2648735,-123.0687451,3.0,4.0,12-Mar-25,Grandview-Woodland,3.0,Lower priced
+996,"501 - 2855 156 Street, Surrey",539000.0,For Sale,49.0540425,-122.7913699,1.0,1.0,12-Mar-25,Surrey,1.0,Fair price
+997,"14 - 15020 27a Avenue, Surrey",1249000.0,For Sale,49.0516603,-122.8062922,2.0,2.0,12-Mar-25,Surrey,2.0,Over priced
+998,"1109 - 6537 Telford Avenue, Burnaby",649900.0,For Sale,49.2241721,-123.0051633,2.0,2.0,12-Mar-25,Burnaby,2.0,Lower priced
+999,"1726 143b Street, Surrey",1680000.0,For Sale,49.0334604,-122.8242642,4.0,3.0,12-Mar-25,Surrey,4+,Fair price
+1000,"15487 111a Avenue, Surrey",1648000.0,For Sale,49.2054287,-122.7930942,4.0,4.0,12-Mar-25,Surrey,4+,Fair price
+1002,"101 - 6463 Silver Avenue, Burnaby",999800.0,For Sale,49.2249094,-123.006894,2.0,1.0,12-Mar-25,Burnaby,2.0,Fair price
+1003,"9 - 5071 Steveston Highway, Richmond",1680000.0,For Sale,49.1339383,-123.1688171,4.0,3.0,12-Mar-25,Richmond,4+,Fair price
+1004,"201 - 3594 Malsum Drive, North Vancouver",749900.0,For Sale,49.3108039,-122.9716801,2.0,2.0,12-Mar-25,others,2.0,Lower priced
+1005,"7531 Mary Avenue, Burnaby",2099000.0,For Sale,49.2188698,-122.9415921,6.0,4.0,12-Mar-25,Burnaby,4+,Fair price
+1006,"7079 178 Street, Surrey",1649900.0,For Sale,49.1313077,-122.7281122,5.0,4.0,12-Mar-25,Surrey,4+,Fair price
+1007,"2933 Capilano Road, North Vancouver",869000.0,For Sale,49.3371673,-123.1158056,2.0,2.0,12-Mar-25,others,2.0,Fair price
+1008,"702 - 2375 Emery Court, North Vancouver",1599800.0,For Sale,49.3304948,-123.0401569,3.0,3.0,12-Mar-25,others,3.0,Fair price
+1009,"2907 - 3102 Windsor Gate, Coquitlam",888000.0,For Sale,49.2793649,-122.7851507,2.0,2.0,12-Mar-25,Coquitlam,2.0,Fair price
+1010,"2302 - 1199 Seymour Street, Vancouver",699000.0,For Sale,49.2768746,-123.1252014,1.0,1.0,12-Mar-25,Downtown,1.0,Fair price
+1011,"29 - 2672 151 Street, Surrey",1080000.0,For Sale,49.0504165,-122.8036294,1.0,1.0,12-Mar-25,Surrey,1.0,Over priced
+1012,"30 - 8888 151 Street, Surrey",888000.0,For Sale,49.1636379,-122.803876,3.0,3.0,12-Mar-25,Surrey,3.0,Fair price
+1013,"7774 141b Street, Surrey",1499900.0,For Sale,49.1441334,-122.8292566,7.0,4.0,12-Mar-25,Surrey,4+,Fair price
+1014,"2308 - 13615 Fraser Highway, Surrey",494900.0,For Sale,49.1808221,-122.844843,1.0,1.0,12-Mar-25,Surrey,1.0,Fair price
+1015,"157 - 16433 19 Avenue, Surrey",824900.0,For Sale,49.0365304,-122.7669482,2.0,3.0,12-Mar-25,Surrey,2.0,Fair price
+1016,"9316 125 Street, Surrey",2399800.0,For Sale,49.1722231,-122.875982,8.0,9.0,12-Mar-25,Surrey,4+,Over priced
+1017,"401 - 1235 Broadway , Vancouver",1298000.0,For Sale,49.2637058,-123.1321454,3.0,1.0,12-Mar-25,Fairview,3.0,Lower priced
+1018,"3466 Rosemary Heights Crescent, Surrey",1899000.0,For Sale,49.0648207,-122.7980313,5.0,4.0,12-Mar-25,Surrey,4+,Fair price
+1019,"3073 3rd Avenue, Vancouver",3488000.0,For Sale,49.2695376,-123.1728833,3.0,3.0,12-Mar-25,Kitsilano,3.0,Over priced
+1020,"12980 74 Avenue, Surrey",1099000.0,For Sale,49.1371843,-122.8629188,9.0,8.0,12-Mar-25,Surrey,4+,Lower priced
+1021,"14506 72a Avenue, Surrey",1899000.0,For Sale,49.13456,-122.8206,6.0,5.0,12-Mar-25,Surrey,4+,Fair price
+1022,"1601 - 3438 Vanness Avenue, Vancouver",519900.0,For Sale,49.2379906,-123.0316136,1.0,1.0,12-Mar-25,Renfrew-Collingwood,1.0,Lower priced
+1023,"2279 Leclair Drive, Coquitlam",2299000.0,For Sale,49.2427312,-122.8283246,6.0,4.0,12-Mar-25,Coquitlam,4+,Over priced
+1024,"2602 - 1331 Alberni Street , Vancouver",968000.0,For Sale,49.2882466,-123.1276892,1.0,1.0,12-Mar-25,West End,1.0,Over priced
+1026,"156 - 2228 162 Street, Surrey",989900.0,For Sale,49.0421867,-122.7730074,1.0,1.0,12-Mar-25,Surrey,1.0,Over priced
+1027,"2586 23 Avenue, Vancouver",2200000.0,For Sale,49.2495257,-123.0526739,1.0,1.0,12-Mar-25,Renfrew-Collingwood,1.0,Over priced
+1028,"TH21 - 550 Taylor Street, Vancouver",899000.0,For Sale,49.27996,-123.1057286,2.0,2.0,12-Mar-25,Downtown,2.0,Fair price
+1029,"1602 - 3331 Brown Road, Richmond",699800.0,For Sale,49.1862002,-123.1298776,2.0,1.0,12-Mar-25,Richmond,2.0,Lower priced
+1030,"502 - 4168 Lougheed Highway, Burnaby",1189900.0,For Sale,49.2660541,-123.0118677,4.0,4.0,12-Mar-25,Burnaby,4+,Lower priced
+1031,"801 - 2085 Skyline Court, Burnaby",698000.0,For Sale,49.265196,-123.0049648,2.0,2.0,11-Mar-25,Burnaby,2.0,Lower priced
+1032,"1002 - 2055 Pendrell Street, Vancouver",768000.0,For Sale,49.2906112,-123.144247,1.0,1.0,11-Mar-25,West End,1.0,Over priced
+1033,"318 - 599 Dansey Avenue, Coquitlam",499800.0,For Sale,49.2474165,-122.8870444,5.0,3.0,11-Mar-25,Coquitlam,4+,Lower priced
+1034,"203 - 7683 Park Crescent, Burnaby",882900.0,For Sale,49.2097159,-122.9495044,2.0,2.0,11-Mar-25,Burnaby,2.0,Fair price
+1035,"SL 6 - 720 Robinson Street, Coquitlam",1420000.0,For Sale,49.2614176,-122.8802032,3.0,0.0,11-Mar-25,Coquitlam,3.0,Over priced
+1040,"602 - 180 2nd Avenue, Vancouver",999900.0,For Sale,49.2690663,-123.1088002,2.0,2.0,11-Mar-25,Mount Pleasant,2.0,Fair price
+1042,"3902 - 1011 Cordova Street, Vancouver",3750000.0,For Sale,49.2878997,-123.1166553,2.0,3.0,11-Mar-25,Downtown,2.0,Over priced
+1043,"306 - 2636 Hastings Street, Vancouver",599999.0,For Sale,49.2810083,-123.0510572,1.0,1.0,11-Mar-25,Hastings-Sunrise,1.0,Lower priced
+1044,"2902 - 977 Mainland Street, Vancouver",699900.0,For Sale,49.2773752,-123.118231,3.0,4.0,11-Mar-25,Downtown,3.0,Lower priced
+1045,"209 - 199 Victory Ship Way, North Vancouver",1149000.0,For Sale,49.3088826,-123.0773012,5.0,3.0,11-Mar-25,North Vancouver,4+,Lower priced
+1047,"1802 - 1740 Comox Street, Vancouver",728800.0,For Sale,49.2879846,-123.1390223,1.0,1.0,11-Mar-25,West End,1.0,Fair price
+1054,"11 - 7500 Cumberland Street, Burnaby",1299000.0,For Sale,49.2338529,-122.9184138,3.0,3.0,11-Mar-25,Burnaby,3.0,Fair price
+1055,"103 - 13228 Old Yale Road, Surrey",599000.0,For Sale,49.1872768,-122.8558792,2.0,3.0,11-Mar-25,Surrey,2.0,Fair price
+1056,"332 - 9288 Odlin Road, Richmond",649999.0,For Sale,49.1815006,-123.1215469,2.0,2.0,11-Mar-25,Richmond,2.0,Lower priced
+1057,"301 - 327 2nd Street, North Vancouver",726900.0,For Sale,49.3094569,-123.071015,2.0,2.0,11-Mar-25,North Vancouver,2.0,Lower priced
+1058,"417 - 518 Moberly Road, Vancouver",1299000.0,For Sale,49.2678853,-123.1167321,2.0,2.0,11-Mar-25,Fairview,2.0,Over priced
+1059,"701 - 1601 Quebec Street, Vancouver",3949900.0,For Sale,49.2715566,-123.1027944,3.0,3.0,11-Mar-25,Mount Pleasant,3.0,Over priced
+1060,"1701 - 1708 Ontario Street, Vancouver",1698000.0,For Sale,49.2700839,-123.1043373,2.0,2.0,11-Mar-25,Mount Pleasant,2.0,Over priced
+1061,"5314 - 5111 Garden City Road, Richmond",599000.0,For Sale,49.1770772,-123.1267753,2.0,2.0,11-Mar-25,Richmond,2.0,Lower priced
+1062,"2 - 17097 64 Avenue, Surrey",999999.0,For Sale,49.1195222,-122.7487781,3.0,4.0,11-Mar-25,Surrey,3.0,Fair price
+1063,"219 - 1529 6th Avenue, Vancouver",599900.0,For Sale,49.2653671,-123.0730201,0.0,1.0,11-Mar-25,Grandview-Woodland,0.0,Fair price
+1064,"13790 23 Ave , Surrey",2650000.0,For Sale,49.0436846,-122.840126,5.0,5.0,11-Mar-25,Surrey,4+,Over priced
+1065,"601 - 133 8th Avenue, Vancouver",639900.0,For Sale,49.2638591,-123.1021018,1.0,1.0,11-Mar-25,Mount Pleasant,1.0,Lower priced
+1066,"502 - 495 6 Avenue, Vancouver",769000.0,For Sale,49.2658968,-123.1142465,1.0,1.0,11-Mar-25,Mount Pleasant,1.0,Fair price
+1067,"527 - 666 Leg In Boot Square, Vancouver",998000.0,For Sale,49.2670455,-123.1192711,2.0,2.0,11-Mar-25,Fairview,2.0,Fair price
+1068,"3511 - 3809 Evergreen Place, Burnaby",849900.0,For Sale,49.2498579,-122.8940588,2.0,1.0,11-Mar-25,Burnaby,2.0,Fair price
+1069,"Avenue, Vancouver",695000.0,For Sale,49.2789453,-123.1219901,2.0,2.0,11-Mar-25,Downtown,2.0,Lower priced
+1070,"13500 Balsam Crescent, Surrey",3398000.0,For Sale,49.05835,-122.84824,3.0,2.0,11-Mar-25,Surrey,3.0,Over priced
+1071,"4878 Paton Street, Vancouver",3999800.0,For Sale,49.2435968,-123.1594977,4.0,3.0,11-Mar-25,Arbutus Ridge,4+,Fair price
+1072,"15821 29a Avenue, Surrey",1668000.0,For Sale,49.0551179,-122.784115,5.0,4.0,11-Mar-25,Surrey,4+,Fair price
+1073,"807 - 989 Nelson Street, Vancouver",829888.0,For Sale,49.2812121,-123.1251379,2.0,2.0,11-Mar-25,Downtown,2.0,Lower priced
+1074,"471 Beach Crescent, Vancouver",3375000.0,For Sale,49.272723,-123.1278871,3.0,3.0,11-Mar-25,Downtown,3.0,Over priced
+1075,"527 - 119 22nd Street, North Vancouver",730000.0,For Sale,49.3292906,-123.0732522,1.0,1.0,11-Mar-25,North Vancouver,1.0,Fair price
+1077,"2364 Marine Drive, West Vancouver",3639000.0,For Sale,49.3335189,-123.177652,7.0,3.0,11-Mar-25,West Vancouver,4+,Fair price
+1078,"1339 48th Avenue, Vancouver",3990000.0,For Sale,49.2279772,-123.1361098,8.0,7.0,11-Mar-25,Oakridge,4+,Fair price
+1080,"202 - 8733 160 Street, Surrey",479000.0,For Sale,49.1614162,-122.7797418,1.0,1.0,11-Mar-25,Surrey,1.0,Fair price
+1081,"702 - 6638 Dunblane Avenue, Burnaby",798000.0,For Sale,49.2233544,-122.9925207,2.0,2.0,11-Mar-25,Burnaby,2.0,Fair price
+1082,"403 - 4025 Norfolk Street, Burnaby",999999.0,For Sale,49.2555905,-123.0152359,3.0,3.0,11-Mar-25,Burnaby,3.0,Fair price
+1083,"1204 - 10626 City Parkway, Surrey",476000.0,For Sale,49.1955846,-122.8479033,1.0,1.0,11-Mar-25,Surrey,1.0,Fair price
+1084,"311 - 1859 Spyglass Place, Vancouver",1280000.0,For Sale,49.2705127,-123.1153645,2.0,2.0,11-Mar-25,Fairview,2.0,Fair price
+1085,"10428 Whalley Boulevard, Surrey",599900.0,For Sale,49.19237,-122.8415042,2.0,1.0,11-Mar-25,Surrey,2.0,Fair price
+1086,"1210 - 2186 Gilmore Avenue, Burnaby",788000.0,For Sale,49.2652826,-123.0140373,2.0,2.0,11-Mar-25,Burnaby,2.0,Fair price
+1087,"1806 - 1632 Lions Gate Lane, North Vancouver",1580000.0,For Sale,49.3249218,-123.1225036,3.0,2.0,11-Mar-25,others,3.0,Fair price
+1088,"118 - 8870 Citation Drive, Richmond",479000.0,For Sale,49.1636446,-123.1255651,2.0,1.0,11-Mar-25,Richmond,2.0,Lower priced
+1089,"19 - 8638 159 Street, Surrey",849999.0,For Sale,49.1599582,-122.7817131,4.0,3.0,11-Mar-25,Surrey,4+,Lower priced
+1090,"46 - 3618 150 Street, Surrey",1599900.0,For Sale,49.0677662,-122.8054918,2.0,2.0,11-Mar-25,Surrey,2.0,Over priced
+1091,"4967 Georgia Street, Burnaby",2488000.0,For Sale,49.278477,-122.990659,6.0,5.0,11-Mar-25,Burnaby,4+,Fair price
+1092,"2 - 1426 54th Avenue, Vancouver",1448000.0,For Sale,49.2214634,-123.1382931,3.0,4.0,11-Mar-25,Oakridge,3.0,Fair price
+1094,"402 - 674 17th Avenue, Vancouver",575000.0,For Sale,49.255828,-123.1197909,2.0,1.0,11-Mar-25,South Cambie,2.0,Lower priced
+1095,"SL17 - 10333 River Drive, Richmond",1149000.0,For Sale,49.197524,-123.1044076,3.0,3.0,11-Mar-25,Richmond,3.0,Fair price
+1096,"2605 - 13688 100 Avenue, Surrey",399900.0,For Sale,49.1838039,-122.8436235,1.0,1.0,11-Mar-25,Surrey,1.0,Lower priced
+1097,"3426 Copeland Avenue, Vancouver",659900.0,For Sale,49.2153156,-123.0285898,3.0,2.0,11-Mar-25,Killarney,3.0,Lower priced
+1098,"307 - 16380 64 Avenue, Surrey",689800.0,For Sale,49.1174645,-122.7699738,2.0,2.0,11-Mar-25,Surrey,2.0,Fair price
+1101,"1509 - 13380 108 Avenue, Surrey",499999.0,For Sale,49.1987331,-122.8521399,2.0,2.0,11-Mar-25,Surrey,2.0,Lower priced
+1103,"2291 Dorman Drive, Burnaby",2199900.0,For Sale,49.2630914,-122.9523777,5.0,3.0,11-Mar-25,Burnaby,4+,Fair price
+1104,"5499 Manor Street, Burnaby",2799000.0,For Sale,49.25727,-122.98421,9.0,8.0,11-Mar-25,Burnaby,4+,Over priced
+1107,"3503 - 688 Abbott Street, Vancouver",1298000.0,For Sale,49.278892,-123.1074245,2.0,2.0,11-Mar-25,Downtown,2.0,Fair price
+1108,"3807 - 2186 Gilmore Avenue, Burnaby",1099900.0,For Sale,49.2652826,-123.0140373,2.0,2.0,11-Mar-25,Burnaby,2.0,Over priced
+1109,"70 - 9339 Alberta Road, Richmond",890000.0,For Sale,49.1668341,-123.1207698,3.0,3.0,11-Mar-25,Richmond,3.0,Lower priced
+1110,"227 - 708 Lea Avenue, Coquitlam",899999.0,For Sale,49.2643172,-122.8823297,2.0,2.0,11-Mar-25,Coquitlam,2.0,Fair price
+1111,"15 - 7540 Abercrombie Drive, Richmond",1198000.0,For Sale,49.1579252,-123.1369798,3.0,3.0,11-Mar-25,Richmond,3.0,Fair price
+1112,"1602 - 1050 Smithe Street, Vancouver",988000.0,For Sale,49.2833879,-123.1255977,2.0,2.0,11-Mar-25,West End,2.0,Fair price
+1113,"211 - 2366 Wall Street, Vancouver",599900.0,For Sale,49.2901776,-123.0572156,1.0,1.0,11-Mar-25,Grandview-Woodland,1.0,Over priced
+1114,"709 - 5380 Crooked Branch Road, Vancouver",836000.0,For Sale,49.2632992,-123.2353667,1.0,1.0,11-Mar-25,others,1.0,Over priced
+1115,"201 - 5460 Broadway , Burnaby",829000.0,For Sale,49.266137,-122.9844813,2.0,2.0,11-Mar-25,Burnaby,2.0,Fair price
+1116,"299 55th Avenue, Vancouver",2598800.0,For Sale,49.2203229,-123.0999803,3.0,2.0,11-Mar-25,Sunset,3.0,Over priced
+1117,"2011 48th Avenue, Vancouver",4795000.0,For Sale,49.2282345,-123.1526125,3.0,4.0,11-Mar-25,Kerrisdale,3.0,Fair price
+1118,"1630 Layton Drive, North Vancouver",2179000.0,For Sale,49.3220537,-123.0060434,2.0,2.0,11-Mar-25,others,2.0,Over priced
+1119,"502 - 2181 Madison Avenue, Burnaby",799000.0,For Sale,49.2648606,-123.0089395,2.0,2.0,11-Mar-25,Burnaby,2.0,Fair price
+1120,"309 - 2410 Cornwall Avenue, Vancouver",1349000.0,For Sale,49.2724213,-123.1601953,2.0,1.0,11-Mar-25,Kitsilano,2.0,Over priced
+1121,"4511 Cameron Court, Richmond",1885000.0,For Sale,49.1804414,-123.089674,5.0,3.0,11-Mar-25,Richmond,4+,Fair price
+1123,"15 - 7700 Abercrombie Drive, Richmond",1088000.0,For Sale,49.1568499,-123.137992,1.0,1.0,11-Mar-25,Richmond,1.0,Over priced
+1124,"1204 - 5766 Gilbert Road, Richmond",869000.0,For Sale,49.1720383,-123.1463413,3.0,3.0,11-Mar-25,Richmond,3.0,Lower priced
+1125,"66 - 6588 Barnard Drive, Richmond",1199000.0,For Sale,49.167688,-123.184463,4.0,3.0,11-Mar-25,Richmond,4+,Lower priced
+1126,"113 - 4101 Yew Street, Vancouver",1168000.0,For Sale,49.2498458,-123.1558288,2.0,2.0,11-Mar-25,Arbutus Ridge,2.0,Fair price
+1127,"1 - 3186 11th Avenue, Vancouver",3050000.0,For Sale,49.2621887,-123.1756265,4.0,4.0,11-Mar-25,Kitsilano,4+,Over priced
+1128,"2314 Oneida Drive, Coquitlam",2399000.0,For Sale,49.2716797,-122.8281643,5.0,4.0,11-Mar-25,Coquitlam,4+,Over priced
+1129,"4472 15th Avenue, Vancouver",2699000.0,For Sale,49.2590721,-123.2082645,2.0,2.0,11-Mar-25,West Point Grey,2.0,Over priced
+1130,"8411 170 Street, Surrey",1399900.0,For Sale,49.1556603,-122.7515841,4.0,3.0,11-Mar-25,Surrey,4+,Fair price
+1131,"110 - 1777 13th Avenue, Vancouver",999999.0,For Sale,49.2601965,-123.1450401,6.0,5.0,11-Mar-25,Fairview,4+,Fair price
+1133,"905 - 4118 Dawson Street, Burnaby",579000.0,For Sale,49.2643041,-123.013727,1.0,1.0,11-Mar-25,Burnaby,1.0,Fair price
+1135,"16706 16 Avenue, Surrey",1388000.0,For Sale,49.0308307,-122.759872,5.0,4.0,11-Mar-25,Surrey,4+,Fair price
+1136,"29 - 14909 32 Avenue, Surrey",1030000.0,For Sale,49.0603921,-122.8090956,2.0,2.0,11-Mar-25,Surrey,2.0,Over priced
+1137,"105 - 5692 Kings Road, Vancouver",1049000.0,For Sale,49.2652324,-123.2407258,2.0,2.0,11-Mar-25,others,2.0,Fair price
+1138,"3506 - 4730 Lougheed Highway, Burnaby",668500.0,For Sale,49.265665,-122.9952381,1.0,1.0,11-Mar-25,Burnaby,1.0,Fair price
+1139,"1201 - 1675 Lions Gate Lane, North Vancouver",1179000.0,For Sale,49.3254849,-123.1226258,2.0,2.0,11-Mar-25,others,2.0,Fair price
+1140,"706 - 6688 Pearson Way, Richmond",1288000.0,For Sale,49.1757469,-123.1484101,2.0,3.0,11-Mar-25,Richmond,2.0,Over priced
+1141,"1302 - 6622 Southoaks Crescent, Burnaby",719000.0,For Sale,49.2176987,-122.9678144,2.0,2.0,11-Mar-25,Burnaby,2.0,Fair price
+1142,"601 - 140 Keith Road, North Vancouver",939000.0,For Sale,49.3169622,-123.0714662,2.0,2.0,11-Mar-25,North Vancouver,2.0,Fair price
+1143,"842 Esquimalt Avenue, West Vancouver",2798000.0,For Sale,49.3306553,-123.138547,5.0,3.0,11-Mar-25,West Vancouver,4+,Lower priced
+1144,"14428 33a Avenue, Surrey",3380000.0,For Sale,49.062498,-122.8229441,6.0,6.0,11-Mar-25,Surrey,4+,Over priced
+1145,"1005 - 505 Nelson Street, Coquitlam",690000.0,For Sale,49.2494204,-122.8649479,1.0,1.0,11-Mar-25,Coquitlam,1.0,Fair price
+1146,"80 - 10830 152 Street, Surrey",769000.0,For Sale,49.1993996,-122.8005706,3.0,3.0,11-Mar-25,Surrey,3.0,Lower priced
+1147,"203 - 505 Lonsdale Avenue, North Vancouver",899000.0,For Sale,49.3154727,-123.0755808,2.0,2.0,11-Mar-25,North Vancouver,2.0,Fair price
+1148,"2303 - 6288 Cassie Avenue, Burnaby",899900.0,For Sale,49.2261087,-123.0075073,1.0,2.0,11-Mar-25,Burnaby,1.0,Over priced
+1149,"506 Raindance Court, West Vancouver",355000.0,For Sale,49.3223199,-123.1357108,4.0,4.0,11-Mar-25,West Vancouver,4+,Lower priced
+1150,"311 - 15272 19 Avenue, Surrey",569000.0,For Sale,49.0358456,-122.7994396,2.0,2.0,11-Mar-25,Surrey,2.0,Lower priced
+1152,"101 - 6420 Buswell Street, Richmond",379900.0,For Sale,49.1672857,-123.1327593,3.0,2.0,11-Mar-25,Richmond,3.0,Lower priced
+1153,"17499 20 Avenue, Surrey",23980000.0,For Sale,49.03861,-122.73823,4.0,3.0,11-Mar-25,Surrey,4+,Over priced
+1154,"2105 - 4650 Brentwood Boulevard, Burnaby",835000.0,For Sale,49.2667792,-122.9995619,2.0,2.0,11-Mar-25,Burnaby,2.0,Fair price
+1155,"402 - 13618 100 Avenue, Surrey",589800.0,For Sale,49.1837997,-122.8447563,2.0,2.0,11-Mar-25,Surrey,2.0,Lower priced
+1156,"204 - 16469 64 Avenue, Surrey",725000.0,For Sale,49.1193096,-122.7649676,2.0,2.0,11-Mar-25,Surrey,2.0,Fair price
+1157,"703 - 1888 Gilmore Avenue, Burnaby",499000.0,For Sale,49.2676356,-123.0137751,1.0,1.0,11-Mar-25,Burnaby,1.0,Lower priced
+1158,"1704 - 489 Interurban Way, Vancouver",499900.0,For Sale,49.2097345,-123.1162884,1.0,1.0,11-Mar-25,Marpole,1.0,Over priced
+1159,"5 - 15155 62a Avenue, Surrey",719000.0,For Sale,49.1182781,-122.8059541,1.0,1.0,11-Mar-25,Surrey,1.0,Over priced
+1160,"703 - 10033 River Drive, Richmond",599800.0,For Sale,49.1995594,-123.1124112,1.0,1.0,11-Mar-25,Richmond,1.0,Fair price
+1161,"502 - 1200 W. Georgia Street, Vancouver",719000.0,For Sale,49.287159,-123.1259569,1.0,1.0,11-Mar-25,West End,1.0,Fair price
+1162,"1204 - 738 Farrow Street, Coquitlam",835000.0,For Sale,49.262119,-122.8912601,2.0,2.0,11-Mar-25,Coquitlam,2.0,Fair price
+1163,"17766 69 Avenue, Surrey",1599900.0,For Sale,49.1275189,-122.7310128,3.0,3.0,11-Mar-25,Surrey,3.0,Over priced
+1164,"1102 - 8160 Lansdowne Road, Richmond",928000.0,For Sale,49.17351,-123.134049,2.0,2.0,11-Mar-25,Richmond,2.0,Fair price
+1165,"6303 167b Street, Surrey",1749000.0,For Sale,49.1166592,-122.7582532,6.0,0.0,11-Mar-25,Surrey,4+,Fair price
+1166,"1603 - 6699 Dunblane Avenue, Burnaby",559000.0,For Sale,49.2222005,-122.9930653,1.0,1.0,11-Mar-25,Burnaby,1.0,Lower priced
+1167,"4343 Patterdale Drive, North Vancouver",2498800.0,For Sale,49.3501168,-123.1110668,4.0,3.0,11-Mar-25,others,4+,Fair price
+1168,"8411 Sunnywood Drive, Richmond",4860000.0,For Sale,49.1524985,-123.1460051,2.0,2.0,11-Mar-25,Richmond,2.0,Over priced
+1169,"112 - 13929 105 Boulevard, Surrey",599900.0,For Sale,49.1944524,-122.836523,2.0,2.0,11-Mar-25,Surrey,2.0,Fair price
+1170,"307 - 15140 108 Avenue, Surrey",649000.0,For Sale,49.1979572,-122.8017425,2.0,2.0,11-Mar-25,Surrey,2.0,Fair price
+1171,"1407 Strawline Hill Street, Coquitlam",2499800.0,For Sale,49.2984999,-122.738904,6.0,6.0,10-Mar-25,Coquitlam,4+,Over priced
+1172,"1003 - 1450 Pennyfarthing Drive, Vancouver",1072000.0,For Sale,49.2726319,-123.1417658,2.0,2.0,10-Mar-25,Fairview,2.0,Fair price
+1173,"208 - 5811 177b Street, Surrey",614999.0,For Sale,49.1080339,-122.7307737,2.0,2.0,10-Mar-25,Surrey,2.0,Fair price
+1174,"2211 Grant Street, Vancouver",2199000.0,For Sale,49.2714361,-123.0595993,4.0,3.0,10-Mar-25,Grandview-Woodland,4+,Over priced
+1175,"3505 - 833 Seymour Street, Vancouver",1699000.0,For Sale,49.2804755,-123.1196313,3.0,2.0,10-Mar-25,Downtown,3.0,Fair price
+1176,"816 - 1618 Quebec Street, Vancouver",749900.0,For Sale,49.2714629,-123.1016124,1.0,1.0,10-Mar-25,Mount Pleasant,1.0,Fair price
+1177,"332 11th Street, North Vancouver",2198000.0,For Sale,49.3180613,-123.0645985,4.0,4.0,10-Mar-25,North Vancouver,4+,Fair price
+1178,"14177 60a Avenue, Surrey",1999000.0,For Sale,49.113008,-122.8296474,7.0,7.0,10-Mar-25,Surrey,4+,Fair price
+1179,"13289 71b Avenue, Surrey",399999.0,For Sale,49.1333606,-122.8543288,3.0,2.0,10-Mar-25,Surrey,3.0,Lower priced
+1181,"208 - 828 Gauthier Avenue, Coquitlam",698000.0,For Sale,49.2384632,-122.8744449,2.0,2.0,10-Mar-25,Coquitlam,2.0,Lower priced
+1182,"502 - 1480 Duchess Avenue, West Vancouver",995000.0,For Sale,49.3294054,-123.1561708,4.0,3.0,10-Mar-25,West Vancouver,4+,Lower priced
+1183,"7350 194 Street, Surrey",1480000.0,For Sale,49.1363707,-122.6848938,5.0,4.0,10-Mar-25,Surrey,4+,Fair price
+1184,"308 - 1331 Alberni Street, Vancouver",399000.0,For Sale,49.2882466,-123.1276892,1.0,1.0,10-Mar-25,West End,1.0,Lower priced
+1186,"211 - 621 Regan Avenue, Coquitlam",535000.0,For Sale,49.2624991,-122.8845992,2.0,2.0,13-Mar-25,Coquitlam,2.0,Lower priced
+1187,"TH6 - 610 3rd Street, North Vancouver",1600000.0,For Sale,49.3087946,-123.0628989,4.0,4.0,13-Mar-25,North Vancouver,4+,Fair price
+1188,"308 - 1655 Augusta Avenue, Burnaby",948000.0,For Sale,49.2688487,-122.9509936,2.0,2.0,13-Mar-25,Burnaby,2.0,Fair price
+1189,"1237 64th Avenue, Vancouver",1848000.0,For Sale,49.2132388,-123.1334081,6.0,4.0,13-Mar-25,Marpole,4+,Fair price
+1190,"11235 Park Place, Surrey",1449000.0,For Sale,49.2068076,-122.835953,4.0,3.0,13-Mar-25,Surrey,4+,Fair price
+1191,"13491 Marine Drive, Surrey",3280000.0,For Sale,49.02723,-122.84814,3.0,3.0,13-Mar-25,Surrey,3.0,Over priced
+1193,"2171 Sperling Avenue, Burnaby",2288000.0,For Sale,49.2643428,-122.9650026,2.0,3.0,13-Mar-25,Burnaby,2.0,Over priced
+1195,"405 - 626 Claremont Street, Coquitlam",899900.0,For Sale,49.2642605,-122.8902506,2.0,2.0,13-Mar-25,Coquitlam,2.0,Fair price
+1196,"2287 12th Avenue, Vancouver",1379000.0,For Sale,49.2612501,-123.157194,2.0,2.0,13-Mar-25,Kitsilano,2.0,Over priced
+1197,"1901 - 1482 Robson Street, Vancouver",1055000.0,For Sale,49.2885128,-123.1311775,2.0,1.0,13-Mar-25,West End,2.0,Fair price
+1198,"1101 - 4505 Hazel Street, Burnaby",970000.0,For Sale,49.2308788,-123.0033382,1.0,1.0,13-Mar-25,Burnaby,1.0,Over priced
+1199,"3105 - 4189 Halifax Street, Burnaby",849000.0,For Sale,49.2684158,-123.012471,2.0,2.0,13-Mar-25,Burnaby,2.0,Fair price
+1200,"396 47th Avenue, Vancouver",2499000.0,For Sale,49.227311,-123.0977363,4.0,3.0,13-Mar-25,Sunset,4+,Over priced
+1201,"108 - 228 18th Avenue, Vancouver",900000.0,For Sale,49.2544951,-123.0998636,2.0,2.0,13-Mar-25,Riley Park,2.0,Lower priced
+1202,"9 - 8377 Jones Road, Richmond",998000.0,For Sale,49.1574679,-123.131553,2.0,3.0,13-Mar-25,Richmond,2.0,Fair price
+1203,"508 - 1540 2nd Avenue, Vancouver",1549000.0,For Sale,49.2693164,-123.1401449,3.0,3.0,13-Mar-25,Fairview,3.0,Fair price
+1204,"1201 - 8033 Saba Road, Richmond",789000.0,For Sale,49.1693121,-123.1352121,1.0,1.0,13-Mar-25,Richmond,1.0,Over priced
+1205,"1378 Seymour Street, Vancouver",1199000.0,For Sale,49.2744979,-123.1278478,3.0,1.0,13-Mar-25,Downtown,3.0,Fair price
+1206,"12567 66 Avenue, Surrey",1679900.0,For Sale,49.1231088,-122.8745028,3.0,4.0,13-Mar-25,Surrey,3.0,Over priced
+1208,"28 - 9800 Kilby Drive, Richmond",1089900.0,For Sale,49.1855855,-123.1143515,3.0,3.0,13-Mar-25,Richmond,3.0,Fair price
+1209,"1211 - 10626 City Parkway, Surrey",491900.0,For Sale,49.1955846,-122.8479033,1.0,1.0,13-Mar-25,Surrey,1.0,Fair price
+1210,"407 - 10428 Whalley Boulevard, Surrey",539800.0,For Sale,49.19237,-122.8415042,1.0,1.0,13-Mar-25,Surrey,1.0,Fair price
+1211,"411 - 1367 Alberni Street, Vancouver",748000.0,For Sale,49.2886162,-123.1282575,1.0,1.0,13-Mar-25,West End,1.0,Fair price
+1212,"23 - 5750 174 Street, Surrey",675000.0,For Sale,49.1068382,-122.74044,3.0,3.0,13-Mar-25,Surrey,3.0,Lower priced
+1214,"1006 - 4488 Juneau Street, Burnaby",938000.0,For Sale,49.2633794,-123.0037234,5.0,3.0,13-Mar-25,Burnaby,4+,Lower priced
+1215,"201 - 2800 Chesterfield Avenue, North Vancouver",609900.0,For Sale,49.3353183,-123.0743761,2.0,2.0,13-Mar-25,North Vancouver,2.0,Lower priced
+1216,"311 - 2175 Salal Drive, Vancouver",926800.0,For Sale,49.2617136,-123.1545051,1.0,1.0,13-Mar-25,Kitsilano,1.0,Over priced
+1217,"232 - 10928 132 Street, Surrey",298000.0,For Sale,49.2013467,-122.8560634,0.0,1.0,13-Mar-25,Surrey,0.0,Lower priced
+1218,"6 - 265 8th Street, North Vancouver",1429000.0,For Sale,49.3153911,-123.067135,2.0,3.0,13-Mar-25,North Vancouver,2.0,Over priced
+1219,"1605 - 1833 Crowe Street, Vancouver",1249000.0,For Sale,49.2687444,-123.1124104,3.0,5.0,13-Mar-25,Mount Pleasant,3.0,Fair price
+1220,"508 - 2388 Madison Avenue, Burnaby",770000.0,For Sale,49.2628193,-123.0084224,3.0,3.0,13-Mar-25,Burnaby,3.0,Lower priced
+1221,"106 - 8220 Jones Road, Richmond",728000.0,For Sale,49.1567644,-123.1331737,2.0,2.0,13-Mar-25,Richmond,2.0,Fair price
+1222,"304 - 15357 17a Avenue, Surrey",699000.0,For Sale,49.034124,-122.7971154,3.0,3.0,13-Mar-25,Surrey,3.0,Lower priced
+1223,"12347 103a Avenue, Surrey",1275000.0,For Sale,49.1908566,-122.8797634,5.0,2.0,13-Mar-25,Surrey,4+,Lower priced
+1224,"14872 25a Avenue, Surrey",1890000.0,For Sale,49.0479863,-122.8101431,6.0,4.0,13-Mar-25,Surrey,4+,Fair price
+1225,"402 - 237 4th Avenue, Vancouver",1249900.0,For Sale,49.2676476,-123.1093416,1.0,2.0,13-Mar-25,Mount Pleasant,1.0,Over priced
+1226,"512 - 3333 Brown Road, Richmond",890000.0,For Sale,49.1863147,-123.129825,2.0,2.0,13-Mar-25,Richmond,2.0,Fair price
+1227,"506 - 9228 Slopes Mews, Burnaby",588000.0,For Sale,49.2769068,-122.9074276,2.0,2.0,13-Mar-25,Burnaby,2.0,Lower priced
+1228,"216 - 10065 133 Street, Surrey",389990.0,For Sale,49.1857413,-122.8543437,0.0,1.0,13-Mar-25,Surrey,0.0,Fair price
+1230,"18 - 15489 99a Avenue, Surrey",999999.0,For Sale,49.1836148,-122.7902294,3.0,3.0,13-Mar-25,Surrey,3.0,Fair price
+1231,"2 - 16361 23a Avenue, Surrey",899000.0,For Sale,49.0449912,-122.7692573,3.0,3.0,13-Mar-25,Surrey,3.0,Fair price
+1232,"517 - 10065 133 Street, Surrey",484990.0,For Sale,49.1857413,-122.8543437,1.0,1.0,13-Mar-25,Surrey,1.0,Fair price
+1233,"3905 - 3833 Evergreen Place, Burnaby",999000.0,For Sale,49.249599,-122.8943497,3.0,2.0,13-Mar-25,Burnaby,3.0,Fair price
+1234,"364 Taylor Way, West Vancouver",1350000.0,For Sale,49.326983,-123.1349474,3.0,3.0,13-Mar-25,West Vancouver,3.0,Lower priced
+1235,"610 - 4759 Valley Drive, Vancouver",2499000.0,For Sale,49.2433488,-123.1512407,2.0,3.0,13-Mar-25,Arbutus Ridge,2.0,Over priced
+1236,"409 - 10065 133 Street, Surrey",684990.0,For Sale,49.1857413,-122.8543437,1.0,2.0,13-Mar-25,Surrey,1.0,Over priced
+1237,"2501 - 13428 105 Avenue, Surrey",648000.0,For Sale,49.1927348,-122.8500408,1.0,1.0,13-Mar-25,Surrey,1.0,Over priced
+1238,"148 Kings Road, North Vancouver",2225000.0,For Sale,49.3377059,-123.0703859,5.0,4.0,13-Mar-25,others,4+,Fair price
+1239,"3775 Lincoln Avenue, Coquitlam",3490000.0,For Sale,49.2786227,-122.7131452,4.0,3.0,13-Mar-25,Coquitlam,4+,Over priced
+1240,"646 Alderson Avenue, Coquitlam",1888000.0,For Sale,49.2396281,-122.88325,4.0,4.0,13-Mar-25,Coquitlam,4+,Fair price
+1241,"309 - 10065 133 Street, Surrey",494990.0,For Sale,49.1857413,-122.8543437,3.0,2.0,13-Mar-25,Surrey,3.0,Lower priced
+1242,"1605 - 3096 Windsor Gate, Coquitlam",799000.0,For Sale,49.27954,-122.78711,1.0,1.0,13-Mar-25,Coquitlam,1.0,Over priced
+1243,"1902 - 1188 Pinetree Way, Coquitlam",599999.0,For Sale,49.28197,-122.79395,2.0,2.0,13-Mar-25,Coquitlam,2.0,Lower priced
+1244,"204 - 13530 Hilton Road, Surrey",459900.0,For Sale,49.2020765,-122.8477032,4.0,2.0,13-Mar-25,Surrey,4+,Lower priced
+1245,"830 Pyrford Road, West Vancouver",3388000.0,For Sale,49.3466708,-123.1420086,6.0,6.0,13-Mar-25,West Vancouver,4+,Fair price
+1246,"708 - 8180 Granville Avenue, Richmond",698000.0,For Sale,49.1624786,-123.1338234,2.0,2.0,13-Mar-25,Richmond,2.0,Lower priced
+1247,"104 - 626 Claremont Street, Coquitlam",1019900.0,For Sale,49.2642605,-122.8902506,2.0,3.0,13-Mar-25,Coquitlam,2.0,Over priced
+1248,"507 - 2978 Glen Drive, Coquitlam",696000.0,For Sale,49.2821044,-122.7969491,2.0,2.0,13-Mar-25,Coquitlam,2.0,Lower priced
+1249,"403 - 89 Nelson Avenue, Vancouver",865000.0,For Sale,49.2194926,-122.9941094,1.0,1.0,13-Mar-25,Burnaby,1.0,Over priced
+1250,"6 - 5960 142 Street, Surrey",950000.0,For Sale,49.11137,-122.8285756,4.0,3.0,13-Mar-25,Surrey,4+,Lower priced
+1251,"456 20th Street, North Vancouver",1799000.0,For Sale,49.3273599,-123.0604801,5.0,2.0,13-Mar-25,North Vancouver,4+,Fair price
+1252,"2914 Valleyvista Drive, Coquitlam",1825000.0,For Sale,49.296851,-122.8002435,4.0,4.0,13-Mar-25,Coquitlam,4+,Fair price
+1253,"1277 Nestor Street, Coquitlam",1399900.0,For Sale,49.2908754,-122.7781786,4.0,3.0,13-Mar-25,Coquitlam,4+,Lower priced
+1254,"3322 6th Avenue, Vancouver",3580000.0,For Sale,49.2645018,-123.0328943,5.0,3.0,13-Mar-25,Hastings-Sunrise,4+,Over priced
+1256,"1608 - 489 Interurban Way, Vancouver",485000.0,For Sale,49.2097345,-123.1162884,1.0,1.0,13-Mar-25,Marpole,1.0,Lower priced
+1257,"1803 - 33 Smithe Street, Vancouver",1299000.0,For Sale,49.2746848,-123.1124487,2.0,2.0,13-Mar-25,Downtown,2.0,Fair price
+1258,"302 - 3331 Brown Road, Richmond",649900.0,For Sale,49.1862002,-123.1298776,1.0,1.0,13-Mar-25,Richmond,1.0,Fair price
+1259,"1110 - 13618 100 Avenue, Surrey",430000.0,For Sale,49.1837997,-122.8447563,1.0,1.0,13-Mar-25,Surrey,1.0,Lower priced
+1260,"211 - 7908 Graham Avenue, Burnaby",849999.0,For Sale,49.2231891,-122.9324954,2.0,3.0,13-Mar-25,Burnaby,2.0,Fair price
+1261,"211 - 5955 177b Street, Surrey",414900.0,For Sale,49.1107445,-122.7309135,2.0,2.0,13-Mar-25,Surrey,2.0,Lower priced
+1262,"302 - 17727 58 Avenue, Surrey",674999.0,For Sale,49.1080506,-122.7315672,2.0,2.0,13-Mar-25,Surrey,2.0,Fair price
+1263,"2505 William Avenue, North Vancouver",2098000.0,For Sale,49.3319579,-123.0509132,5.0,3.0,13-Mar-25,others,4+,Fair price
+1264,"207 - 1153 Kensal Place, Coquitlam",715000.0,For Sale,49.2806705,-122.7836898,2.0,2.0,13-Mar-25,Coquitlam,2.0,Fair price
+1265,"411 - 1591 Booth Avenue, Coquitlam",479900.0,For Sale,49.2394481,-122.8496854,1.0,1.0,13-Mar-25,Coquitlam,1.0,Lower priced
+1266,"2103 - 13685 102 Avenue, Surrey",399000.0,For Sale,49.1880367,-122.8437515,0.0,1.0,13-Mar-25,Surrey,0.0,Over priced
+1267,"716 - 8800 Hazelbridge Way, Richmond",648888.0,For Sale,49.1890449,-123.1277594,1.0,1.0,13-Mar-25,Richmond,1.0,Fair price
+1268,"B - 441 Bromley Street, Coquitlam",1249000.0,For Sale,49.24773,-122.81739,3.0,3.0,13-Mar-25,Coquitlam,3.0,Fair price
+1269,"709 - 66 Cordova Street, Vancouver",549000.0,For Sale,49.282751,-123.1063348,1.0,1.0,13-Mar-25,Downtown,1.0,Lower priced
+1270,"3609 3609 Turner Street , Vancouver",1999000.0,For Sale,49.279347,-123.0253239,6.0,4.0,13-Mar-25,Hastings-Sunrise,4+,Fair price
+1271,"13613 Hilton Road, Surrey",1199000.0,For Sale,49.2012182,-122.8445971,6.0,2.0,13-Mar-25,Surrey,4+,Lower priced
+1272,"19422 61 Avenue, Surrey",1149000.0,For Sale,49.1139188,-122.6853322,4.0,3.0,13-Mar-25,Surrey,4+,Lower priced
+1273,"PH3 - 1790 Bayshore Drive, Vancouver",5499800.0,For Sale,49.2926314,-123.1330776,3.0,4.0,13-Mar-25,Downtown,3.0,Over priced
+1274,"205 - 8717 160 Street, Surrey",579000.0,For Sale,49.1610914,-122.7796985,2.0,2.0,13-Mar-25,Surrey,2.0,Lower priced
+1275,"2730 Westlake Drive, Coquitlam",1425000.0,For Sale,49.2562198,-122.813045,4.0,3.0,13-Mar-25,Coquitlam,4+,Lower priced
+1276,"13 - 3502 150a Street, Surrey",1449000.0,For Sale,49.0659262,-122.8055347,6.0,5.0,13-Mar-25,Surrey,4+,Fair price
+1277,"25 - 2888 156 Street, Surrey",899900.0,For Sale,49.0544613,-122.789947,4.0,3.0,13-Mar-25,Surrey,4+,Lower priced
+1278,"22111 Garratt Drive, Richmond",1579998.0,For Sale,49.1734121,-122.9764596,5.0,3.0,13-Mar-25,Richmond,4+,Fair price
+1279,"18906 54a Avenue, Surrey",1999999.0,For Sale,49.1012788,-122.6983584,7.0,7.0,13-Mar-25,Surrey,4+,Fair price
+1280,"608 - 1331 Georgia Street, Vancouver",638000.0,For Sale,49.2886767,-123.126873,1.0,1.0,13-Mar-25,Downtown,1.0,Fair price
+1281,"2708 - 10750 135a Street, Surrey",760000.0,For Sale,49.1975987,-122.8469471,2.0,2.0,13-Mar-25,Surrey,2.0,Fair price
+1282,"304 - 330 1st Street, North Vancouver",609900.0,For Sale,49.3151971,-123.0854774,2.0,1.0,13-Mar-25,North Vancouver,2.0,Lower priced
+1283,"301 - 9584 Manchester Drive, Burnaby",540000.0,For Sale,49.2464488,-122.8983909,1.0,1.0,13-Mar-25,Burnaby,1.0,Lower priced
+1284,"204 - 2940 King George Boulevard, Surrey",539000.0,For Sale,49.0558155,-122.8050079,2.0,1.0,13-Mar-25,Surrey,2.0,Lower priced
+1285,"15 - 16760 25 Avenue, Surrey",1094900.0,For Sale,49.0474388,-122.7576615,4.0,4.0,13-Mar-25,Surrey,4+,Lower priced
+1286,"13127 28 Avenue, Surrey",4000000.0,For Sale,49.05322,-122.85864,9.0,6.0,13-Mar-25,Surrey,4+,Over priced
+1287,"12101 84 Avenue, Surrey",1899000.0,For Sale,49.1561835,-122.8876373,8.0,5.0,13-Mar-25,Surrey,4+,Fair price
+1288,"10646 124a Street, Surrey",1999999.0,For Sale,49.1964126,-122.8781058,7.0,6.0,13-Mar-25,Surrey,4+,Fair price
+1291,"4078 Columbia Street, Vancouver",2359900.0,For Sale,49.2493169,-123.1098378,3.0,3.0,12-Mar-25,Riley Park,3.0,Over priced
+1292,"607 - 13325 102a Avenue, Surrey",445000.0,For Sale,49.189703,-122.8531374,1.0,1.0,12-Mar-25,Surrey,1.0,Lower priced
+1293,"47 - 3009 156 Street, Surrey",849888.0,For Sale,49.0567788,-122.7904765,3.0,3.0,12-Mar-25,Surrey,3.0,Fair price
+1294,"1102 - 909 Mainland Street, Vancouver",699000.0,For Sale,49.277704,-123.1178963,1.0,1.0,12-Mar-25,Downtown,1.0,Fair price
+1295,"1930 Kaptey Avenue, Coquitlam",2688000.0,For Sale,49.233837,-122.8418226,7.0,8.0,12-Mar-25,Coquitlam,4+,Over priced
+1297,"1788 49th Avenue, Vancouver",2768000.0,For Sale,49.2268259,-123.1472386,4.0,3.0,12-Mar-25,Kerrisdale,4+,Fair price
+1298,"301 - 985 W 10th Avenue, Vancouver",695000.0,For Sale,49.2627289,-123.1261712,1.0,1.0,12-Mar-25,Fairview,1.0,Lower priced
+1300,"619 - 6788 Minoru Boulevard, Richmond",688000.0,For Sale,49.1633761,-123.1400946,1.0,1.0,12-Mar-25,Richmond,1.0,Fair price
+1301,"111 - 6875 121 Street, Surrey",620000.0,For Sale,49.1279403,-122.8879789,2.0,2.0,12-Mar-25,Surrey,2.0,Fair price
+1302,"503 - 9689 140 Street, Surrey",459000.0,For Sale,49.1783974,-122.8347998,1.0,1.0,12-Mar-25,Surrey,1.0,Lower priced
+1303,"608 - 13978 Fraser Highway, Surrey",525900.0,For Sale,49.1786165,-122.8350304,2.0,1.0,12-Mar-25,Surrey,2.0,Lower priced
+1304,"502 - 1200 Georgia Street, Vancouver",719000.0,For Sale,49.287159,-123.1259569,1.0,1.0,12-Mar-25,West End,1.0,Fair price
+1305,"9511 Pinewell Crescent, Richmond",2350000.0,For Sale,49.1420941,-123.1194933,4.0,2.0,12-Mar-25,Richmond,4+,Fair price
+1306,"3101 - 1289 Hornby Street, Vancouver",689000.0,For Sale,49.2778952,-123.1297804,0.0,1.0,12-Mar-25,Downtown,0.0,Fair price
+1307,"12 - 8888 Spires Road, Richmond",1338000.0,For Sale,49.1671294,-123.130161,3.0,3.0,12-Mar-25,Richmond,3.0,Fair price
+1308,"3561 Sheffield Avenue, Coquitlam",1990000.0,For Sale,49.2981434,-122.7374358,4.0,4.0,12-Mar-25,Coquitlam,4+,Fair price
+1309,"12902 72a Avenue, Surrey",1199000.0,For Sale,49.1345564,-122.8653914,3.0,2.0,12-Mar-25,Surrey,3.0,Fair price
+1310,"11173 135a Street, Surrey",1299000.0,For Sale,49.205663,-122.8471785,3.0,2.0,12-Mar-25,Surrey,3.0,Fair price
+1311,"1 - 6700 Williams Road, Richmond",1499000.0,For Sale,49.140771,-123.149179,3.0,4.0,12-Mar-25,Richmond,3.0,Fair price
+1312,"421 - 15137 33 Avenue, Surrey",699000.0,For Sale,49.062797,-122.8024039,2.0,2.0,12-Mar-25,Surrey,2.0,Fair price
+1316,"6716 Ross Street, Vancouver",1699000.0,For Sale,49.2232889,-123.0826051,6.0,2.0,12-Mar-25,Sunset,4+,Lower priced
+1317,"2008 - 505 Nelson Street, Coquitlam",854900.0,For Sale,49.2494204,-122.8649479,2.0,1.0,12-Mar-25,Coquitlam,2.0,Fair price
+1318,"2502 - 505 Nelson Street, Coquitlam",1329900.0,For Sale,49.2494204,-122.8649479,2.0,2.0,12-Mar-25,Coquitlam,2.0,Over priced
+1319,"1010 Howe Street, Vancouver",579900.0,For Sale,49.2796103,-123.1240422,1.0,1.0,12-Mar-25,Downtown,1.0,Lower priced
+1320,"5404 - 4880 Lougheed Highway, Burnaby",3389400.0,For Sale,49.2652118,-122.9944925,3.0,4.0,12-Mar-25,Burnaby,3.0,Over priced
+1321,"1711 - 4168 Lougheed Highway, Burnaby",588000.0,For Sale,49.2660541,-123.0118677,1.0,1.0,12-Mar-25,Burnaby,1.0,Fair price
+1322,"2564 15th Avenue, Vancouver",1948000.0,For Sale,49.2581775,-123.1640987,4.0,4.0,12-Mar-25,Kitsilano,4+,Fair price
+1323,"9411 Florimond Road, Richmond",3058000.0,For Sale,49.1439428,-123.1922146,5.0,6.0,12-Mar-25,Richmond,4+,Over priced
+1324,"4585 Cove Cliff Road, North Vancouver",1999000.0,For Sale,49.3214319,-122.9444823,7.0,3.0,12-Mar-25,others,4+,Fair price
+1325,"2566 Marine Drive, West Vancouver",4198000.0,For Sale,49.3351398,-123.1844414,5.0,7.0,12-Mar-25,West Vancouver,4+,Fair price
+1326,"507 - 175 Broadway , Vancouver",350000.0,For Sale,49.2633339,-123.1085329,1.0,1.0,12-Mar-25,Mount Pleasant,1.0,Lower priced
+1327,"5 - 6138 Birney Avenue, Vancouver",2088000.0,For Sale,49.2524047,-123.2372044,3.0,3.0,12-Mar-25,others,3.0,Over priced
+1328,"2801 - 7303 Noble Lane Lane, Burnaby",634900.0,For Sale,49.2194426,-122.9491631,1.0,1.0,12-Mar-25,Burnaby,1.0,Fair price
+1329,"506 - 13458 95 Avenue, Surrey",499000.0,For Sale,49.1747077,-122.8104842,1.0,1.0,12-Mar-25,Surrey,1.0,Fair price
+1330,"3578 Garry Street, Richmond",1799000.0,For Sale,49.1290318,-123.1856834,4.0,3.0,12-Mar-25,Richmond,4+,Fair price
+1331,"6300 Riverdale Drive, Richmond",4980000.0,For Sale,49.1674771,-123.1745766,5.0,6.0,12-Mar-25,Richmond,4+,Over priced
+1332,"911 - 4168 Lougheed Highway, Burnaby",579000.0,For Sale,49.2660541,-123.0118677,1.0,1.0,12-Mar-25,Burnaby,1.0,Fair price
+1333,"406 - 1601 Quebec Street, Vancouver",1695000.0,For Sale,49.2715566,-123.1027944,2.0,2.0,12-Mar-25,Mount Pleasant,2.0,Fair price
+1334,"2331 49th Avenue, Vancouver",1738000.0,For Sale,49.2275727,-123.1605917,5.0,4.0,12-Mar-25,Kerrisdale,4+,Lower priced
+1335,"PH9 - 955 Hastings Street, Vancouver",828000.0,For Sale,49.281249,-123.0833468,2.0,2.0,12-Mar-25,Strathcona,2.0,Lower priced
+1336,"521 - 7008 River Parkway, Richmond",589000.0,For Sale,49.1767865,-123.1437497,1.0,1.0,12-Mar-25,Richmond,1.0,Fair price
+1337,"1403 - 8133 Cook Road, Richmond",950000.0,For Sale,49.166857,-123.134926,2.0,2.0,12-Mar-25,Richmond,2.0,Fair price
+1338,"1701 - 4168 Lougheed Highway, Burnaby",588000.0,For Sale,49.2660541,-123.0118677,2.0,3.0,12-Mar-25,Burnaby,2.0,Lower priced
+1339,"41 - 4800 Trimaran Drive, Richmond",959000.0,For Sale,49.132841,-123.170586,1.0,1.0,12-Mar-25,Richmond,1.0,Over priced
+1340,"5 - 9762 182a Street, Surrey",1099999.0,For Sale,49.1800576,-122.7156402,3.0,2.0,12-Mar-25,Surrey,3.0,Fair price
+1341,"408 - 10333 133 Street, Surrey",369900.0,For Sale,49.1905171,-122.8554685,4.0,4.0,12-Mar-25,Surrey,4+,Lower priced
+1342,"11539 96 Avenue, Surrey",1499000.0,For Sale,49.1773763,-122.9029703,3.0,2.0,12-Mar-25,Surrey,3.0,Over priced
+1344,"2209 7th Avenue, Vancouver",1749000.0,For Sale,49.2644757,-123.0597404,3.0,4.0,12-Mar-25,Grandview-Woodland,3.0,Fair price
+1345,"7 - 10900 No. 2 Road, Richmond",1499990.0,For Sale,49.134282,-123.158103,3.0,3.0,12-Mar-25,Richmond,3.0,Fair price
+1346,"105 - 2550 Garden Drive, Vancouver",779900.0,For Sale,49.2616262,-123.0577789,1.0,1.0,12-Mar-25,Kensington-Cedar Cottage,1.0,Lower priced
+1347,"75 - 8111 Saunders Road, Richmond",998800.0,For Sale,49.1443785,-123.1358066,3.0,3.0,12-Mar-25,Richmond,3.0,Lower priced
+1348,"106 - 2550 Garden Drive, Vancouver",664900.0,For Sale,49.2616262,-123.0577789,0.0,1.0,12-Mar-25,Kensington-Cedar Cottage,0.0,Fair price
+1349,"2602 - 1401 Hunter Street, North Vancouver",1839900.0,For Sale,49.310499,-123.0347028,2.0,3.0,12-Mar-25,others,2.0,Over priced
+1350,"2 - 13930 72 Avenue, Surrey",829900.0,For Sale,49.1329307,-122.835279,3.0,3.0,12-Mar-25,Surrey,3.0,Fair price
+1351,"51 Sea Avenue, Burnaby",1998000.0,For Sale,49.2847377,-122.9798452,3.0,2.0,12-Mar-25,Burnaby,3.0,Over priced
+1352,"15674 101a Avenue, Surrey",1899000.0,For Sale,49.1868746,-122.7876591,5.0,3.0,12-Mar-25,Surrey,4+,Fair price
+1353,"2712- - 2712 176 Street, Surrey",15800000.0,For Sale,49.0511007,-122.7348114,5.0,3.0,12-Mar-25,Surrey,4+,Over priced
+1354,"827 Quadling Avenue, Coquitlam",1650000.0,For Sale,49.2410905,-122.8743776,1.0,1.0,12-Mar-25,Coquitlam,1.0,Over priced
+1355,"13354 61 Avenue, Surrey",1345000.0,For Sale,49.1133663,-122.8527153,3.0,2.0,12-Mar-25,Surrey,3.0,Over priced
+1356,"13052 64 Avenue, Surrey",1849888.0,For Sale,49.1187771,-122.8609658,7.0,4.0,12-Mar-25,Surrey,4+,Fair price
+1359,"104 - 15165 Thrift Avenue, Surrey",1125000.0,For Sale,49.0278052,-122.802849,3.0,3.0,12-Mar-25,others,3.0,Fair price
+1360,"1110 - 7488 Lansdowne Road, Richmond",866000.0,For Sale,49.173602,-123.1463351,2.0,2.0,12-Mar-25,Richmond,2.0,Fair price
+1361,"1306 - 6036 Gray Avenue, Vancouver",1408800.0,For Sale,49.2519168,-123.2357184,2.0,2.0,12-Mar-25,others,2.0,Fair price
+1362,"409 - 14377 103 Avenue, Surrey",540000.0,For Sale,49.1899088,-122.8239848,2.0,2.0,12-Mar-25,Surrey,2.0,Lower priced
+1363,"421 - 2970 King George Boulevard, Surrey",735900.0,For Sale,49.0564346,-122.8053519,2.0,2.0,12-Mar-25,Surrey,2.0,Fair price
+1364,"2005 - 4400 Buchanan Street, Burnaby",709000.0,For Sale,49.2672914,-123.0050272,1.0,1.0,12-Mar-25,Burnaby,1.0,Over priced
+1365,"401 - 12739 72 Avenue, Surrey",580000.0,For Sale,49.1351048,-122.8689397,4.0,3.0,12-Mar-25,Surrey,4+,Lower priced
+1366,"103 - 626 Claremont Street, Coquitlam",949900.0,For Sale,49.2642605,-122.8902506,2.0,2.0,12-Mar-25,Coquitlam,2.0,Fair price
+1367,"1342 24 Avenue, Vancouver",1270000.0,For Sale,49.2487806,-123.0772013,5.0,3.0,12-Mar-25,Kensington-Cedar Cottage,4+,Lower priced
+1368,"14084 17b Avenue, Surrey",1794000.0,For Sale,49.0336547,-122.8319401,7.0,4.0,12-Mar-25,Surrey,4+,Fair price
+1370,"4610 - 1480 Howe Street, Vancouver",625000.0,For Sale,49.2749438,-123.1312301,0.0,1.0,12-Mar-25,Downtown,0.0,Fair price
+1371,"4059 Arbutus Street, Vancouver",1450000.0,For Sale,49.2499547,-123.1534768,2.0,2.0,12-Mar-25,Arbutus Ridge,2.0,Fair price
+1372,"14 - 6138 Birney Avenue, Vancouver",2288000.0,For Sale,49.2524047,-123.2372044,3.0,3.0,12-Mar-25,others,3.0,Over priced
+1373,"1 - 12251 No. 2 Road, Richmond",968800.0,For Sale,49.124177,-123.159151,2.0,3.0,12-Mar-25,Richmond,2.0,Fair price
+1374,"211 - 19340 65 Avenue, Surrey",565000.0,For Sale,49.1219699,-122.687301,2.0,2.0,12-Mar-25,Surrey,2.0,Lower priced
+1375,"103 - 19433 68 Avenue, Surrey",799900.0,For Sale,49.1273465,-122.6828341,3.0,2.0,12-Mar-25,Surrey,3.0,Fair price
+1376,"103 - 15298 20 Avenue, Surrey",599900.0,For Sale,49.037903,-122.7984715,2.0,2.0,12-Mar-25,Surrey,2.0,Fair price
+1378,"3171 4th Avenue, Vancouver",849000.0,For Sale,49.2686411,-123.1752409,2.0,2.0,12-Mar-25,Kitsilano,2.0,Lower priced
+1379,"4 - 8651 Blundell Road, Richmond",1298000.0,For Sale,49.1557074,-123.1278906,4.0,3.0,12-Mar-25,Richmond,4+,Lower priced
+1380,"6370 Ross Street, Vancouver",1958000.0,For Sale,49.2264252,-123.0822388,5.0,3.0,12-Mar-25,Sunset,4+,Fair price
+1381,"71 - 15665 Mountain View Drive, Surrey",1189900.0,For Sale,49.055434,-122.7881231,4.0,4.0,12-Mar-25,Surrey,4+,Lower priced
+1382,"19A - 1500 Alberni Street, Vancouver",2450000.0,For Sale,49.289506,-123.13059,3.0,4.0,12-Mar-25,West End,3.0,Fair price
+1383,"10182 173 Street, Surrey",4600000.0,For Sale,49.1873999,-122.74242,3.0,3.0,12-Mar-25,Surrey,3.0,Over priced
+1384,"4463 14th Avenue, Vancouver",3275000.0,For Sale,49.2604081,-123.2082158,5.0,2.0,12-Mar-25,West Point Grey,4+,Lower priced
+1385,"11266 163 Street, Surrey",2499999.0,For Sale,49.2077272,-122.7704121,8.0,6.0,12-Mar-25,Surrey,4+,Over priced
+1387,"809 - 185 Victory Ship Way, North Vancouver",1399000.0,For Sale,49.3092486,-123.0775303,1.0,1.0,12-Mar-25,North Vancouver,1.0,Over priced
+1388,"4238 Albert Street, Burnaby",709000.0,For Sale,49.2818122,-123.0103369,2.0,2.0,12-Mar-25,Burnaby,2.0,Fair price
+1389,"4301 - 2135 Springer Avenue, Burnaby",2988800.0,For Sale,49.2646662,-122.9877149,2.0,1.0,12-Mar-25,Burnaby,2.0,Over priced
+1390,"306 - 3596 Malsum Drive, North Vancouver",554900.0,For Sale,49.3112441,-122.9723132,3.0,3.0,12-Mar-25,others,3.0,Lower priced
+1391,"3205 - 2135 Springer Avenue, Burnaby",874900.0,For Sale,49.2646662,-122.9877149,1.0,1.0,12-Mar-25,Burnaby,1.0,Over priced
+1392,"79 - 1125 Kensal Place, Coquitlam",1189000.0,For Sale,49.2798846,-122.7830121,3.0,3.0,12-Mar-25,Coquitlam,3.0,Fair price
+1393,"2903 - 10750 135a Street, Surrey",545000.0,For Sale,49.1975987,-122.8469471,1.0,1.0,12-Mar-25,Surrey,1.0,Fair price
+1394,"522 - 3528 146a Street, Surrey",534000.0,For Sale,49.0658678,-122.816853,1.0,1.0,12-Mar-25,Surrey,1.0,Fair price
+1396,"4 - 16685 25 Avenue, Surrey",919000.0,For Sale,49.0476262,-122.7606607,2.0,2.0,12-Mar-25,Surrey,2.0,Over priced
+1397,"315 - 161 1st Avenue, Vancouver",579000.0,For Sale,49.2704384,-123.1086432,3.0,3.0,12-Mar-25,Mount Pleasant,3.0,Fair price
+1398,"615 6th Street, North Vancouver",4158000.0,For Sale,49.311279,-123.0595408,9.0,8.0,12-Mar-25,North Vancouver,4+,Over priced
+1399,"4401 - 2135 Springer Avenue, Burnaby",3188800.0,For Sale,49.2646662,-122.9877149,2.0,2.0,12-Mar-25,Burnaby,2.0,Over priced
+1400,"15703 101 Avenue, Surrey",1399900.0,For Sale,49.1859949,-122.7870012,4.0,4.0,12-Mar-25,Surrey,4+,Fair price
+1401,"809 - 159 2nd Avenue, Vancouver",849900.0,For Sale,49.2695849,-123.1080183,2.0,1.0,12-Mar-25,Mount Pleasant,2.0,Lower priced
+1402,"15870 106 Avenue, Surrey",1798000.0,For Sale,49.1949806,-122.7822615,7.0,5.0,12-Mar-25,Surrey,4+,Fair price
+1403,"1003 - 1500 Howe Street, Vancouver",678000.0,For Sale,49.2742243,-123.1319223,3.0,2.0,12-Mar-25,Downtown,3.0,Lower priced
+1404,"3963 20th Avenue, Vancouver",4498000.0,For Sale,49.254933,-123.1925613,3.0,4.0,12-Mar-25,Dunbar-Southlands,3.0,Over priced
+1405,"46 - 3306 Princeton Avenue, Coquitlam",1693900.0,For Sale,49.29789,-122.76267,4.0,5.0,12-Mar-25,Coquitlam,4+,Fair price
+1406,"603 - 1771 Nelson Street, Vancouver",888800.0,For Sale,49.2892701,-123.1380367,2.0,2.0,12-Mar-25,West End,2.0,Lower priced
+1407,"2603 - 5470 Ormidale Street, Vancouver",628000.0,For Sale,49.2345014,-123.0245368,1.0,1.0,12-Mar-25,Renfrew-Collingwood,1.0,Fair price
+1408,"311 - 4363 Halifax Street, Burnaby",449000.0,For Sale,49.2686866,-123.0077312,4.0,3.0,12-Mar-25,Burnaby,4+,Lower priced
+1409,"6848 135 Street, Surrey",1599000.0,For Sale,49.1270734,-122.8480786,4.0,3.0,12-Mar-25,Surrey,4+,Fair price
+1410,"12 - 205 Lebleu Street, Coquitlam",819900.0,For Sale,49.23807,-122.867111,4.0,3.0,12-Mar-25,Coquitlam,4+,Lower priced
+1411,"3009 - 6588 Nelson Avenue, Burnaby",865000.0,For Sale,49.2237464,-122.9939888,4.0,2.0,12-Mar-25,Burnaby,4+,Lower priced
+1412,"801 - 209 7th Avenue, Vancouver",1599900.0,For Sale,49.2648456,-123.1004174,2.0,2.0,12-Mar-25,Mount Pleasant,2.0,Fair price
+1413,"11275 124 Street, Surrey",13769000.0,For Sale,49.2075699,-122.87888,4.0,3.0,12-Mar-25,Surrey,4+,Over priced
+1414,"2103 - 1289 Hornby Street, Vancouver",625000.0,For Sale,49.2778952,-123.1297804,0.0,1.0,12-Mar-25,Downtown,0.0,Fair price
+1415,"14 - 22800 Windsor Court, Richmond",899900.0,For Sale,49.1713615,-122.9715966,3.0,3.0,12-Mar-25,Richmond,3.0,Lower priced
+1416,"3210 23rd Avenue, Vancouver",2339000.0,For Sale,49.2494531,-123.0362574,3.0,2.0,12-Mar-25,Renfrew-Collingwood,3.0,Over priced
+1417,"3786 Brandon Street, Burnaby",1888000.0,For Sale,49.2382759,-123.0203526,2.0,1.0,12-Mar-25,Burnaby,2.0,Over priced
+1418,"1004 - 1182 Westwood Street, Coquitlam",789000.0,For Sale,49.2821613,-122.7909896,5.0,4.0,12-Mar-25,Coquitlam,4+,Lower priced
+1419,"2891 138 Street, Surrey",6180000.0,For Sale,49.0546678,-122.8404781,8.0,9.0,12-Mar-25,Surrey,4+,Over priced
+1420,"408 - 5681 Birney Avenue, Vancouver",788000.0,For Sale,49.2548732,-123.2315542,1.0,1.0,12-Mar-25,others,1.0,Fair price
+1422,"620 54th Avenue, Vancouver",1468000.0,For Sale,49.221577,-123.1193602,4.0,4.0,12-Mar-25,Oakridge,4+,Lower priced
+1423,"58 - 7848 170 Street, Surrey",979900.0,For Sale,49.1441053,-122.7519629,3.0,4.0,12-Mar-25,Surrey,3.0,Fair price
+1424,"201 - 1640 11th Avenue, Vancouver",699000.0,For Sale,49.2615197,-123.1420931,1.0,1.0,12-Mar-25,Fairview,1.0,Fair price
+1425,"3168 16th Avenue, Vancouver",1950000.0,For Sale,49.2553983,-123.0375573,3.0,2.0,12-Mar-25,Renfrew-Collingwood,3.0,Over priced
+1426,"66 - 5950 Oakdale Road, Burnaby",1588000.0,For Sale,49.2306129,-122.9854359,4.0,3.0,12-Mar-25,Burnaby,4+,Lower priced
+1427,"1560 10th Avenue, Vancouver",1699000.0,For Sale,49.2611383,-123.0721228,4.0,4.0,12-Mar-25,Kensington-Cedar Cottage,4+,Lower priced
+1428,"513 - 888 Beach Avenue, Vancouver",1075000.0,For Sale,49.2747034,-123.1321662,2.0,2.0,12-Mar-25,Downtown,2.0,Fair price
+1429,"104 - 7633 St. Albans Road, Richmond",938000.0,For Sale,49.1570782,-123.1315074,3.0,2.0,12-Mar-25,Richmond,3.0,Lower priced
+1430,"510 - 423 6th Street, West Vancouver",1533900.0,For Sale,49.3292842,-123.1321275,2.0,2.0,12-Mar-25,West Vancouver,2.0,Fair price
+1431,"1892 Bluff Way, Coquitlam",1230000.0,For Sale,49.289557,-122.7661269,3.0,3.0,12-Mar-25,Coquitlam,3.0,Fair price
+1432,"6560 Williams Road, Richmond",2338000.0,For Sale,49.1407011,-123.1506823,7.0,5.0,12-Mar-25,Richmond,4+,Fair price
+1433,"314 - 15185 22 Avenue, Surrey",849888.0,For Sale,49.0422998,-122.802005,2.0,2.0,12-Mar-25,Surrey,2.0,Fair price
+1434,"7869 167 Street, Surrey",2800000.0,For Sale,49.14584,-122.75961,10.0,9.0,12-Mar-25,Surrey,4+,Over priced
+1435,"307 - 4223 Hastings Street, Burnaby",780000.0,For Sale,49.2812218,-123.010535,3.0,2.0,12-Mar-25,Burnaby,3.0,Lower priced
+1436,"7165 Paulus Crescent, Burnaby",3399000.0,For Sale,49.2624175,-122.9550507,10.0,7.0,12-Mar-25,Burnaby,4+,Over priced
+1437,"13 - 7180 Gilbert Road, Richmond",1480000.0,For Sale,49.1610232,-123.1474451,4.0,4.0,11-Mar-25,Richmond,4+,Lower priced
+1438,"3006 - 9887 Whalley Boulevard , Surrey",499000.0,For Sale,49.1827181,-122.8434076,1.0,1.0,11-Mar-25,Surrey,1.0,Fair price
+1440,"2706 1788 Gilmore Street, Burnaby",939800.0,For Sale,49.2683079,-123.0139243,4.0,4.0,11-Mar-25,Burnaby,4+,Lower priced
+1441,"1203 - 2289 Yukon Crescent, Burnaby",699900.0,For Sale,49.2641593,-122.9951908,2.0,2.0,11-Mar-25,Burnaby,2.0,Lower priced
+1442,"6108 - 4510 Halifax Way, Burnaby",1688000.0,For Sale,49.2679236,-123.0025005,3.0,3.0,11-Mar-25,Burnaby,3.0,Over priced
+1443,"605 - 151 2nd Street, North Vancouver",858000.0,For Sale,49.311936,-123.0761264,2.0,2.0,11-Mar-25,North Vancouver,2.0,Fair price
+1444,"1407 Bramwell Road, West Vancouver",7580000.0,For Sale,49.3512802,-123.1533773,5.0,6.0,11-Mar-25,West Vancouver,4+,Over priced
+1445,"560 - 108 1st Avenue, Vancouver",958000.0,For Sale,49.2700879,-123.1069769,2.0,2.0,11-Mar-25,Mount Pleasant,2.0,Lower priced
+1446,"1904 - 5189 Gaston Street, Vancouver",699000.0,For Sale,49.2369867,-123.0307978,2.0,2.0,11-Mar-25,Renfrew-Collingwood,2.0,Lower priced
+1447,"606 - 889 Pacific Street, Vancouver",1360000.0,For Sale,49.276339,-123.1310434,2.0,2.0,11-Mar-25,Downtown,2.0,Fair price
+1448,"13 - 6288 Beresford Street, Burnaby",1099000.0,For Sale,49.2169616,-122.9724411,2.0,2.0,11-Mar-25,Burnaby,2.0,Over priced
+1449,"113 - 15875 20 Avenue, Surrey",679000.0,For Sale,49.0395445,-122.7840303,3.0,2.0,11-Mar-25,Surrey,3.0,Lower priced
+1450,"403 Beach Crescent, Vancouver",4790000.0,For Sale,49.2718811,-123.1268982,4.0,3.0,11-Mar-25,Downtown,4+,Over priced
+1452,"15542 58a Avenue, Surrey",1849999.0,For Sale,49.108577,-122.7915114,4.0,3.0,14-Mar-25,Surrey,4+,Fair price
+1453,"5936 128 Street, Surrey",1599869.0,For Sale,49.1104667,-122.8674332,7.0,7.0,14-Mar-25,Surrey,4+,Fair price
+1454,"404 - 2228 Marstrand Avenue, Vancouver",1198000.0,For Sale,49.2622237,-123.1560172,2.0,2.0,14-Mar-25,Kitsilano,2.0,Fair price
+1455,"3206 - 688 Abbott Street, Vancouver",899000.0,For Sale,49.278892,-123.1074245,3.0,2.0,14-Mar-25,Downtown,3.0,Lower priced
+1456,"1 - 638 46th Avenue, Vancouver",1649900.0,For Sale,49.2280965,-123.0918892,3.0,4.0,14-Mar-25,Sunset,3.0,Lower priced
+1457,"408 20th Avenue, Vancouver",3249000.0,For Sale,49.2526791,-123.112954,0.0,0.0,14-Mar-25,Riley Park,0.0,Fair price
+1458,"2962 Mathers Crescent, West Vancouver",13998000.0,For Sale,49.3400326,-123.1965171,5.0,7.0,14-Mar-25,West Vancouver,4+,Over priced
+1459,"14433 33a Avenue, Surrey",3698000.0,For Sale,49.0630023,-122.8224265,7.0,6.0,14-Mar-25,Surrey,4+,Over priced
+1460,"9791 No. 4 Road, Richmond",2428888.0,For Sale,49.1425114,-123.1145216,4.0,4.0,14-Mar-25,Richmond,4+,Fair price
+1461,"4391 Stonecrop Avenue, Richmond",2950000.0,For Sale,49.1667246,-123.1766134,5.0,4.0,14-Mar-25,Richmond,4+,Over priced
+1462,"2045 183 Street, Surrey",3088000.0,For Sale,49.0393246,-122.7165954,5.0,6.0,14-Mar-25,Surrey,4+,Over priced
+1463,"4311 Pine Crescent, Vancouver",8380000.0,For Sale,49.2473564,-123.1479608,6.0,7.0,14-Mar-25,Shaughnessy,4+,Over priced
+1464,"9777 177b Street, Surrey",1949000.0,For Sale,49.1809751,-122.7296668,9.0,8.0,14-Mar-25,Surrey,4+,Fair price
+1465,"2 - 638 46th Avenue, Vancouver",1738800.0,For Sale,49.2280965,-123.0918892,3.0,4.0,14-Mar-25,Sunset,3.0,Fair price
+1466,"65 - 2533 152 Street, Surrey",999898.0,For Sale,49.0479422,-122.8016421,2.0,2.0,14-Mar-25,Surrey,2.0,Over priced
+1467,"708 - 3888 Evergreen Place, Burnaby",879000.0,For Sale,49.2495599,-122.893743,2.0,2.0,14-Mar-25,Burnaby,2.0,Fair price
+1468,"405 - 102 Begin Street, Coquitlam",588888.0,For Sale,49.2387543,-122.8601164,2.0,2.0,14-Mar-25,Coquitlam,2.0,Lower priced
+1469,"315 - 10777 138 Street, Surrey",345900.0,For Sale,49.1985535,-122.8400167,4.0,2.0,14-Mar-25,Surrey,4+,Lower priced
+1470,"8 - 6840 Lynas Lane, Richmond",738888.0,For Sale,49.1630841,-123.1639306,2.0,2.0,14-Mar-25,Richmond,2.0,Fair price
+1471,"7345 Braeside Drive, Burnaby",2880000.0,For Sale,49.2868082,-122.9501779,5.0,2.0,14-Mar-25,Burnaby,4+,Over priced
+1472,"6170 150 Street, Surrey",1349888.0,For Sale,49.11496,-122.8063296,5.0,4.0,14-Mar-25,Surrey,4+,Fair price
+1474,"304 - 3888 Evergreen Place, Burnaby",849000.0,For Sale,49.2495599,-122.893743,2.0,2.0,14-Mar-25,Burnaby,2.0,Fair price
+1475,"224 - 6628 120 Street, Surrey",649000.0,For Sale,49.1235454,-122.8899272,2.0,2.0,14-Mar-25,Surrey,2.0,Fair price
+1476,"3362 Scotch Pine Avenue, Coquitlam",2650000.0,For Sale,49.3042885,-122.7589164,4.0,6.0,14-Mar-25,Coquitlam,4+,Over priced
+1477,"2055 53rd Avenue, Vancouver",5099000.0,For Sale,49.2230929,-123.1540829,4.0,3.0,14-Mar-25,Kerrisdale,4+,Fair price
+1478,"14028 Grosvenor Road, Surrey",1699900.0,For Sale,49.2051819,-122.8333457,6.0,5.0,14-Mar-25,Surrey,4+,Fair price
+1479,"18310 Claytonwood Crescent, Surrey",2099900.0,For Sale,49.1193575,-122.7151507,6.0,6.0,14-Mar-25,Surrey,4+,Over priced
+1480,"5488 184a Street, Surrey",2189900.0,For Sale,49.1024997,-122.7108178,8.0,8.0,14-Mar-25,Surrey,4+,Over priced
+1482,"3186 Grant Street, Vancouver",1775000.0,For Sale,49.2711447,-123.0368707,4.0,4.0,14-Mar-25,Hastings-Sunrise,4+,Lower priced
+1483,"310 - 55 Cordova Street, Vancouver",599000.0,For Sale,49.2828753,-123.1056654,5.0,4.0,14-Mar-25,Downtown,4+,Lower priced
+1484,"602 - 6811 Pearson Way, Richmond",2999000.0,For Sale,49.1765483,-123.1484157,3.0,3.0,14-Mar-25,Richmond,3.0,Over priced
+1485,"272 Waterleigh Drive, Vancouver",1438000.0,For Sale,49.215569,-123.1111283,3.0,3.0,14-Mar-25,Marpole,3.0,Lower priced
+1486,"6 - 10698 151a Street, Surrey",468000.0,For Sale,49.1969961,-122.8019712,2.0,1.0,14-Mar-25,Surrey,2.0,Lower priced
+1487,"107 - 1292 Rosenburg Way, Coquitlam",1299900.0,For Sale,49.290302,-122.7390742,3.0,2.0,14-Mar-25,Coquitlam,3.0,Fair price
+1488,"103 - 1292 Rosenburg Way, Coquitlam",1119900.0,For Sale,49.290302,-122.7390742,2.0,1.0,14-Mar-25,Coquitlam,2.0,Over priced
+1489,"937 Montroyal Boulevard, North Vancouver",2588000.0,For Sale,49.3559669,-123.0963164,6.0,3.0,14-Mar-25,others,4+,Fair price
+1490,"5591 Clarendon Street, Vancouver",2399000.0,For Sale,49.2340555,-123.0557453,7.0,3.0,14-Mar-25,Renfrew-Collingwood,4+,Fair price
+1491,"13131 92 Avenue, Surrey",1649000.0,For Sale,49.1700885,-122.858499,6.0,4.0,14-Mar-25,Surrey,4+,Fair price
+1492,"319 Casey Street, Coquitlam",1599999.0,For Sale,49.241931,-122.8545793,5.0,4.0,14-Mar-25,Coquitlam,4+,Fair price
+1493,"3401 Horizon Drive, Coquitlam",2180000.0,For Sale,49.3025961,-122.7538677,4.0,4.0,14-Mar-25,Coquitlam,4+,Fair price
+1495,"187 King Edward Ave Street, Vancouver",799900.0,For Sale,49.2489801,-123.1014819,1.0,1.0,14-Mar-25,Riley Park,1.0,Over priced
+1496,"39 - 2672 151 Street, Surrey",1050000.0,For Sale,49.0504165,-122.8036294,2.0,2.0,14-Mar-25,Surrey,2.0,Over priced
+1497,"1504 - 6328 No. 3 Road, Richmond",548900.0,For Sale,49.1673987,-123.1350476,1.0,1.0,14-Mar-25,Richmond,1.0,Lower priced
+1498,"27 - 10130 155 Street, Surrey",849999.0,For Sale,49.1865615,-122.7922435,3.0,3.0,14-Mar-25,Surrey,3.0,Fair price
+1499,"507 - 5333 Goring Street, Burnaby",599900.0,For Sale,49.2632593,-122.986531,1.0,1.0,14-Mar-25,Burnaby,1.0,Fair price
+1500,"16775 18 Avenue, Surrey",2100000.0,For Sale,49.0349059,-122.7579714,3.0,3.0,14-Mar-25,Surrey,3.0,Over priced
+1502,"14026 Grosvenor Road, Surrey",1899980.0,For Sale,49.2051528,-122.8335348,4.0,4.0,14-Mar-25,Surrey,4+,Fair price
+1503,"322 - 159 2nd Avenue, Vancouver",562500.0,For Sale,49.2695849,-123.1080183,3.0,4.0,14-Mar-25,Mount Pleasant,3.0,Lower priced
+1504,"1010 - 1331 Alberni Street, Vancouver",529900.0,For Sale,49.2882466,-123.1276892,0.0,1.0,14-Mar-25,West End,0.0,Fair price
+1505,"305 - 15138 34 Avenue, Surrey",589900.0,For Sale,49.063424,-122.803148,1.0,1.0,14-Mar-25,Surrey,1.0,Fair price
+1506,"3901 - 1283 Howe Street, Vancouver",679000.0,For Sale,49.2771293,-123.1286393,1.0,1.0,14-Mar-25,Downtown,1.0,Fair price
+1507,"73 - 19551 66 Avenue, Surrey",864800.0,For Sale,49.1244874,-122.6815629,3.0,3.0,14-Mar-25,Surrey,3.0,Fair price
+1508,"612 - 629 Cottonwood Avenue, Coquitlam",814900.0,For Sale,49.2590175,-122.8841091,2.0,2.0,14-Mar-25,Coquitlam,2.0,Fair price
+1509,"201 - 10061 150 Street, Surrey",499900.0,For Sale,49.1852491,-122.8069127,2.0,1.0,14-Mar-25,Surrey,2.0,Lower priced
+1510,"3521 Galloway Avenue, Coquitlam",2189000.0,For Sale,49.2965742,-122.7420235,6.0,5.0,14-Mar-25,Coquitlam,4+,Fair price
+1511,"8211 No. 3 Road, Richmond",1590000.0,For Sale,49.153414,-123.1371033,1.0,0.0,14-Mar-25,Richmond,1.0,Over priced
+1512,"1645 Pinetree Way, Coquitlam",1750000.0,For Sale,49.3060634,-122.7837426,7.0,4.0,14-Mar-25,Coquitlam,4+,Fair price
+1513,"411 - 181 1st Avenue, Vancouver",799900.0,For Sale,49.2706728,-123.1091484,2.0,2.0,14-Mar-25,Mount Pleasant,2.0,Lower priced
+1514,"2702 - 668 Citadel Parade, Vancouver",996000.0,For Sale,49.2787071,-123.1107548,3.0,4.0,14-Mar-25,Downtown,3.0,Fair price
+1515,"2406 12th Avenue, Vancouver",1249900.0,For Sale,49.2608761,-123.1604001,2.0,2.0,14-Mar-25,Kitsilano,2.0,Fair price
+1516,"302 - 921 Thurlow Street, Vancouver",599900.0,For Sale,49.2835006,-123.1268451,1.0,1.0,14-Mar-25,West End,1.0,Fair price
+1517,"2207 - 10620 150 Street, Surrey",600000.0,For Sale,49.1961788,-122.8049788,2.0,2.0,14-Mar-25,Surrey,2.0,Fair price
+1518,"2351 Christopherson Road, Surrey",3998000.0,For Sale,49.0450058,-122.8831578,1.0,2.0,14-Mar-25,Surrey,1.0,Over priced
+1520,"506 - 633 Abbott Street, Vancouver",939800.0,For Sale,49.2793229,-123.1078923,2.0,1.0,14-Mar-25,Downtown,2.0,Fair price
+1522,"742 23rd Avenue, Vancouver",2399000.0,For Sale,49.2498554,-123.0889077,4.0,4.0,14-Mar-25,Kensington-Cedar Cottage,4+,Over priced
+1523,"17161 57 Avenue, Surrey",1599000.0,For Sale,49.1061448,-122.7471457,5.0,3.0,14-Mar-25,Surrey,4+,Fair price
+1524,"18262 56a Avenue, Surrey",1399900.0,For Sale,49.1045333,-122.7165759,6.0,4.0,14-Mar-25,Surrey,4+,Fair price
+1525,"5887 184b Street, Surrey",1448800.0,For Sale,49.1094619,-122.7104637,2.0,1.0,14-Mar-25,Surrey,2.0,Over priced
+1526,"14197 Bear Creek Drive, Surrey",1579980.0,For Sale,49.149566,-122.8305129,5.0,3.0,14-Mar-25,Surrey,4+,Fair price
+1527,"8 - 19250 65 Avenue, Surrey",849000.0,For Sale,49.1213929,-122.6900255,3.0,3.0,14-Mar-25,Surrey,3.0,Fair price
+1528,"11919 96 Avenue, Surrey",1849000.0,For Sale,49.1774764,-122.8926267,8.0,5.0,14-Mar-25,Surrey,4+,Fair price
+1529,"8358 144 Street, Surrey",1775000.0,For Sale,49.1548712,-122.8228997,8.0,6.0,14-Mar-25,Surrey,4+,Fair price
+1530,"12248 72 Avenue, Surrey",1099000.0,For Sale,49.1337262,-122.8835427,4.0,3.0,14-Mar-25,Surrey,4+,Lower priced
+1531,"16589 50 Avenue, Surrey",3099900.0,For Sale,49.09338,-122.76306,3.0,2.0,14-Mar-25,Surrey,3.0,Over priced
+1532,"1501 - 108 Cordova Street, Vancouver",839000.0,For Sale,49.2827534,-123.1072059,1.0,1.0,14-Mar-25,Downtown,1.0,Fair price
+1533,"2303 - 1189 Melville Street, Vancouver",1136000.0,For Sale,49.2879593,-123.1236556,2.0,2.0,14-Mar-25,Downtown,2.0,Fair price
+1534,"1106 - 10777 University Drive, Surrey",389900.0,For Sale,49.1984084,-122.8513645,1.0,1.0,14-Mar-25,Surrey,1.0,Lower priced
+1535,"440 Newlands Road, West Vancouver",3488000.0,For Sale,49.3350876,-123.1285701,4.0,4.0,14-Mar-25,West Vancouver,4+,Fair price
+1537,"318 - 1500 Fern Street, North Vancouver",985000.0,For Sale,49.3124443,-123.0323779,1.0,1.0,14-Mar-25,others,1.0,Over priced
+1538,"1727 Macdonald Street, Vancouver",3095000.0,For Sale,49.2705983,-123.1685364,8.0,4.0,14-Mar-25,Kitsilano,4+,Over priced
+1539,"7771 146a Street, Surrey",1525000.0,For Sale,49.1440627,-122.8166897,4.0,4.0,13-Mar-25,Surrey,4+,Fair price
+1540,"308 - 13969 96 Avenue, Surrey",646000.0,For Sale,49.1771955,-122.8361556,2.0,1.0,13-Mar-25,Surrey,2.0,Fair price
+1543,"506 - 625 Cottonwood Avenue, Coquitlam",909900.0,For Sale,49.2589467,-122.88446,2.0,1.0,13-Mar-25,Coquitlam,2.0,Fair price
+1544,"211 - 625 Cottonwood Avenue, Coquitlam",969900.0,For Sale,49.2589467,-122.88446,3.0,2.0,13-Mar-25,Coquitlam,3.0,Lower priced
+1545,"17 - 15235 Sitka Drive, Surrey",834900.0,For Sale,49.1455022,-122.7992451,2.0,3.0,13-Mar-25,Surrey,2.0,Fair price
+1547,"129 - 3535 Highland Drive, Coquitlam",1079900.0,For Sale,49.300677,-122.743632,3.0,3.0,13-Mar-25,Coquitlam,3.0,Fair price
+1548,"17 - 15155 62a Avenue, Surrey",799900.0,For Sale,49.1182781,-122.8059541,3.0,2.0,13-Mar-25,Surrey,3.0,Fair price
+1550,"848 38th Avenue, Vancouver",1728000.0,For Sale,49.2354495,-123.0872533,3.0,0.0,13-Mar-25,Kensington-Cedar Cottage,3.0,Over priced
+1551,"906 - 13696 100 Avenue, Surrey",598000.0,For Sale,49.1839769,-122.8427368,2.0,2.0,13-Mar-25,Surrey,2.0,Lower priced
+1552,"3103 - 689 Abbott Street, Vancouver",1068000.0,For Sale,49.2790597,-123.1079516,2.0,2.0,13-Mar-25,Downtown,2.0,Fair price
+1553,"2605 - 1199 Seymour Street, Vancouver",699000.0,For Sale,49.2768746,-123.1252014,1.0,1.0,13-Mar-25,Downtown,1.0,Fair price
+1554,"4150 Victory Street, Burnaby",2188000.0,For Sale,49.2181592,-123.0113723,5.0,2.0,13-Mar-25,Burnaby,4+,Fair price
+1555,"140 - 1169 Pacific Street, Coquitlam",488000.0,For Sale,49.28225,-122.79848,3.0,2.0,13-Mar-25,Coquitlam,3.0,Lower priced
+1560,"1503 - 10428 Whalley Boulevard, Surrey",489000.0,For Sale,49.19237,-122.8415042,1.0,1.0,13-Mar-25,Surrey,1.0,Fair price
+1561,"221 - 255 1st Street, North Vancouver",1039000.0,For Sale,49.3139221,-123.0842751,2.0,2.0,13-Mar-25,North Vancouver,2.0,Fair price
+1563,"4302 - 13696 100 Avenue, Surrey",648000.0,For Sale,49.1839769,-122.8427368,3.0,2.0,13-Mar-25,Surrey,3.0,Lower priced
+1564,"1505 - 7418 Paulson Street, Vancouver",1479900.0,For Sale,49.2173863,-123.1182747,2.0,2.0,13-Mar-25,Marpole,2.0,Over priced
+1565,"1004 - 1650 Bayshore Drive, Vancouver",2100000.0,For Sale,49.2918436,-123.1306158,2.0,2.0,13-Mar-25,Downtown,2.0,Over priced
+1566,"602 - 9388 Tomicki Avenue, Richmond",699900.0,For Sale,49.1800002,-123.1191278,2.0,2.0,13-Mar-25,Richmond,2.0,Fair price
+1567,"4313 Pender Street, Burnaby",2159900.0,For Sale,49.2803818,-123.0080761,7.0,4.0,13-Mar-25,Burnaby,4+,Fair price
+1568,"3800 Lockhart Road, Richmond",2499000.0,For Sale,49.1614937,-123.1836591,5.0,5.0,13-Mar-25,Richmond,4+,Fair price
+1569,"10655 No. 1 Road, Richmond",2268000.0,For Sale,49.1346443,-123.1813257,3.0,4.0,13-Mar-25,Richmond,3.0,Over priced
+1571,"11 - 8080 Francis Road, Richmond",1100000.0,For Sale,49.1481464,-123.1352017,3.0,3.0,13-Mar-25,Richmond,3.0,Fair price
+1572,"10560 Springfield Court, Richmond",1950000.0,For Sale,49.1352217,-123.1877535,5.0,7.0,13-Mar-25,Richmond,4+,Fair price
+1573,"307 - 1988 49th Avenue, Vancouver",699000.0,For Sale,49.2271134,-123.1515927,2.0,2.0,13-Mar-25,Kerrisdale,2.0,Lower priced
+1574,"4110 - 2108 Gilmore Avenue, Burnaby",1652900.0,For Sale,49.2653663,-123.0133104,3.0,2.0,13-Mar-25,Burnaby,3.0,Over priced
+1575,"1014 Lillooet Road, North Vancouver",995000.0,For Sale,49.3163144,-123.0218517,3.0,3.0,13-Mar-25,others,3.0,Lower priced
+1576,"805 - 8940 University Crescent, Burnaby",719000.0,For Sale,49.2804523,-122.908412,2.0,2.0,13-Mar-25,Burnaby,2.0,Fair price
+1577,"2310 - 928 Beatty Street, Vancouver",719900.0,For Sale,49.2761799,-123.1157375,1.0,1.0,13-Mar-25,Downtown,1.0,Fair price
+1578,"616 - 10065 133 Street, Surrey",389990.0,For Sale,49.1857413,-122.8543437,0.0,1.0,13-Mar-25,Surrey,0.0,Fair price
+1579,"1135 Groveland Court, West Vancouver",4398000.0,For Sale,49.3523124,-123.1464879,6.0,0.0,13-Mar-25,West Vancouver,4+,Fair price
+1580,"72 - 5531 Cornwall Drive, Richmond",1700000.0,For Sale,49.1718958,-123.1859952,3.0,4.0,13-Mar-25,Richmond,3.0,Over priced
+1581,"2686 Point Grey Road, Vancouver",1998000.0,For Sale,49.27209,-123.1659623,3.0,3.0,13-Mar-25,Kitsilano,3.0,Fair price
+1582,"1287 - 87 Nelson Street, Vancouver",699000.0,For Sale,49.2746415,-123.1151479,1.0,1.0,13-Mar-25,Downtown,1.0,Fair price
+1583,"43 - 16388 85 Avenue, Surrey",829000.0,For Sale,49.1570692,-122.7692907,3.0,3.0,13-Mar-25,Surrey,3.0,Fair price
+1584,"410 - 13623 81a Avenue, Surrey",499900.0,For Sale,49.1510539,-122.845311,1.0,1.0,13-Mar-25,Surrey,1.0,Fair price
+1585,"4975 Rupert Street, Vancouver",3499900.0,For Sale,49.239708,-123.0391519,5.0,2.0,13-Mar-25,Renfrew-Collingwood,4+,Over priced
+1586,"3228 45th Avenue, Vancouver",3388000.0,For Sale,49.2290641,-123.0367142,4.0,4.0,13-Mar-25,Killarney,4+,Over priced
+1587,"14349 Kindersley Drive, Surrey",1325000.0,For Sale,49.2048738,-122.8245064,3.0,2.0,13-Mar-25,Surrey,3.0,Over priced
+1588,"18791 60 Avenue, Surrey",1499000.0,For Sale,49.1115697,-122.7019716,2.0,2.0,13-Mar-25,Surrey,2.0,Over priced
+1589,"509 - 788 Hamilton Street, Vancouver",688000.0,For Sale,49.2789614,-123.115472,3.0,2.0,13-Mar-25,Downtown,3.0,Lower priced
+1590,"714 - 22 Cordova Street, Vancouver",609000.0,For Sale,49.282404,-123.1047989,4.0,5.0,13-Mar-25,Downtown,4+,Fair price
+1591,"201 - 16398 64 Avenue, Surrey",659000.0,For Sale,49.1185167,-122.7685545,2.0,2.0,13-Mar-25,Surrey,2.0,Fair price
+1592,"814 - 1010 Howe Street, Vancouver",579900.0,For Sale,49.2796103,-123.1240422,2.0,2.0,13-Mar-25,Downtown,2.0,Lower priced
+1593,"2801 - 7303 Noble Lane, Burnaby",634900.0,For Sale,49.2194426,-122.9491631,1.0,1.0,13-Mar-25,Burnaby,1.0,Fair price
+1594,"3719 3rd Avenue, Vancouver",5680000.0,For Sale,49.2697314,-123.1860994,5.0,4.0,13-Mar-25,West Point Grey,4+,Fair price
+1595,"7768 18th Avenue, Burnaby",1666666.0,For Sale,49.2235339,-122.9378574,2.0,1.0,13-Mar-25,Burnaby,2.0,Over priced
+1596,"4678 3rd Avenue, Vancouver",6688000.0,For Sale,49.2699915,-123.2141843,6.0,3.0,13-Mar-25,West Point Grey,4+,Fair price
+1597,"1330 15th Street, North Vancouver",2098000.0,For Sale,49.3219311,-123.0378131,6.0,4.0,13-Mar-25,others,4+,Fair price
+1598,"7951 Frobisher Drive, Richmond",1999998.0,For Sale,49.1563392,-123.1779181,4.0,3.0,13-Mar-25,Richmond,4+,Fair price
+1599,"15497 Rosemary Heights Crescent, Surrey",2060000.0,For Sale,49.0617202,-122.79345,4.0,2.0,13-Mar-25,Surrey,4+,Over priced
+1601,"1902 - 5470 Ormidale Street, Vancouver",719900.0,For Sale,49.2345014,-123.0245368,2.0,1.0,13-Mar-25,Renfrew-Collingwood,2.0,Lower priced
+1602,"408 - 3637 17th Avenue, Vancouver",899999.0,For Sale,49.2575963,-123.1859669,2.0,2.0,13-Mar-25,Dunbar-Southlands,2.0,Lower priced
+1603,"412 - 13439 94a Avenue, Surrey",479900.0,For Sale,49.1741006,-122.8502258,1.0,1.0,13-Mar-25,Surrey,1.0,Fair price
+1604,"13 - 9762 182a Street, Surrey",1049999.0,For Sale,49.1800576,-122.7156402,4.0,4.0,13-Mar-25,Surrey,4+,Lower priced
+1605,"301 - 3281 Kent Avenue North , Vancouver",788800.0,For Sale,49.2064039,-123.0374876,2.0,2.0,13-Mar-25,Killarney,2.0,Fair price
+1606,"13370 96 Avenue, Surrey",1649000.0,For Sale,49.1768089,-122.8522394,6.0,5.0,13-Mar-25,Surrey,4+,Fair price
+1607,"4922 Queensland Road, Vancouver",3680000.0,For Sale,49.2663937,-123.2238126,3.0,2.0,13-Mar-25,others,3.0,Over priced
+1608,"13548 15 Avenue, Surrey",1979999.0,For Sale,49.0291554,-122.8466398,5.0,2.0,13-Mar-25,Surrey,4+,Fair price
+1610,"696 16th Avenue, Vancouver",1399000.0,For Sale,49.2569201,-123.1198668,2.0,2.0,13-Mar-25,South Cambie,2.0,Over priced
+1611,"306 - 5663 Inman Avenue, Burnaby",849800.0,For Sale,49.2334317,-123.0162676,2.0,2.0,13-Mar-25,Burnaby,2.0,Fair price
+1612,"3801 - 2108 Gilmore Avenue, Burnaby",1228900.0,For Sale,49.2653663,-123.0133104,2.0,2.0,13-Mar-25,Burnaby,2.0,Over priced
+1613,"316 - 9877 University Crescent, Burnaby",658999.0,For Sale,49.2764992,-122.9088076,2.0,2.0,13-Mar-25,Burnaby,2.0,Lower priced
+1614,"2905 - 583 Beach Crescent, Vancouver",1788000.0,For Sale,49.27341,-123.1292831,2.0,2.0,13-Mar-25,Downtown,2.0,Over priced
+1615,"170 - 14150 58a Avenue, Surrey",899900.0,For Sale,49.1089056,-122.8307698,3.0,3.0,13-Mar-25,Surrey,3.0,Fair price
+1616,"14 - 9762 182a Street, Surrey",1049999.0,For Sale,49.1800576,-122.7156402,4.0,4.0,13-Mar-25,Surrey,4+,Lower priced
+1617,"5769 Hudson Street, Vancouver",3998000.0,For Sale,49.2335018,-123.1352828,7.0,11.0,13-Mar-25,Oakridge,4+,Fair price
+1619,"2315 - 10620 150 Street, Surrey",510000.0,For Sale,49.1961788,-122.8049788,2.0,1.0,13-Mar-25,Surrey,2.0,Lower priced
+1620,"2102 - 2108 Gilmore Avenue, Burnaby",1149900.0,For Sale,49.2653663,-123.0133104,2.0,2.0,13-Mar-25,Burnaby,2.0,Over priced
+1621,"1702 - 4788 Hazel Street, Burnaby",1138000.0,For Sale,49.2285208,-122.9973484,3.0,2.0,13-Mar-25,Burnaby,3.0,Fair price
+1622,"9 - 15065 58 Avenue, Surrey",819900.0,For Sale,49.1068714,-122.8048597,3.0,4.0,13-Mar-25,Surrey,3.0,Fair price
+1623,"3382 155 Street, Surrey",2699000.0,For Sale,49.0634316,-122.7925874,6.0,3.0,13-Mar-25,Surrey,4+,Over priced
+1624,"10255 Semiahmoo Road, Surrey",1699998.0,For Sale,49.1890648,-122.8619915,3.0,3.0,13-Mar-25,Surrey,3.0,Over priced
+1627,"608 - 6855 Pearson Way, Richmond",1368000.0,For Sale,49.1761849,-123.1471966,2.0,2.0,13-Mar-25,Richmond,2.0,Over priced
+1628,"207 - 1515 2nd Avenue, Vancouver",929000.0,For Sale,49.2698011,-123.1385727,1.0,2.0,13-Mar-25,Fairview,1.0,Over priced
+1629,"3306 - 10750 135a Street, Surrey",724999.0,For Sale,49.1975987,-122.8469471,2.0,2.0,13-Mar-25,Surrey,2.0,Fair price
+1630,"7994 Elwell Street, Burnaby",2488000.0,For Sale,49.2304209,-122.9362292,6.0,5.0,13-Mar-25,Burnaby,4+,Fair price
+1631,"5885 186a Street, Surrey",1469000.0,For Sale,49.1096942,-122.7063204,5.0,3.0,13-Mar-25,Surrey,4+,Fair price
+1632,"4611 - 2108 Gilmore Avenue, Burnaby",1126900.0,For Sale,49.2653663,-123.0133104,2.0,2.0,13-Mar-25,Burnaby,2.0,Over priced
+1633,"2704 - 10428 Whalley Boulevard, Surrey",599900.0,For Sale,49.19237,-122.8415042,2.0,1.0,13-Mar-25,Surrey,2.0,Fair price
+1634,"2612 - 13428 105 Avenue, Surrey",699999.0,For Sale,49.1927348,-122.8500408,1.0,1.0,13-Mar-25,Surrey,1.0,Over priced
+1635,"438 45th Avenue, Vancouver",4990000.0,For Sale,49.2295523,-123.1150466,3.0,2.0,13-Mar-25,Oakridge,3.0,Fair price
+1636,"2712- - 2722 176 Street, Surrey",15800000.0,For Sale,49.0515354,-122.7348491,1.0,1.0,13-Mar-25,Surrey,1.0,Over priced
+1639,"1302 - 7433 Cambie Street, Vancouver",729000.0,For Sale,49.2174221,-123.1174011,2.0,2.0,13-Mar-25,Marpole,2.0,Lower priced
+1640,"108 - 10616 132 Street, Surrey",789000.0,For Sale,49.1956285,-122.8561448,1.0,1.0,13-Mar-25,Surrey,1.0,Over priced
+1641,"5808 Portland Street, Burnaby",1749900.0,For Sale,49.2118406,-122.9788359,2.0,2.0,13-Mar-25,Burnaby,2.0,Over priced
+1642,"12764 104a Avenue, Surrey",1499800.0,For Sale,49.1922075,-122.8690028,5.0,4.0,13-Mar-25,Surrey,4+,Fair price
+1645,"3009 - 7358 Edmonds Street, Burnaby",677000.0,For Sale,49.2189994,-122.9503487,1.0,1.0,13-Mar-25,Burnaby,1.0,Fair price
+1646,"1203 - 6808 Minoru Boulevard , Richmond",1399000.0,For Sale,49.1633761,-123.1400946,3.0,2.0,13-Mar-25,Richmond,3.0,Fair price
+1647,"30 - 3387 King George Boulevard, Surrey",949000.0,For Sale,49.0629644,-122.8167121,2.0,3.0,13-Mar-25,Surrey,2.0,Over priced
+1648,"6583 Broadway , Burnaby",7112400.0,For Sale,49.261971,-122.9679504,6.0,3.0,13-Mar-25,Burnaby,4+,Over priced
+1649,"189 - 1331 Olmsted Street, Coquitlam",1289900.0,For Sale,49.2934524,-122.7415927,3.0,3.0,13-Mar-25,Coquitlam,3.0,Fair price
+1650,"414 - 333 1st Street, North Vancouver",679000.0,For Sale,49.3147147,-123.085971,1.0,1.0,13-Mar-25,North Vancouver,1.0,Lower priced
+1651,"2128 Eton Street, Vancouver",1150000.0,For Sale,49.2873744,-123.0603361,5.0,5.0,13-Mar-25,Grandview-Woodland,4+,Lower priced
+1652,"1304 - 6699 Dunblane Avenue, Burnaby",1060000.0,For Sale,49.2222005,-122.9930653,3.0,3.0,13-Mar-25,Burnaby,3.0,Fair price
+1653,"801 - 1555 Eastern Avenue, North Vancouver",878000.0,For Sale,49.3230294,-123.0711857,4.0,4.0,13-Mar-25,North Vancouver,4+,Lower priced
+1654,"116 - 7240 Lindsay Road, Richmond",249900.0,For Sale,49.1600234,-123.1664418,1.0,1.0,13-Mar-25,Richmond,1.0,Lower priced
+1655,"1203 - 885 Cambie Street, Vancouver",1350000.0,For Sale,49.2773685,-123.1164868,2.0,2.0,13-Mar-25,Downtown,2.0,Fair price
+1656,"8166 Luton Road, Richmond",3788000.0,For Sale,49.1541575,-123.1349208,5.0,6.0,13-Mar-25,Richmond,4+,Over priced
+1657,"6262 Angus Drive, Vancouver",9388000.0,For Sale,49.2292724,-123.1474785,6.0,7.0,13-Mar-25,Kerrisdale,4+,Over priced
+1658,"3609 Turner Street, Vancouver",1999000.0,For Sale,49.279347,-123.0253239,6.0,4.0,13-Mar-25,Hastings-Sunrise,4+,Fair price
+1659,"6046 145 Street, Surrey",1650000.0,For Sale,49.1127226,-122.8202443,6.0,4.0,13-Mar-25,Surrey,4+,Fair price
+1660,"1509 - 4815 Eldorado Mews, Vancouver",499800.0,For Sale,49.2415498,-123.0580068,1.0,1.0,13-Mar-25,Renfrew-Collingwood,1.0,Lower priced
+1661,"320 - 15745 Croydon Drive, Surrey",618000.0,For Sale,49.0481318,-122.7857801,1.0,1.0,13-Mar-25,Surrey,1.0,Over priced
+1662,"1904 - 7683 Park Crescent, Burnaby",936900.0,For Sale,49.2097159,-122.9495044,2.0,2.0,13-Mar-25,Burnaby,2.0,Fair price
+1663,"125 W 41st Avenue, Vancouver",1588000.0,For Sale,49.2335095,-123.1088633,3.0,3.0,13-Mar-25,Riley Park,3.0,Lower priced
+1664,"1211 - 10777 University Drive, Surrey",424900.0,For Sale,49.1984084,-122.8513645,1.0,1.0,13-Mar-25,Surrey,1.0,Lower priced
+1665,"2985 Altamont Crescent, West Vancouver",8998000.0,For Sale,49.3461227,-123.1953926,5.0,8.0,13-Mar-25,West Vancouver,4+,Over priced
+1669,"311 - 1363 Clyde Avenue, West Vancouver",811000.0,For Sale,49.3290019,-123.1539524,2.0,1.0,13-Mar-25,West Vancouver,2.0,Lower priced
+1670,"204 - 1484 Charles Street, Vancouver",499000.0,For Sale,49.2728308,-123.0738624,1.0,1.0,13-Mar-25,Grandview-Woodland,1.0,Lower priced
+1671,"2496 27th Avenue, Vancouver",1339000.0,For Sale,49.2460699,-123.054495,3.0,4.0,13-Mar-25,Renfrew-Collingwood,3.0,Fair price
+1672,"241 - 13888 70 Avenue, Surrey",659000.0,For Sale,49.1298194,-122.8368261,2.0,2.0,13-Mar-25,Surrey,2.0,Fair price
+1673,"985 33rd Avenue, Vancouver",3820000.0,For Sale,49.2416609,-123.1269613,6.0,3.0,13-Mar-25,South Cambie,4+,Fair price
+1674,"223 - 2970 King George Boulevard, Surrey",745000.0,For Sale,49.0564346,-122.8053519,2.0,2.0,13-Mar-25,Surrey,2.0,Fair price
+1675,"506 - 3319 148 Street, Surrey",699900.0,For Sale,49.0626356,-122.8135451,3.0,1.0,13-Mar-25,Surrey,3.0,Lower priced
+1676,"323 - 7431 Blundell Road, Richmond",549000.0,For Sale,49.1560708,-123.1419826,1.0,1.0,13-Mar-25,Richmond,1.0,Lower priced
+1677,"3401 - 6699 Dunblane Avenue, Burnaby",1749000.0,For Sale,49.2222005,-122.9930653,3.0,2.0,13-Mar-25,Burnaby,3.0,Over priced
+1678,"1001 - 551 Austin Avenue, Coquitlam",725000.0,For Sale,49.24958,-122.88919,1.0,1.0,13-Mar-25,Coquitlam,1.0,Over priced
+1679,"902 - 585 Austin Avenue, Coquitlam",719000.0,For Sale,49.2495538,-122.8865991,1.0,1.0,13-Mar-25,Coquitlam,1.0,Over priced
+1680,"64 - 2070 Oak Meadows Drive, Surrey",799000.0,For Sale,49.039057,-122.7698609,4.0,3.0,13-Mar-25,Surrey,4+,Lower priced
+1681,"220 - 13623 81a Avenue, Surrey",484888.0,For Sale,49.1510539,-122.845311,1.0,1.0,13-Mar-25,Surrey,1.0,Fair price
+1682,"103 - 13978 Fraser Highway, Surrey",899888.0,For Sale,49.1786165,-122.8350304,4.0,3.0,12-Mar-25,Surrey,4+,Lower priced
+1683,"1206 Como Lake Avenue, Coquitlam",1639900.0,For Sale,49.2632819,-122.8589408,5.0,2.0,12-Mar-25,Coquitlam,4+,Fair price
+1684,"3906 Lockhart Road, Richmond",2490000.0,For Sale,49.1615121,-123.1826396,5.0,5.0,12-Mar-25,Richmond,4+,Fair price
+1685,"2106 - 505 Nelson Street, Coquitlam",944900.0,For Sale,49.2494204,-122.8649479,2.0,1.0,12-Mar-25,Coquitlam,2.0,Fair price
+1686,"16 - 2978 Walton Avenue, Coquitlam",635000.0,For Sale,49.2892801,-122.7952953,2.0,2.0,12-Mar-25,Coquitlam,2.0,Lower priced
+1689,"2329 49th Avenue, Vancouver",1738000.0,For Sale,49.2275723,-123.160561,2.0,2.0,12-Mar-25,Kerrisdale,2.0,Fair price
+1690,"11 - 14271 60 Avenue, Surrey",799888.0,For Sale,49.1120727,-122.8273979,5.0,4.0,12-Mar-25,Surrey,4+,Lower priced
+1691,"112 - 2222 Cambridge Street, Vancouver",630000.0,For Sale,49.2863651,-123.0591259,2.0,1.0,12-Mar-25,Grandview-Woodland,2.0,Lower priced
+1692,"52 - 15233 34th Avenue, Surrey",849900.0,For Sale,49.0638612,-122.8001635,3.0,4.0,12-Mar-25,Surrey,3.0,Fair price
+1693,"7746 Lucas Road, Richmond",9880000.0,For Sale,49.1516207,-123.1379764,6.0,7.0,12-Mar-25,Richmond,4+,Over priced
+1694,"16505 26 Avenue, Surrey",4980000.0,For Sale,49.0495905,-122.7649327,7.0,8.0,12-Mar-25,Surrey,4+,Over priced
+1695,"20 - 2501 161a Street, Surrey",998000.0,For Sale,49.0479587,-122.7755973,3.0,3.0,12-Mar-25,Surrey,3.0,Fair price
+1696,"410 - 1858 5th Avenue, Vancouver",899000.0,For Sale,49.2668379,-123.1468815,1.0,1.0,11-Mar-25,Kitsilano,1.0,Over priced
+1697,"309 - 306 W 1st Street, North Vancouver",560000.0,For Sale,49.3149863,-123.085004,4.0,4.0,15-Mar-25,North Vancouver,4+,Lower priced
+1698,"3575 Sunset Lane, West Vancouver",1998000.0,For Sale,49.3400449,-123.2154049,5.0,4.0,14-Mar-25,West Vancouver,4+,Lower priced
+1699,"414 - 3528 146a Street, Surrey",639600.0,For Sale,49.0658678,-122.816853,2.0,2.0,14-Mar-25,Surrey,2.0,Fair price
+1700,"317 15th Street, North Vancouver",2090000.0,For Sale,49.3219197,-123.0794793,3.0,2.0,14-Mar-25,North Vancouver,3.0,Over priced
+1702,"22 - 22788 Norton Court, Richmond",889000.0,For Sale,49.1752703,-122.9699657,2.0,3.0,14-Mar-25,Richmond,2.0,Fair price
+1703,"14 - 1454 162b Street, Surrey",1399900.0,For Sale,49.0285702,-122.771305,4.0,4.0,14-Mar-25,Surrey,4+,Fair price
+1704,"608 - 3331 Brown Road, Richmond",679000.0,For Sale,49.1862002,-123.1298776,1.0,1.0,14-Mar-25,Richmond,1.0,Fair price
+1705,"1101 - 1616 Bayshore Drive, Vancouver",2299000.0,For Sale,49.2915244,-123.1297818,2.0,2.0,14-Mar-25,Downtown,2.0,Over priced
+1706,"128 - 1833 165a Street, Surrey",949900.0,For Sale,49.035036,-122.7636738,3.0,3.0,14-Mar-25,Surrey,3.0,Fair price
+1707,"611 - 707 Como Lake Avenue, Coquitlam",1048800.0,For Sale,49.2637687,-122.8824957,2.0,2.0,14-Mar-25,Coquitlam,2.0,Over priced
+1708,"442 14th Street, North Vancouver",2100000.0,For Sale,49.3213681,-123.0836675,2.0,0.0,14-Mar-25,North Vancouver,2.0,Over priced
+1709,"2204 - 128 15th Street, North Vancouver",3388000.0,For Sale,49.3222278,-123.073712,3.0,4.0,14-Mar-25,North Vancouver,3.0,Over priced
+1710,"3160 Grandview Highway, Vancouver",3650000.0,For Sale,49.2578683,-123.0375867,6.0,2.0,14-Mar-25,Renfrew-Collingwood,4+,Over priced
+1711,"458 25th Street, North Vancouver",1549000.0,For Sale,49.3324912,-123.0839119,2.0,2.0,14-Mar-25,North Vancouver,2.0,Over priced
+1713,"2206 - 7433 Cambie Street, Vancouver",1319900.0,For Sale,49.2174221,-123.1174011,2.0,2.0,14-Mar-25,Marpole,2.0,Fair price
+1714,"809 - 9171 Ferndale Road, Richmond",798000.0,For Sale,49.1692795,-123.1234012,2.0,2.0,14-Mar-25,Richmond,2.0,Fair price
+1715,"1908 - 3080 Lincoln Avenue, Coquitlam",784800.0,For Sale,49.27863,-122.78949,3.0,3.0,14-Mar-25,Coquitlam,3.0,Lower priced
+1716,"10218 173 Street, Surrey",4600000.0,For Sale,49.18831,-122.74241,4.0,3.0,14-Mar-25,Surrey,4+,Over priced
+1717,"5931 Forsyth Crescent, Richmond",2498800.0,For Sale,49.1705363,-123.1804204,5.0,4.0,14-Mar-25,Richmond,4+,Fair price
+1718,"1025 King Georges Way, West Vancouver",10060000.0,For Sale,49.350272,-123.1449273,5.0,6.0,14-Mar-25,West Vancouver,4+,Over priced
+1719,"1450 Pipeline Road, Coquitlam",1398000.0,For Sale,49.3022315,-122.7759672,2.0,1.0,14-Mar-25,Coquitlam,2.0,Over priced
+1721,"303 - 1575 Beach Avenue, Vancouver",730000.0,For Sale,49.2831224,-123.1413054,1.0,1.0,14-Mar-25,West End,1.0,Fair price
+1722,"1402 - 4458 Beresford Street, Burnaby",890000.0,For Sale,49.2251804,-123.0049229,2.0,2.0,14-Mar-25,Burnaby,2.0,Fair price
+1723,"313 - 163 175a Street, Surrey",789900.0,For Sale,49.004766,-122.737643,1.0,1.0,14-Mar-25,Surrey,1.0,Over priced
+1724,"501 - 4900 Lennox Lane, Burnaby",599000.0,For Sale,49.2233214,-122.993728,2.0,2.0,14-Mar-25,Burnaby,2.0,Lower priced
+1725,"6451 Beatrice Street, Vancouver",1568000.0,For Sale,49.2257936,-123.0673364,1.0,1.0,14-Mar-25,Victoria-Fraserview,1.0,Fair price
+1727,"10039 173 Street, Surrey",1369000.0,For Sale,49.1850276,-122.7431736,2.0,2.0,14-Mar-25,Surrey,2.0,Over priced
+1730,"1702 - 638 Beach Crescent, Vancouver",1595000.0,For Sale,49.2734086,-123.1301951,3.0,3.0,14-Mar-25,Downtown,3.0,Fair price
+1731,"2881 Kamloops Street, Vancouver",989900.0,For Sale,49.2584443,-123.0550512,2.0,2.0,14-Mar-25,Renfrew-Collingwood,2.0,Over priced
+1732,"1406 - 2688 West Mall, Vancouver",2098000.0,For Sale,49.2558736,-123.247512,3.0,3.0,14-Mar-25,others,3.0,Over priced
+1733,"83 - 350 174 Street, Surrey",1450000.0,For Sale,49.0080561,-122.7399713,2.0,3.0,14-Mar-25,Surrey,2.0,Over priced
+1734,"16059 9a Avenue, Surrey",2499999.0,For Sale,49.0193736,-122.7778306,8.0,7.0,14-Mar-25,Surrey,4+,Over priced
+1735,"427 - 1252 Town Centre Boulevard, Coquitlam",548000.0,For Sale,49.2875354,-122.7951688,1.0,1.0,13-Mar-25,Coquitlam,1.0,Lower priced
+1736,"2205 - 1251 Cardero Street, Vancouver",379000.0,For Sale,49.2849938,-123.1398662,1.0,1.0,13-Mar-25,West End,1.0,Lower priced
+1737,"14059 91 Avenue, Surrey",1868888.0,For Sale,49.1684797,-122.8331791,4.0,3.0,13-Mar-25,Surrey,4+,Fair price

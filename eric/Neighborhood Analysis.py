@@ -10,7 +10,7 @@ property_data = pd.read_csv('cleaned_data/filteredPropertyInVancouver.csv')
 property_data = property_data[property_data['Price Type'] == 'For Sale']
 
 # Load the neighborhood boundary data
-neighborhoods = gpd.read_file('raw_data/merged_vancouver_burnaby.geojson')
+neighborhoods = gpd.read_file('Bella/merged_geojson_file/merged_FINAL.geojson')
 
 # Convert the property coordinates to GeoDataFrame
 geometry = [Point(xy) for xy in zip(property_data['Longitude'], property_data['Latitude'])]
@@ -59,6 +59,23 @@ neighborhood_beds_summary = pd.DataFrame({
 }).join(price_stats)
 
 # Output the result to a CSV file
-neighborhood_beds_summary.to_csv('neighborhood_beds_summary.csv')
+neighborhood_beds_summary.to_csv('cleaned_data/neighborhood_beds_summary.csv')
 
-print("Neighborhood and bedroom summary has been saved to 'neighborhood_beds_summary.csv'")
+# Function to find the neighborhood for each property
+def find_neighborhood(row):
+    # Check which neighborhood the property belongs to
+    for _, neighborhood in neighborhoods.iterrows():
+        if neighborhood['geometry'].contains(row['geometry']):
+            return neighborhood['name']  # Assuming 'name' is the column for neighborhood names
+    return 'others'
+
+# Assign the neighborhood to each property
+property_gdf['Neighborhood'] = property_gdf.apply(find_neighborhood, axis=1)
+
+# Convert back to a regular DataFrame if needed
+property_data = pd.DataFrame(property_gdf.drop(columns='geometry'))
+
+property_data.to_csv('cleaned_data/property_with_neighborhood.csv')
+
+
+print("Neighborhood and bedroom summary has been saved to 'neighborhood_beds_summary.csv' and 'property_with_neighborhood.csv'")
