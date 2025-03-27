@@ -7,7 +7,7 @@ api_key = ""
 
 # List of valid cities (only these addresses will trigger geocoding and be output)
 valid_cities = ["Vancouver", "Burnaby", "Richmond",
-                "Surrey", "Coquitlam", "West Vancouver", "North Vancouver"]
+                "Surrey", "Coquitlam", "West Vancouver", "North Vancouver", "Delta"]
 
 
 def extract_city(address):
@@ -89,14 +89,14 @@ latitudes = []
 longitudes = []
 
 property_list = []
-start_page = 800
+start_page = 0
 csv_file = '/Users/anthony/Desktop/cmpt733 final project/cleaned_data/filteredPropertyInVancouver.csv'
 
 # Open the PDF file and extract data from pages
-with open('/Users/anthony/Desktop/cmpt733 final project/Raw_data/data6.pdf', 'rb') as file:
+with open('/Users/anthony/Desktop/cmpt733 final project/Raw_data/data15.pdf', 'rb') as file:
     reader = PyPDF2.PdfReader(file)
     # Loop through pages (adjust the range as needed)
-    for page_num in range(start_page, 1112):
+    for page_num in range(start_page, 1505):
         # Clear previous page data
         addresses.clear()
         prices.clear()
