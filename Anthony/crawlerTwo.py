@@ -93,10 +93,10 @@ start_page = 0
 csv_file = '/Users/anthony/Desktop/cmpt733 final project/cleaned_data/filteredPropertyInVancouver.csv'
 
 # Open the PDF file and extract data from pages
-with open('/Users/anthony/Desktop/cmpt733 final project/Raw_data/data15.pdf', 'rb') as file:
+with open('/Users/anthony/Desktop/cmpt733 final project/Raw_data/data19.pdf', 'rb') as file:
     reader = PyPDF2.PdfReader(file)
     # Loop through pages (adjust the range as needed)
-    for page_num in range(start_page, 1505):
+    for page_num in range(start_page, 679):
         # Clear previous page data
         addresses.clear()
         prices.clear()
