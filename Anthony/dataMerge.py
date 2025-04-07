@@ -9,6 +9,14 @@ housing_cpi = pd.read_csv('../cleaned_data/new_cpi_data.csv')
 average_income = pd.read_csv('../cleaned_data/industrial_aggregate_timeseries.csv')
 unEmpRate = pd.read_csv('../cleaned_data/cleaned_unemployment.csv')
 
+commercial_bp = pd.read_csv('../cleaned_data/Residential Building Permits Commercial Building Permits.csv')
+industrial_bp = pd.read_csv('../cleaned_data/Residential Building Permits Industrial Building Permits.csv')
+instAndGovers_bp = pd.read_csv('../cleaned_data/Residential Building Permits Institutional and Government Building Permits.csv')
+singleUnits_bp = pd.read_csv('../cleaned_data/Residential Building Permits Number of single dwelling units.csv')
+apartsUnits_bp = pd.read_csv('../cleaned_data/Residential Building Permits Number of apartment units.csv')
+rowsDewll_bp = pd.read_csv('../cleaned_data/Residential Building Permits row dwelling.csv')
+totalNumbers_bp = pd.read_csv('../cleaned_data/Residential Building Permits totalNumber.csv')
+
 # 如果房地产数据的日期列名为 Date，可以重命名为 YearMonth
 real_estate_df.rename(columns={'Date': 'YearMonth'}, inplace=True)
 
@@ -43,8 +51,60 @@ df_ump = pd.merge(
     how="inner"     # 只保留两边都有的日期
 )
 
+df_commercial_bp = pd.merge(
+    df_ump,
+    commercial_bp,
+    on="Date",      # 根据 Date 列进行合并
+    how="inner"     # 只保留两边都有的日期
+)
+df_commercial_bp = df_commercial_bp.drop(columns=['Month'])
+
+
+df_industrial_bp = pd.merge(
+    df_commercial_bp,
+    industrial_bp,
+    on="Date",      # 根据 Date 列进行合并
+    how="inner"     # 只保留两边都有的日期
+)
+df_industrial_bp = df_industrial_bp.drop(columns=['Month'])
+df_instAndGovers_bp = pd.merge(
+    df_industrial_bp,
+    instAndGovers_bp,
+    on="Date",      # 根据 Date 列进行合并
+    how="inner"     # 只保留两边都有的日期
+)
+df_instAndGovers_bp = df_instAndGovers_bp.drop(columns=['Month'])
+df_singleUnits_bp = pd.merge(
+    df_instAndGovers_bp,
+    singleUnits_bp,
+    on="Date",      # 根据 Date 列进行合并
+    how="inner"     # 只保留两边都有的日期
+)
+df_singleUnits_bp = df_singleUnits_bp.drop(columns=['Month'])
+df_apartsUnits_bp = pd.merge(
+    df_singleUnits_bp,
+    apartsUnits_bp,
+    on="Date",      # 根据 Date 列进行合并
+    how="inner"     # 只保留两边都有的日期
+)
+df_apartsUnits_bp = df_apartsUnits_bp.drop(columns=['Month'])
+df_rowsDewll_bp = pd.merge(
+    df_apartsUnits_bp,
+    rowsDewll_bp,
+    on="Date",      # 根据 Date 列进行合并
+    how="inner"     # 只保留两边都有的日期
+)
+df_rowsDewll_bp = df_rowsDewll_bp.drop(columns=['Month'])
+df_totalNumbers_bp = pd.merge(
+    df_rowsDewll_bp,
+    totalNumbers_bp,
+    on="Date",      # 根据 Date 列进行合并
+    how="inner"     # 只保留两边都有的日期
+)
+df_totalNumbers_bp = df_totalNumbers_bp.drop(columns=['Month'])
+
 # # 查看合并后的数据
-df_ump.to_csv("../cleaned_data/mergeData.csv",
+df_totalNumbers_bp.to_csv("../cleaned_data/mergeData.csv",
                index=False, encoding="utf-8-sig")
 
 
