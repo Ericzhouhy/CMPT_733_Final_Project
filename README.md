@@ -59,6 +59,7 @@ Visit the Tableau dashboard (link shared internally) and:
 - Filter properties by **neighborhood**, **price range**, or **number of bedrooms**
 - Hover over listings to see price, size, and predicted benchmark
 - Explore **interactive maps**, **valuation tags**, and **summary statistics**
+- https://public.tableau.com/views/CMPT733VancouverRealEstate/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -82,4 +83,4 @@ Visit the Tableau dashboard (link shared internally) and:
 Special thanks to **CMPT 733 instructors and TAs** for their guidance throughout this project. We hope this system contributes to better housing decisions in one of Canada’s most complex real estate markets.
 
 
-https://public.tableau.com/views/CMPT733VancouverRealEstate/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
