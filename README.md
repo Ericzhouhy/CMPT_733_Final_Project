@@ -96,8 +96,8 @@ This project includes scripts for scraping, preprocessing, modeling, and exporti
 
 ```bash
 # Step 1: Data scraping
-
-
+python3 crawlerTwo.py
+python3 dataMerge.py
 # Step 2: Data cleaning and geospatial mapping
 python3 house_price_cleaner.py
 Run cleand_data_visulization.ipynb
