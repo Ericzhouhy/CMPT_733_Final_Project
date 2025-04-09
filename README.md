@@ -1,6 +1,6 @@
 # 🏠 Real Estate Property Investment Recommendation System  
 **CMPT 733 Final Project – Group Gongxifacai**  
-Huanyu Zhou, Lingjie Li, Xia Meng, Enze Zhou  
+Huanyu Zhou, Lingjie Li, Xia Meng, Enze Jiang
 
 ## 📌 Project Overview
 This project aims to assist **homebuyers, real estate investors, policymakers, and researchers** in navigating the complex Greater Vancouver housing market by integrating **machine learning**, **geospatial analytics**, and **economic indicators**. Our system analyzes historical price trends, predicts future benchmark housing prices, and identifies **overvalued/undervalued properties** using a real-time, interactive **Tableau dashboard**.
