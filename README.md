@@ -68,6 +68,32 @@ Features include:
 
 ---
 
+## 🔧 How to Run the Code
+
+This project includes scripts for scraping, preprocessing, modeling, and exporting data for Tableau.
+
+### 📁 Main Files
+
+| File | Purpose |
+|------|---------|
+| `house_price_cleaner.py` | Clean house price(HPI) dataset |
+
+
+## ▶️ Run Instructions
+
+```bash
+# Step 1: Data scraping
+
+
+# Step 2: Data cleaning and geospatial mapping
+python3 house_price_cleaner.py
+
+# Step 3: Model training & prediction
+
+
+# Step 4: Generate Tableau-ready output
+```
+
 ## 📚 Lessons Learned
 - ⚙️ **Data Integration is hard** — especially across sources and resolutions
 - 🕒 **Time-aware modeling** is essential to avoid leakage
@@ -77,16 +103,16 @@ Features include:
 
 ---
 
+## 🖼️ Project Poster
+![Project Poster](poster.png)
+
+---
+
 ## 📦 References
 - [CMHC Housing Data](https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data)  
 - [CREA National Stats](https://stats.crea.ca/en-CA/)  
 - [Greater Vancouver MLS® HPI](https://www.gvrealtors.ca/market-watch/MLS-HPI-home-price-comparison.hpi.greater_vancouver.all.all.2021-12-1.html)  
 - [Kaggle Vancouver Price Data](https://www.kaggle.com/datasets/jennyzzhu/vancouver-house-prices-for-past-20-years)
-
----
-
-## 🖼️ Project Poster
-![Project Poster](poster.png)
 
 ---
 
