@@ -85,5 +85,12 @@ Features include:
 
 ---
 
+## 🖼️ Project Poster
+![Project Poster](poster.png)
+
+---
+
 ## 🙌 Acknowledgements
 Thanks to the CMPT 733 teaching team for their support, and to all contributors in the Greater Vancouver real estate data ecosystem.
+
+
