@@ -77,6 +77,9 @@ This project includes scripts for scraping, preprocessing, modeling, and exporti
 | File | Purpose |
 |------|---------|
 | `house_price_cleaner.py` | Clean house price(HPI) dataset |
+| `house_price_visulization.ipynb` | Clean house price(HPI) visulization |
+| `cleand_data_visulization.ipynb` | Cleaned data visulization |
+| `property_listings_map.html` | Property list visulization|
 
 
 ## ▶️ Run Instructions
@@ -87,6 +90,7 @@ This project includes scripts for scraping, preprocessing, modeling, and exporti
 
 # Step 2: Data cleaning and geospatial mapping
 python3 house_price_cleaner.py
+Run cleand_data_visulization.ipynb
 
 # Step 3: Model training & prediction
 
