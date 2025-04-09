@@ -1,5 +1,5 @@
 # 🏠 Real Estate Property Investment Recommendation System  
-**CMPT 733 Final Project – Group Gongxifacai**  
+**CMPT 733 2025 Spring Final Project – Group Gongxifacai**  
 Huanyu Zhou, Lingjie Li, Xia Meng, Enze Jiang
 
 ## 📌 Project Overview
