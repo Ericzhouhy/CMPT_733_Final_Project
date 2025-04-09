@@ -2,10 +2,19 @@
 **CMPT 733 2025 Spring Final Project – Group Gongxifacai**  
 Huanyu Zhou, Lingjie Li, Xia Meng, Enze Jiang
 
-## 📌 Project Overview
-This project helps **homebuyers**, **real estate investors**, **urban planners**, and **researchers** navigate the Greater Vancouver housing market. By integrating **machine learning**, **economic indicators**, and **geospatial data**, we identify housing price trends, neighborhood-level variations, and pinpoint **under/overvalued properties** — all presented in an interactive, real-time **Tableau dashboard**.
+---
 
-🔗 **[Live Tableau Dashboard](https://public.tableau.com/views/CMPT733VancouverRealEstate/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+## 📌 Overview
+Greater Vancouver's real estate market is complex and expensive. This project uses **machine learning**, **geospatial analysis**, and **economic indicators** to help:
+- 🏡 **Homebuyers & Sellers**: Understand price trends for better timing  
+- 💼 **Investors**: Discover under/overvalued properties  
+- 🏙️ **Urban Planners**: Explore effects of unemployment, income, and development  
+- 📊 **Researchers**: Reuse our data pipeline for similar tasks
+
+We combine historical trends, real-time listings, and predictive modeling — all presented via a **dynamic Tableau dashboard**.
+
+🔗 **[Live Tableau Dashboard](https://public.tableau.com/views/CMPT733VancouverRealEstate/Dashboard1)**  
+🔗 **[GitHub Repo Link](https://github.com/Ericzhouhy/CMPT_733_Final_Project)**
 
 ---
 
