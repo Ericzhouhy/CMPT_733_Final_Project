@@ -86,9 +86,27 @@ This project includes scripts for scraping, preprocessing, modeling, and exporti
 | File | Purpose |
 |------|---------|
 | `house_price_cleaner.py` | Clean house price(HPI) dataset |
-| `house_price_visulization.ipynb` | Clean house price(HPI) visulization |
+| `house_price.py` | train model to predict next month housing benchmark |
+| `house_price_cleaner.py` | Clean house price(HPI) dataset |
 | `cleand_data_visulization.ipynb` | Cleaned data visulization |
 | `property_listings_map.html` | Property list visulization|
+
+
+## ▶️ Run Instructions
+
+```bash
+# Step 1: Data scraping
+
+
+# Step 2: Data cleaning and geospatial mapping
+python3 house_price_cleaner.py
+Run cleand_data_visulization.ipynb
+
+# Step 3: Model training & prediction
+python3 house_price.py
+
+# Step 4: Generate Tableau-ready output
+```
 
 
 ## ▶️ Run Instructions
