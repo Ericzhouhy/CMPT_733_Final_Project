@@ -14,7 +14,9 @@ Greater Vancouver's real estate market is complex and expensive. This project us
 We combine historical trends, real-time listings, and predictive modeling — all presented via a **dynamic Tableau dashboard**.
 
 🔗 **[Live Tableau Dashboard](https://public.tableau.com/views/CMPT733VancouverRealEstate/Dashboard1)**  
-🔗 **[GitHub Repo Link](https://github.com/Ericzhouhy/CMPT_733_Final_Project)**
+🔗 **[GitHub Repo Link](https://github.com/Ericzhouhy/CMPT_733_Final_Project)** \
+🔗 **[Youtube Link](https://youtu.be/51a-gDl93e4)**
+
 
 ---
 
