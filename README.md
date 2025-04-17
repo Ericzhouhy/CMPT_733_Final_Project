@@ -94,6 +94,15 @@ This project includes scripts for scraping, preprocessing, modeling, and exporti
 | `property_listings_map.html` | Property list visulization |
 | `crawlerTwo.py` | Web data crawler |
 | `dataMerge.py` | Merge crawler data |
+| `HPI_data_scraper_lower_mainland.py` | Web scrawler for HPI data of lower mainland |
+| `HPI_data_lower_mainland_cleaner.py` |  Data cleaner for HPI data of lower mainland |
+| `HPI_visualization_lower_mainland_all_type.py` | Data visualization code for HPI data of lower mainland |
+| `HPI_data_scrapper_different_areas.py` | Web scrawler for HPI data of different areas |
+| `HPI_data_different_areas_cleaner.py` | Data cleaner for HPI data of different areas |
+| `HPI_visualization_different_areas.py` | Data visualization code for HPI data of different areas |
+| `house_price_prediction.py` | Price predication model with low accuracy |
+| `Neighborhood Analysis.py` | Data analysis for the neighborhood data |
+| `overprice_check.py` | Data analysis to determine whether a property is over-priced or lower-priced |
 
 
 ## ▶️ Run Instructions
